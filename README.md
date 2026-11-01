@@ -2,7 +2,7 @@
 
 *Marharyta Shvets · Eötvös Loránd University (ELTE), Budapest · October 2026 · first phase*
 
-Investigative errors cost innocent people years of their lives. The National Registry of Exonerations
+Errors in investigations cost innocent people years of their lives. The National Registry of Exonerations
 lists over 3,000 wrongful convictions in the USA, and mistaken identification is among the most common
 causes. AI agents are starting to draft police reports and summarise case files. If an agent's memory
 cannot keep **what was known, and when**, it can repeat the oldest error of investigations: a story that
