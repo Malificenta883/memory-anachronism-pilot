@@ -1,0 +1,180 @@
+{"id": "DC_m01_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine her current location, as the last update was from 2026-07-15. \nConfidence: 0"}
+{"id": "DS_m01_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she lives now, as the last update was in 2026 and I don't have any information about her current residence. \n\nConfidence: 0"}
+{"id": "NC_m01_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have enough information to determine where she lives now, as the previous conversations only mentioned two possible locations: Vienna and Budapest. Confidence: 0"}
+{"id": "NS_m01_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she lives now, as the previous information indicates that she lives in both Vienna and Budapest, but it's unclear which one is the current residence.\n\nConfidence: 0"}
+{"id": "DC_m01_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she lives now, as the last saved memory is from 2026-07-15, and I don't have any more recent information. Confidence: 0%"}
+{"id": "DS_m01_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have enough information to determine where she lives now, but it seems she moved from Prague to Warsaw between our previous conversations. Confidence: 50."}
+{"id": "NC_m01_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have any information on where she lives now, as I only have conflicting memories from previous conversations. I can't determine her current location. Confidence: 0"}
+{"id": "NS_m01_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she lives now. My confidence level is 0%."}
+{"id": "DC_m01_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have information about her current location, as the most recent saved memory is from 2026-07-15. \nConfidence: 0"}
+{"id": "DS_m01_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have any recent information to confirm her current location, but based on the previous conversations, I don't have enough data to pinpoint her exact location now. Confidence: 0"}
+{"id": "NC_m01_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she lives now, as both Lisbon and Madrid were mentioned as her previous residences. Confidence: 0."}
+{"id": "NS_m01_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she lives now, but it is possible that she lives in Lisbon or Madrid, or perhaps her location has changed since our last conversation. Confidence: 20."}
+{"id": "DC_m01_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have any saved memories about her current workplace, so I can't provide a confident answer. Confidence: 0"}
+{"id": "DS_m01_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Bluefield Labs. Confidence: 100"}
+{"id": "NC_m01_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she works now, as her current job is not specified. Confidence: 0"}
+{"id": "NS_m01_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Bluefield Labs. Confidence: 100."}
+{"id": "DC_m01_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Ardent Data. \n Confidence: 100"}
+{"id": "DS_m01_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have any information about her current job, as my saved memories only go up to 2026-07-15. \n\nConfidence: 0"}
+{"id": "NC_m01_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she works now, as I have conflicting information that she works at both Corvel Systems and Ardent Data."}
+{"id": "NS_m01_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I'm unable to determine where she currently works, as the information provided only shows that she has worked at Corvel Systems and Ardent Data in the past. \nConfidence: 0%"}
+{"id": "DC_m01_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. Confidence: 100"}
+{"id": "DS_m01_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Quillstone Media. Confidence: 100"}
+{"id": "NC_m01_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at both Maple Ridge Studio and Quillstone Media, suggesting a potential overlap or transition in her employment. Confidence: 80"}
+{"id": "NS_m01_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. Confidence: 100"}
+{"id": "DC_m01_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I do not have enough information to answer the question.\n\nConfidence: 0"}
+{"id": "DS_m01_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she trains now, as the last saved memory is from 2026-07-15 and I don't know if it's current. Confidence: 0"}
+{"id": "NC_m01_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine her current training location, as I only have records of her training at Ironleaf Gym and Harbour Fitness, but not her current affiliation. Confidence: 0"}
+{"id": "NS_m01_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have enough information to determine where she trains now, as I only know that she has trained at both Ironleaf Gym and Harbour Fitness in the past. Confidence: 0."}
+{"id": "DC_m01_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she trains now, as there is no record of a more recent conversation. \n\nConfidence: 0"}
+{"id": "DS_m01_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. Confidence: 100."}
+{"id": "NC_m01_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have any information about her current training location. Confidence: 0%"}
+{"id": "NS_m01_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have any information about where she trains now. \n\nConfidence: 0"}
+{"id": "DC_m01_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have any information about her current training location, as there are no records of her training location in the past year. My confidence is 0."}
+{"id": "DS_m01_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have any information about her current training location. \nConfidence: 0"}
+{"id": "NC_m01_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I'm unable to determine the current training location of the user. \n Confidence: 0%"}
+{"id": "NS_m01_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she trains now. \nConfidence: 0"}
+{"id": "DC_m03_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. \n100"}
+{"id": "DS_m03_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. \nConfidence: 60 \n\nI'm not entirely sure if she still lives in Budapest, as the information about her moving to Budapest is only from July, and there is earlier information that she lives in Vienna."}
+{"id": "NC_m03_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. Confidence: 100"}
+{"id": "NS_m03_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Vienna. Confidence: 60\n\nNote: My confidence is lower than usual because we have a mix of memories indicating both Budapest and Vienna, and I'm trying to reconcile the two."}
+{"id": "DC_m03_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "According to the saved memories, she lives in Warsaw, as mentioned on 2026-07-15. Confidence: 100."}
+{"id": "DS_m03_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. \nConfidence: 80%"}
+{"id": "NC_m03_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Prague now. Confidence: 95."}
+{"id": "NS_m03_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. \nConfidence: 60 \n\n(This answer is uncertain due to conflicting memories about her living in Prague and Warsaw.)"}
+{"id": "DC_m03_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. \nConfidence: 100%"}
+{"id": "DS_m03_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid now. Confidence: 100"}
+{"id": "NC_m03_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Based on my saved memories, it appears that she lives in Madrid now. Confidence: 60"}
+{"id": "NS_m03_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. (Confidence: 100)"}
+{"id": "DC_m03_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. Confidence: 100"}
+{"id": "DS_m03_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. \nConfidence: 100"}
+{"id": "NC_m03_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. \nConfidence: 100%"}
+{"id": "NS_m03_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Bluefield Labs. Confidence: 100"}
+{"id": "DC_m03_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. \nConfidence: 100%"}
+{"id": "DS_m03_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. \nConfidence: 100"}
+{"id": "NC_m03_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Corvel Systems. (Confidence: 100)"}
+{"id": "NS_m03_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. Confidence: 100"}
+{"id": "DC_m03_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media.\n\nConfidence: 100"}
+{"id": "DS_m03_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. \nConfidence: 100"}
+{"id": "NC_m03_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. Confidence: 100"}
+{"id": "NS_m03_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Quillstone Media, which suggests a change from her previous mention of working at Maple Ridge Studio. Confidence: 60"}
+{"id": "DC_m03_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100%"}
+{"id": "DS_m03_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100"}
+{"id": "NC_m03_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100."}
+{"id": "NS_m03_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100"}
+{"id": "DC_m03_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. (Confidence: 100)"}
+{"id": "DS_m03_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall, which is the most recent information. \nConfidence: 90."}
+{"id": "NC_m03_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. Confidence: 100%"}
+{"id": "NS_m03_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Peak Motion Club. Confidence: 100%"}
+{"id": "DC_m03_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. \nConfidence: 100"}
+{"id": "DS_m03_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I'm not aware of any information that suggests she trains at a specific location as of the current date, as the most recent memory only mentions her training at the Lantern Climbing Centre, which doesn't provide information about the current training location.\n\n Confidence: 0"}
+{"id": "NC_m03_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre, which suggests she has switched gyms since she previously mentioned training at Copperfield Gym. Confidence: 80."}
+{"id": "NS_m03_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "Unfortunately, I don't have any information about her current training location, but it's possible that she still trains at Lantern Climbing Centre, as that was mentioned in a previous conversation. Confidence: 20."}
+{"id": "DC_m05_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. Confidence: 100."}
+{"id": "DS_m05_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. \nConfidence: 100"}
+{"id": "NC_m05_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "According to the saved memories, she lives in Vienna, which contradicts the new information that she lives in Budapest. Therefore, I will update the information that she lives in Budapest.\n\nShe lives in Budapest.\n\n Confidence: 100%"}
+{"id": "NS_m05_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. Confidence: 100%"}
+{"id": "DC_m05_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw now. Confidence: 100."}
+{"id": "DS_m05_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. Confidence: 80"}
+{"id": "NC_m05_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. \nConfidence: 100%"}
+{"id": "NS_m05_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. \n Confidence: 80%"}
+{"id": "DC_m05_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. Confidence: 100"}
+{"id": "DS_m05_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. Confidence: 90."}
+{"id": "NC_m05_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. \nConfidence: 90"}
+{"id": "NS_m05_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. Confidence: 60%"}
+{"id": "DC_m05_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. Confidence: 100"}
+{"id": "DS_m05_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. Confidence: 100."}
+{"id": "NC_m05_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. Confidence: 100."}
+{"id": "NS_m05_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Northwind Analytics. \nConfidence: 90"}
+{"id": "DC_m05_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. Confidence: 100%"}
+{"id": "DS_m05_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data, as mentioned in the conversation on 2026-07-15. Confidence: 100"}
+{"id": "NC_m05_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Corvel Systems. Confidence: 100"}
+{"id": "NS_m05_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. \nConfidence: 90"}
+{"id": "DC_m05_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. \nConfidence: 100"}
+{"id": "DS_m05_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She now works at Quillstone Media. Confidence: 100%"}
+{"id": "NC_m05_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. \n\nConfidence: 100"}
+{"id": "NS_m05_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. (Confidence: 100%)"}
+{"id": "DC_m05_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100%"}
+{"id": "DS_m05_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100."}
+{"id": "NC_m05_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. (Confidence: 100)"}
+{"id": "NS_m05_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. Confidence: 100"}
+{"id": "DC_m05_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. \n Confidence: 100"}
+{"id": "DS_m05_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. Confidence: 100%"}
+{"id": "NC_m05_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. \n100%"}
+{"id": "NS_m05_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall, and Peak Motion Club is mentioned in the context of her trainer and yoga class, but it's not clear if she still trains there. Confidence: 50"}
+{"id": "DC_m05_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. \n\nConfidence: 100"}
+{"id": "DS_m05_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. Confidence: 100."}
+{"id": "NC_m05_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Copperfield Gym. \nConfidence: 90"}
+{"id": "NS_m05_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. Confidence: 100%"}
+{"id": "DC_m10_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. \nMy confidence is 100."}
+{"id": "DS_m10_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. \nConfidence: 80. I am relatively confident in this answer because it is based on a specific statement made by the user on 2026-07-15, but it conflicts with the other statements that suggest she lives in Vienna, so there is some uncertainty."}
+{"id": "NC_m10_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. Confidence: 100."}
+{"id": "NS_m10_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest.\n\n Confidence: 95"}
+{"id": "DC_m10_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. Confidence: 80"}
+{"id": "DS_m10_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw now. Confidence: 100%"}
+{"id": "NC_m10_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. I have 100% confidence in this answer because it directly contradicts all previous memories, which consistently placed her in Prague."}
+{"id": "NS_m10_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Prague. Confidence: 100"}
+{"id": "DC_m10_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. Confidence: 100."}
+{"id": "DS_m10_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. \nConfidence: 90"}
+{"id": "NC_m10_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Lisbon. \n Confidence: 100"}
+{"id": "NS_m10_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. \nConfidence: 80 \n\nThis is because she previously mentioned living in Lisbon, but there is no explicit mention of her moving to Madrid."}
+{"id": "DC_m10_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. Confidence: 100."}
+{"id": "DS_m10_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. \nConfidence: 100"}
+{"id": "NC_m10_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. \n\nConfidence: 100"}
+{"id": "NS_m10_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Northwind Analytics. \n\nConfidence: 100"}
+{"id": "DC_m10_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. Confidence: 100."}
+{"id": "DS_m10_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. \nConfidence: 100%"}
+{"id": "NC_m10_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. \nConfidence: 100."}
+{"id": "NS_m10_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Corvel Systems. Confidence: 100."}
+{"id": "DC_m10_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. Confidence: 100."}
+{"id": "DS_m10_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Quillstone Media. \nConfidence: 100"}
+{"id": "NC_m10_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. \nConfidence: 100%"}
+{"id": "NS_m10_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. \nConfidence: 100"}
+{"id": "DC_m10_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness now. \nConfidence: 100"}
+{"id": "DS_m10_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. Confidence: 100."}
+{"id": "NC_m10_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. Confidence: 100%"}
+{"id": "NS_m10_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \n Confidence: 100%"}
+{"id": "DC_m10_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She now trains at Riverside Sports Hall. \n Confidence: 100"}
+{"id": "DS_m10_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. Confidence: 100."}
+{"id": "NC_m10_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Peak Motion Club. \nConfidence: 90."}
+{"id": "NS_m10_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 100"}
+{"id": "DC_m10_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. \nConfidence: 100%"}
+{"id": "DS_m10_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. Confidence: 100."}
+{"id": "NC_m10_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. \nConfidence: 100"}
+{"id": "NS_m10_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Copperfield Gym and Lantern Climbing Centre, but since there is no indication of her stopping training at Copperfield Gym, it can be assumed that she still trains there. Confidence: 80"}
+{"id": "DC_m20_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. Confidence: 100. The user's statement on 2026-07-15 explicitly mentions that she lives in Budapest, which is a clear and direct statement."}
+{"id": "DS_m20_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest."}
+{"id": "NC_m20_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "I don't have enough information to determine where she lives now, as the last conversation mentioned Budapest, which contradicts the previous information that she lives in Vienna. \n\nConfidence: 0"}
+{"id": "NS_m20_city_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Budapest. Confidence: 100%"}
+{"id": "DC_m20_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. Confidence: 100"}
+{"id": "DS_m20_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. \nConfidence: 100"}
+{"id": "NC_m20_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. \n Confidence: 100"}
+{"id": "NS_m20_city_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Warsaw. \nConfidence: 100"}
+{"id": "DC_m20_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. I have a confidence level of 100, as she explicitly stated this in a previous conversation."}
+{"id": "DS_m20_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. Confidence: 100"}
+{"id": "NC_m20_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. Confidence: 100"}
+{"id": "NS_m20_city_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She lives in Madrid. Confidence: 100"}
+{"id": "DC_m20_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. \nConfidence: 100."}
+{"id": "DS_m20_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. Confidence: 100"}
+{"id": "NC_m20_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Bluefield Labs. \nConfidence: 100%"}
+{"id": "NS_m20_employer_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Northwind Analytics. Confidence: 100."}
+{"id": "DC_m20_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She now works at Ardent Data. Confidence: 100."}
+{"id": "DS_m20_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. Confidence: 100."}
+{"id": "NC_m20_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. Confidence: 100"}
+{"id": "NS_m20_employer_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Ardent Data. Confidence: 100."}
+{"id": "DC_m20_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She now works at Quillstone Media. Confidence: 100."}
+{"id": "DS_m20_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. Confidence: 100%"}
+{"id": "NC_m20_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She works at Quillstone Media. \nConfidence: 100%"}
+{"id": "NS_m20_employer_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She currently works at Quillstone Media. Confidence: 100%"}
+{"id": "DC_m20_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100"}
+{"id": "DS_m20_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. Confidence: 100%"}
+{"id": "NC_m20_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \nConfidence: 100 \n\nNote: There is only one instance where it's mentioned that she trains at Harbour Fitness, while it's repeatedly mentioned that she trains at Ironleaf Gym, making Harbour Fitness the clear correct answer."}
+{"id": "NS_m20_gym_0", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Harbour Fitness. \n\nConfidence: 100%"}
+{"id": "DC_m20_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. \n\nConfidence: 100"}
+{"id": "DS_m20_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. Confidence: 100%"}
+{"id": "NC_m20_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. \nConfidence: 100"}
+{"id": "NS_m20_gym_1", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Riverside Sports Hall. \nConfidence: 100."}
+{"id": "DC_m20_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. Confidence: 100."}
+{"id": "DS_m20_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. \nConfidence: 100"}
+{"id": "NC_m20_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre. Confidence: 100."}
+{"id": "NS_m20_gym_2", "rep": 0, "model": "llama3.1:8b", "temperature": null, "answer": "She trains at Lantern Climbing Centre, although she also mentioned training at Copperfield Gym in previous conversations, which may indicate she still goes there or used to. Confidence: 60."}

@@ -1,0 +1,180 @@
+{"id": "DC_m01_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It’s unclear where she currently lives, as my information indicates she has lived in both Vienna and Budapest. \n\nConfidence: 30\n"}
+{"id": "DS_m01_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "I cannot definitively answer where she lives now, as the information I have regarding her location is contradictory – she was previously recorded as living in both Vienna and Budapest. \n\nConfidence: 30% \n"}
+{"id": "NC_m01_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It’s unclear where she currently lives, as she has previously been associated with both Vienna and Budapest. \n\nConfidence: 30 \n"}
+{"id": "NS_m01_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "I cannot definitively answer where she lives now because the information provided states she lives in both Vienna and Budapest. \n\nConfidence: 30\n"}
+{"id": "DC_m01_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It’s unclear where she currently lives, as my information indicates she has lived in both Prague and Warsaw. \n\nConfidence: 30 \n"}
+{"id": "DS_m01_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It’s unclear where she currently lives, as her location has been inconsistent between Warsaw and Prague. \n\nConfidence: 30\n"}
+{"id": "NC_m01_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It’s unclear where she currently lives as the information provided indicates she has lived in both Prague and Warsaw. \n\nConfidence: 30/100 \n"}
+{"id": "NS_m01_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It’s unclear where she currently lives, as she has previously been associated with both Warsaw and Prague. \n\nConfidence: 30\n"}
+{"id": "DC_m01_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "I cannot definitively determine where she lives now because my saved memories conflict – she was previously stated to live in both Lisbon and Madrid. \n\nConfidence: 30/100 \n"}
+{"id": "DS_m01_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "I cannot definitively answer where she lives now, as the information I have indicates she has lived in both Lisbon and Madrid. \n\nConfidence: 30\n"}
+{"id": "NC_m01_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It seems there’s conflicting information, as she has previously been stated to live in both Lisbon and Madrid. \n\nConfidence: 30\n"}
+{"id": "NS_m01_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "It appears there’s conflicting information, as she has previously been identified as living in both Lisbon and Madrid. \n\nConfidence: 30\n"}
+{"id": "DC_m01_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 80\n"}
+{"id": "DS_m01_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 90\n"}
+{"id": "NC_m01_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Northwind Analytics and Bluefield Labs. \n\nConfidence: 70 \n"}
+{"id": "NS_m01_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Northwind Analytics. \n\nConfidence: 90 \n"}
+{"id": "DC_m01_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data. \n\nConfidence: 100"}
+{"id": "DS_m01_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data. \n\nConfidence: 100"}
+{"id": "NC_m01_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Corvel Systems. \n\nConfidence: 95 \n"}
+{"id": "NS_m01_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Corvel Systems. \n\nConfidence: 95 \n"}
+{"id": "DC_m01_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "Currently, she works at Quillstone Media. \n\nConfidence: 90\n"}
+{"id": "DS_m01_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Quillstone Media. \n\nConfidence: 95\n"}
+{"id": "NC_m01_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Maple Ridge Studio and Quillstone Media. \n\nConfidence: 80 \n"}
+{"id": "NS_m01_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Quillstone Media and Maple Ridge Studio. \n\nConfidence: 60% \n\n**Note:** I’m providing a combined answer because the previous conversations presented information about her working at both locations. However, the confidence level is reduced because it’s possible one of those roles is no longer current."}
+{"id": "DC_m01_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Harbour Fitness. \n\nConfidence: 100"}
+{"id": "DS_m01_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Harbour Fitness. \n\nConfidence: 80\n"}
+{"id": "NC_m01_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 80 \n"}
+{"id": "NS_m01_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 80 \n"}
+{"id": "DC_m01_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall. \n\nConfidence: 100\n"}
+{"id": "DS_m01_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall. \n\nConfidence: 100\n"}
+{"id": "NC_m01_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 100\n"}
+{"id": "NS_m01_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Riverside Sports Hall and Peak Motion Club. \n\nConfidence: 100 \n"}
+{"id": "DC_m01_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Lantern Climbing Centre.\n\nConfidence: 100\n"}
+{"id": "DS_m01_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Lantern Climbing Centre.\n\nConfidence: 100\n"}
+{"id": "NC_m01_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Copperfield Gym and Lantern Climbing Centre. \n\nConfidence: 100\n"}
+{"id": "NS_m01_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Copperfield Gym and Lantern Climbing Centre. \n\nConfidence: 100 \n"}
+{"id": "DC_m03_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 100\n"}
+{"id": "DS_m03_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "Based on the provided memories, it’s unclear where she currently lives, as her location has fluctuated between Budapest and Vienna. \n\nConfidence: 30/100 \n\n**Reasoning:** \n\nThe memories are contradictory (Budapest and Vienna), suggesting the information is unreliable or that the user has changed locations recently. There's no definitive statement about her current residence."}
+{"id": "NC_m03_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 95% \n\n**Reasoning:** While she previously mentioned living in Vienna, the final piece of information explicitly states she lives in Budapest. The other statements about Vienna are likely recollections from earlier in the conversation."}
+{"id": "NS_m03_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Vienna. \n\nConfidence: 80% \n\n**Reasoning:** While there’s a conflicting memory about Budapest, the repeated mentions of her flat and neighbors in Vienna strongly suggest that’s where she currently resides. The Budapest information is likely an older recollection."}
+{"id": "DC_m03_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Warsaw. \n\nConfidence: 90\n"}
+{"id": "DS_m03_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She lives in Warsaw. \n\nConfidence: 80\n"}
+{"id": "NC_m03_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Warsaw. \n\nConfidence: 95%"}
+{"id": "NS_m03_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Warsaw. \n\nConfidence: 95% \n\n**Reasoning:** While she previously mentioned living in Prague and discussing her flat and neighbors there, the most recent information indicates she now resides in Warsaw."}
+{"id": "DC_m03_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Madrid. \n\nConfidence: 95% \n\n**Reasoning:** The most recent memory (2026-07-15) explicitly states she lives in Madrid, overriding the previous statements about Lisbon.\n"}
+{"id": "DS_m03_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Madrid. \n\nConfidence: 95% \n\n**Reasoning:** The most recent memory (2026-07-15) explicitly states she lives in Madrid, overriding the previous Lisbon memories.\n"}
+{"id": "NC_m03_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Madrid. \n\nConfidence: 95%"}
+{"id": "NS_m03_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Madrid. \n\nConfidence: 95%"}
+{"id": "DC_m03_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 100\n"}
+{"id": "DS_m03_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 95\n"}
+{"id": "NC_m03_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Northwind Analytics and Bluefield Labs. \n\nConfidence: 80% \n"}
+{"id": "NS_m03_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 95\n"}
+{"id": "DC_m03_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data. \n\nConfidence: 100"}
+{"id": "DS_m03_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data. \n\nConfidence: 100\n"}
+{"id": "NC_m03_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Corvel Systems and Ardent Data. \n\nConfidence: 90\n"}
+{"id": "NS_m03_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Corvel Systems and Ardent Data. \n\nConfidence: 90\n"}
+{"id": "DC_m03_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Quillstone Media. \n\nConfidence: 95\n"}
+{"id": "DS_m03_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Quillstone Media. \n\nConfidence: 95% \n\n**Reasoning:** While there are mentions of Maple Ridge Studio earlier, the most recent memory (2026-07-15) explicitly states she works at Quillstone Media. This is the most recent and direct piece of information."}
+{"id": "NC_m03_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Maple Ridge Studio and Quillstone Media. \n\nConfidence: 95%"}
+{"id": "NS_m03_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Quillstone Media and Maple Ridge Studio. \n\nConfidence: 90\n"}
+{"id": "DC_m03_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at Harbour Fitness now.\n\nConfidence: 100\n"}
+{"id": "DS_m03_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Harbour Fitness. \n\nConfidence: 100"}
+{"id": "NC_m03_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 90\n"}
+{"id": "NS_m03_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 90\n"}
+{"id": "DC_m03_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall. \n\nConfidence: 100"}
+{"id": "DS_m03_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Peak Motion Club. \n\nConfidence: 95\n"}
+{"id": "NC_m03_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 95% \n"}
+{"id": "NS_m03_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Riverside Sports Hall and Peak Motion Club. \n\nConfidence: 95% \n"}
+{"id": "DC_m03_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Lantern Climbing Centre.\n\nConfidence: 95\n"}
+{"id": "DS_m03_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Lantern Climbing Centre.\n\nConfidence: 95\n"}
+{"id": "NC_m03_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Copperfield Gym and Lantern Climbing Centre. \n\nConfidence: 100\n"}
+{"id": "NS_m03_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Copperfield Gym and Lantern Climbing Centre. \n\nConfidence: 95%"}
+{"id": "DC_m05_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 100\n"}
+{"id": "DS_m05_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 100 \n"}
+{"id": "NC_m05_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Budapest. \n\nConfidence: 95% \n\n(Despite several mentions of Vienna, the final statement explicitly states she lives in Budapest.)"}
+{"id": "NS_m05_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Budapest. \n\nConfidence: 100"}
+{"id": "DC_m05_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Warsaw.\n\nConfidence: 100\n"}
+{"id": "DS_m05_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "Based on the provided memories, she currently lives in Prague. Confidence: 80% \n\n**Note:** There’s a conflicting memory stating she lives in Warsaw, but the majority of her conversations focus on Prague."}
+{"id": "NC_m05_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Warsaw. \n\nConfidence: 100\n"}
+{"id": "NS_m05_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Prague. \n\nConfidence: 95% \n"}
+{"id": "DC_m05_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Madrid. \n\nConfidence: 100\n"}
+{"id": "DS_m05_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She lives in Madrid now. \n\nConfidence: 95\n"}
+{"id": "NC_m05_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Madrid. \n\nConfidence: 100\n"}
+{"id": "NS_m05_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She lives in Madrid now. \n\nConfidence: 100\n"}
+{"id": "DC_m05_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 100 \n"}
+{"id": "DS_m05_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 95%"}
+{"id": "NC_m05_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Northwind Analytics and Bluefield Labs. \n\nConfidence: 95%"}
+{"id": "NS_m05_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 100"}
+{"id": "DC_m05_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data. \n\nConfidence: 100\n"}
+{"id": "DS_m05_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data and Corvel Systems. \n\nConfidence: 95\n"}
+{"id": "NC_m05_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Corvel Systems and Ardent Data. \n\nConfidence: 95%"}
+{"id": "NS_m05_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Ardent Data and Corvel Systems. \n\nConfidence: 95 \n"}
+{"id": "DC_m05_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Quillstone Media. \n\nConfidence: 100"}
+{"id": "DS_m05_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Quillstone Media. \n\nConfidence: 100\n"}
+{"id": "NC_m05_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Maple Ridge Studio and Quillstone Media. \n\nConfidence: 95% \n"}
+{"id": "NS_m05_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Maple Ridge Studio and Quillstone Media. \n\nConfidence: 95% \n"}
+{"id": "DC_m05_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now trains at Harbour Fitness. \n\nConfidence: 100"}
+{"id": "DS_m05_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Harbour Fitness and Ironleaf Gym. \n\nConfidence: 95 \n"}
+{"id": "NC_m05_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 95 \n"}
+{"id": "NS_m05_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 95 \n"}
+{"id": "DC_m05_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall.\n\nConfidence: 100\n"}
+{"id": "DS_m05_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall. \n\nConfidence: 95%"}
+{"id": "NC_m05_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 95\n"}
+{"id": "NS_m05_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 100 \n"}
+{"id": "DC_m05_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Copperfield Gym and Lantern Climbing Centre.\n\nConfidence: 95\n"}
+{"id": "DS_m05_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Copperfield Gym. \n\nConfidence: 95\n"}
+{"id": "NC_m05_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Copperfield Gym and Lantern Climbing Centre.\n\nConfidence: 100\n"}
+{"id": "NS_m05_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Lantern Climbing Centre.\n\nConfidence: 95\n"}
+{"id": "DC_m10_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 100 \n"}
+{"id": "DS_m10_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 100"}
+{"id": "NC_m10_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 100\n"}
+{"id": "NS_m10_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Budapest. \n\nConfidence: 95%"}
+{"id": "DC_m10_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Warsaw. \n\nConfidence: 100\n"}
+{"id": "DS_m10_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Warsaw. \n\nConfidence: 100"}
+{"id": "NC_m10_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Warsaw. \n\nConfidence: 100"}
+{"id": "NS_m10_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in both Prague and Warsaw. \n\nConfidence: 95% \n\n**Note:** The conflicting information about living in both Prague and Warsaw suggests a recent move or a situation where she maintains connections in both cities."}
+{"id": "DC_m10_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Madrid. \n\nConfidence: 100"}
+{"id": "DS_m10_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Lisbon.\n\nConfidence: 95\n"}
+{"id": "NC_m10_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in both Lisbon and Madrid. \n\nConfidence: 80% \n\n**Note:** The conflicting information about living in Lisbon and Madrid suggests a recent move or a situation where she maintains connections in both locations."}
+{"id": "NS_m10_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Madrid. \n\nConfidence: 100 \n"}
+{"id": "DC_m10_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Bluefield Labs. \n\nConfidence: 95\n"}
+{"id": "DS_m10_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Bluefield Labs. \n\nConfidence: 100"}
+{"id": "NC_m10_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Northwind Analytics and Bluefield Labs. \n\nConfidence: 95%"}
+{"id": "NS_m10_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Northwind Analytics and Bluefield Labs.\n\nConfidence: 95\n"}
+{"id": "DC_m10_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Ardent Data. \n\nConfidence: 100"}
+{"id": "DS_m10_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Corvel Systems. \n\nConfidence: 95\n"}
+{"id": "NC_m10_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Corvel Systems and Ardent Data. \n\nConfidence: 95%"}
+{"id": "NS_m10_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data. \n\nConfidence: 100"}
+{"id": "DC_m10_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Quillstone Media. \n\nConfidence: 100"}
+{"id": "DS_m10_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Maple Ridge Studio. \n\nConfidence: 95\n"}
+{"id": "NC_m10_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Maple Ridge Studio and Quillstone Media. \n\nConfidence: 95\n"}
+{"id": "NS_m10_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She works at Maple Ridge Studio. 100 \n\n**Confidence Level: 100** – The user has repeatedly and consistently stated she works at Maple Ridge Studio across numerous previous conversations."}
+{"id": "DC_m10_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now trains at Harbour Fitness.\n\nConfidence: 100"}
+{"id": "DS_m10_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Ironleaf Gym. \n\nConfidence: 95\n"}
+{"id": "NC_m10_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 95 \n\n**Reasoning:** The conversation explicitly states she trains at both locations. While she initially focused heavily on Ironleaf Gym, the final statement definitively includes Harbour Fitness."}
+{"id": "NS_m10_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Harbour Fitness and Ironleaf Gym. \n\nConfidence: 95 \n"}
+{"id": "DC_m10_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall. \n\nConfidence: 100"}
+{"id": "DS_m10_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Riverside Sports Hall and Peak Motion Club. \n\nConfidence: 85"}
+{"id": "NC_m10_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 95 \n"}
+{"id": "NS_m10_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 95\n"}
+{"id": "DC_m10_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Copperfield Gym and Lantern Climbing Centre. \n\nConfidence: 85 \n"}
+{"id": "DS_m10_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Copperfield Gym and Lantern Climbing Centre. \n\nConfidence: 95"}
+{"id": "NC_m10_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Copperfield Gym and Lantern Climbing Centre.\n\nConfidence: 95\n"}
+{"id": "NS_m10_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Copperfield Gym and Lantern Climbing Centre.\n\nConfidence: 95\n"}
+{"id": "DC_m20_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 95"}
+{"id": "DS_m20_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 95\n"}
+{"id": "NC_m20_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 95"}
+{"id": "NS_m20_city_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Budapest. \n\nConfidence: 100 \n"}
+{"id": "DC_m20_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Warsaw. Confidence: 100 \n"}
+{"id": "DS_m20_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She lives in Prague. Confidence: 100 \n"}
+{"id": "NC_m20_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Warsaw. \n\nConfidence: 100"}
+{"id": "NS_m20_city_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She lives in Prague.\n\nConfidence: 100"}
+{"id": "DC_m20_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Madrid. Confidence: 100\n"}
+{"id": "DS_m20_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Madrid. \n\nConfidence: 95"}
+{"id": "NC_m20_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now lives in Madrid. \n\nConfidence: 100\n"}
+{"id": "NS_m20_city_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently lives in Lisbon. \n\nConfidence: 100\n"}
+{"id": "DC_m20_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Bluefield Labs. \n\nConfidence: 95\n"}
+{"id": "DS_m20_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She works at Northwind Analytics. 100 \n\n**Confidence: 100** – The user has repeatedly stated she works at Northwind Analytics across numerous conversations, establishing it as a central and consistently referenced location."}
+{"id": "NC_m20_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Northwind Analytics and Bluefield Labs. \n\nConfidence: 95%"}
+{"id": "NS_m20_employer_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She works at Bluefield Labs and Northwind Analytics. \n\nConfidence: 100"}
+{"id": "DC_m20_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Ardent Data. \n\nConfidence: 100"}
+{"id": "DS_m20_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data. \n\nConfidence: 95"}
+{"id": "NC_m20_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at Ardent Data.\n\nConfidence: 100"}
+{"id": "NS_m20_employer_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently works at both Corvel Systems and Ardent Data.\n\nConfidence: 100"}
+{"id": "DC_m20_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Quillstone Media. 100 \n\n"}
+{"id": "DS_m20_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Quillstone Media. 100 \n\n**Confidence: 100** – The user explicitly stated “She works at Quillstone Media” in a recent conversation (2026-07-15)."}
+{"id": "NC_m20_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Quillstone Media. \n\nConfidence: 100"}
+{"id": "NS_m20_employer_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now works at Quillstone Media. \n\nConfidence: 100"}
+{"id": "DC_m20_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She now trains at Harbour Fitness. \n\nConfidence: 100"}
+{"id": "DS_m20_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Harbour Fitness. Confidence: 95 \n"}
+{"id": "NC_m20_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 95\n"}
+{"id": "NS_m20_gym_0", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Ironleaf Gym and Harbour Fitness. \n\nConfidence: 95 \n"}
+{"id": "DC_m20_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall. \n\nConfidence: 95"}
+{"id": "DS_m20_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Riverside Sports Hall. \n\nConfidence: 80 \n"}
+{"id": "NC_m20_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 90\n"}
+{"id": "NS_m20_gym_1", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at both Peak Motion Club and Riverside Sports Hall. \n\nConfidence: 95"}
+{"id": "DC_m20_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Copperfield Gym. \n\nConfidence: 95"}
+{"id": "DS_m20_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She currently trains at Lantern Climbing Centre.\n\nConfidence: 95\n"}
+{"id": "NC_m20_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at both Copperfield Gym and Lantern Climbing Centre. \n\nConfidence: 95"}
+{"id": "NS_m20_gym_2", "rep": 0, "model": "gemma3:4b", "temperature": null, "answer": "She trains at Lantern Climbing Centre and Copperfield Gym. \n\nConfidence: 95 \n"}

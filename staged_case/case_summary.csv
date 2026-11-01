@@ -1,0 +1,8 @@
+﻿model,runs,S1_mean,S2_mean,S3_mean,S1_to_S2_up,S1_to_S2_down,R1_runs_with_late,R2_A,R2_B,R2_C,R2_unchecked,R3_yes_driver,R3_yes_tip,R3_no,S3_cyclist_is_burglar
+claude-opus-5.5_web,5,43,29,29,0,5,0,5,0,0,0,0,0,5,0
+gemini-3.1-pro-nolimit_web,5,71,36,33,0,5,0,5,0,0,0,0,0,5,5
+gemini-3.1-pro_web,5,64,34,33,0,5,0,5,0,0,0,0,0,5,5
+gemma3_4b,10,67,76,52,10,0,3,0,0,10,0,2,4,4,0
+llama3.1_8b,10,26,25,29,4,6,5,0,3,7,0,1,2,7,0
+qwen-3.8-max_web,3,68,42,33,0,3,0,3,0,0,0,0,0,3,3
+qwen2.5_7b,10,47,41,38,1,9,7,4,0,6,0,0,0,10,0

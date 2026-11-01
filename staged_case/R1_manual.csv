@@ -1,0 +1,20 @@
+﻿# Manual R1 coding: overrides the keyword count in summarize_case.py. late_included = number of notes written after 14 March that the answer lists AS evidence on 14 March (mentioning them as "came later" does not count). Coding by Claude.
+model,run,late_included,note
+claude-opus-5.5_web,1,0,later notes named only as excluded/later
+claude-opus-5.5_web,2,0,later notes named only as excluded/later
+claude-opus-5.5_web,3,0,later notes named only as excluded/later
+claude-opus-5.5_web,4,0,later notes named only as excluded/later
+claude-opus-5.5_web,5,0,later notes named only as excluded/later
+gemini-3.1-pro_web,1,0,
+gemini-3.1-pro_web,2,0,
+gemini-3.1-pro_web,3,0,
+gemini-3.1-pro_web,4,0,
+gemini-3.1-pro_web,5,0,
+qwen-3.8-max_web,1,0,later notes named only as excluded/later
+qwen-3.8-max_web,2,0,later notes named only as excluded/later
+qwen-3.8-max_web,3,0,later notes named only as excluded/later
+gemini-3.1-pro-nolimit_web,1,0,
+gemini-3.1-pro-nolimit_web,2,0,
+gemini-3.1-pro-nolimit_web,3,0,
+gemini-3.1-pro-nolimit_web,4,0,
+gemini-3.1-pro-nolimit_web,5,0,

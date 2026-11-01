@@ -1,0 +1,787 @@
+run1:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%.
+
+Based solely on the provided notes, Daniel K.’s proximity to the crime scene, coupled with the presence of a similar jacket in his flat and identification by a witness in a line-up, suggests he may have been involved, though the lack of fingerprints and his inconsistent statements weaken this possibility.
+
+So far, the case involves a burglary at a bicycle shop on March 1st, with multiple witnesses offering conflicting descriptions of the perpetrator, CCTV footage of an unidentified individual, and Daniel K.’s movements being tracked via phone data and a jacket found in his flat.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. 
+
+Considering Daniel K.'s proximity to the scene, the discovery of a matching jacket, and identification in a line-up, the probability of his involvement has increased significantly, although inconsistencies in his statements remain a factor.
+
+So far, the investigation centers on Daniel K., who was near the crime scene and possessed a relevant item, alongside the emergence of Ivo P. as a potential suspect, with conflicting accounts from witnesses and limited forensic evidence.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 50%. 
+
+The conflicting evidence regarding Daniel K.'s ability to ride a bicycle, coupled with his inconsistent statements and the presence of the jacket, makes it impossible to definitively assess his involvement at this stage. 
+
+So far, the case is muddled with conflicting witness accounts, the potential involvement of Daniel K. and Ivo P., and emerging evidence surrounding a bicycle, painting a picture of a complex and uncertain investigation with no clear suspect identified.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to Stage 3, the evidence the prosecutor had on March 14th, 2026, consisted of:
+
+*   **Witness Testimony:** Conflicting accounts from Witnesses A, B, and C regarding the perpetrator’s gender and height. Witness B’s identification of Daniel K. in a line-up.
+*   **CCTV Footage:** Blurry CCTV footage showing a single person of approximately 170-180cm.
+*   **Phone Data:** Daniel K.’s phone records placing him within 1km of the shop between 21:00 and 23:00 on March 1st.
+*   **Daniel K.’s Flat:** The discovery of a dark hooded jacket matching the description of the burglar’s clothing.
+*   **Forensic Evidence:** Absence of fingerprints belonging to Daniel K. at the crime scene, with traces suggesting the use of gloves.
+
+Essentially, the prosecutor’s case hinged primarily on circumstantial evidence and Daniel K.'s proximity to the crime and possession of a relevant item. Note that the tip regarding Ivo P. had not been verified at this point.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of March 10th, Witness B’s identification of Daniel K. was extremely uncertain, as he admitted he chose the line-up participant who most closely resembled the perpetrator, stating he wasn’t entirely certain. His identification was therefore based on subjective visual similarity rather than a clear positive identification.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+No. 
+
+As of March 12th, there was no concrete evidence placing Ivo P. near the shop; the only information available was an anonymous tip regarding his presence, which had not been verified.
+
+
+run2:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. Based on the evidence, Daniel K.’s presence near the shop around the time of the burglary is supported by phone data and the discovery of a matching hooded jacket in his flat, though he has provided conflicting alibis. 
+
+Summary: A bicycle shop was broken into on March 1st. Multiple witnesses initially described a man, roughly 175cm, wearing a dark hooded jacket, but some witnesses later contradicted this. CCTV footage showed a person of similar height. Daniel K.’s phone was near the scene, and a jacket matching the description was found in his flat, though he claimed to be elsewhere.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 85%. The accumulating evidence – including phone data, the jacket in his flat, and his identification by Witness B – significantly increases the probability that Daniel K. was involved, despite his inconsistent statements. 
+
+Summary: Daniel K. is the primary suspect following the burglary at Linden Street on March 1st. Witnesses initially described a man, and CCTV footage supported this. Daniel K. has a strong connection to the crime through circumstantial evidence, including a matching jacket and proximity to the scene, while another individual, Ivo P., was observed nearby.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 60%. While Daniel K. remains a suspect due to circumstantial evidence, the conflicting information regarding his ability to ride a bicycle and a sighting of him riding one in the past introduces significant doubt into the case.
+
+Summary: Daniel K. remains the focal suspect after the Linden Street burglary, with evidence including a matching jacket and proximity to the scene. However, contradictory statements about his ability to ride a bicycle and a previous sighting complicate the picture, prompting the court to investigate Ivo P. and postpone the hearing.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes up to 14 March 2026, the evidence the prosecutor had to charge Daniel K. was:
+
+*   **Witness Testimony:** Multiple witness accounts (Witness A, B, C, Marta) placing Daniel K. near the scene, though with conflicting descriptions of the perpetrator’s gender.
+*   **CCTV Footage:** Blurry CCTV footage suggesting a person approximately 170-180cm tall.
+*   **Phone Data:** Daniel K.’s phone was located within 1 km of the shop between 21:00 and 23:00.
+*   **Dark Hooded Jacket:** A dark hooded jacket matching the description of the burglar was found in Daniel K.’s flat.
+*   **Witness Identification:** Daniel K. was identified by Witness B in a photo line-up.
+*   **Lack of Fingerprints:** No fingerprints of Daniel K. were found at the scene, and traces indicated the use of gloves.
+
+It's important to note that this evidence was largely circumstantial and presented a case primarily based on suspicion rather than definitive proof.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of 10 March 2026, Witness B’s identification of Daniel K. was only moderately certain, as he stated he chose the person who looked most similar in the line-up without absolute confidence. He admitted he wasn’t entirely sure, highlighting the potential ambiguity surrounding his identification.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+Yes. On 12 March 2026, a tip from an anonymous source placed Ivo P. near the shop, although this information was not yet verified. This represents the first concrete lead regarding a potential alternative suspect.
+
+
+run3:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%. Based solely on the provided notes, Daniel K.’s proximity to the scene, the discovery of a matching jacket in his flat, and his inconsistent statements, there is a moderate chance he was involved, though the lack of fingerprints and glove use reduces this probability.
+
+Summary: A bicycle shop was broken into on March 1st, with multiple witnesses describing a male suspect around 175cm. CCTV footage showed a person fitting this description, and Daniel K.’s phone was near the scene during the time of the burglary. He claims to have been with a friend, who also recalls him leaving, but a jacket matching the description was found in his flat.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. Considering Daniel K.’s possession of a matching jacket, his proximity to the crime scene, and the identification by Witness B, there’s a reasonably high likelihood he was involved, although the evidence is circumstantial.
+
+Summary: Daniel K. remains the primary suspect, with evidence including a jacket found in his flat and his presence near the crime scene. Witnesses have offered conflicting accounts of the suspect’s appearance, and a second individual, Ivo P., was observed nearby. The prosecution has charged K. based on this circumstantial evidence.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 50%. The conflicting evidence regarding Daniel K.’s bicycle ownership and a previous sighting raises significant doubt about his involvement, making it difficult to assess his presence at the shop with certainty.
+
+Summary: Daniel K. remains the focus of the investigation, despite mounting inconsistencies. CCTV footage shows a cyclist leaving the scene, while evidence linking him to the crime – a matching jacket – remains. The case is now shifting attention to Ivo P., and the court is investigating his movements.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to March 14th, 2026, the evidence the prosecutor had against Daniel K. consisted of:
+
+*   **Witness Testimony:** Identification by Witness B in a photo lineup. Witness A’s initial (though later uncertain) statement regarding the suspect’s gender.
+*   **Physical Evidence:** A dark hooded jacket found in Daniel K.’s flat, matching the description of the burglar.
+*   **Location Data:** Daniel K.’s phone records placing him within 1km of the shop between 21:00 and 23:00 on March 1st.
+*   **Circumstantial Evidence:** The burglar wearing gloves (suggested by forensic analysis).
+
+It’s important to note that this evidence was largely circumstantial and didn't include direct proof of Daniel K.’s presence at the scene or his involvement in the burglary.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of March 10th, 2026, Witness B’s identification of Daniel K. was only moderately certain – he stated he chose the person who looked most similar in the photo lineup, but admitted he wasn't entirely sure. His testimony remained reliant on visual similarity rather than a definitive recognition.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+Yes. The anonymous tip placed Ivo P. as the burglar, and on March 12th, police were investigating his movements following this tip. This indicated a preliminary investigation was underway to determine if he was involved.
+
+
+run4:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%. Based solely on the evidence, Daniel K.'s proximity to the scene, the discovery of a matching jacket in his flat, and identification by Witness B, there’s a significant probability he was involved, though the lack of fingerprints strengthens the case against him.
+
+**Summary:** A bicycle shop was broken into on March 1st, with witnesses reporting a man (though accounts vary) approximately 1.75m tall. CCTV footage showed a person around 1.70-1.80m. Daniel K.’s phone was near the scene, he claims to have been watching a football match with Marta, a hooded jacket was found in his flat, and he was identified by Witness B in a photo line-up.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. The accumulating evidence, including Daniel K.’s proximity, the jacket, and Witness B’s identification, combined with the timeline, suggests a strong possibility he was involved in the burglary.
+
+**Summary:** The burglary at Linden Street remains under investigation. Daniel K. is the primary suspect, with evidence placing his phone near the scene and a matching jacket found in his flat. Witness B identified him in a line-up, though his certainty is questioned. Ivo P. was seen nearby, claiming he was just passing through, while a man described by multiple witnesses was observed.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 50%. The contradictory evidence – Daniel K. denies owning a bicycle, yet a neighbour reported seeing him riding one in 2025 – introduces significant doubt, making it difficult to assess his involvement definitively.
+
+**Summary:** The investigation into the Linden Street burglary continues with Daniel K. remaining the primary suspect, but facing mounting challenges. CCTV shows a figure leaving the scene on a bicycle, while Daniel denies owning a bike. Ivo P. is being investigated, and a previous sighting of Daniel riding a bicycle has emerged, complicating the case.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to April 9th, 2026, the following evidence the prosecutor had when charging Daniel K. on March 14th, 2026:
+
+*   **Witness Identification:** Daniel K. was identified by Witness B in a photo line-up.
+*   **Proximity:** Phone data placing Daniel K.’s phone within 1 km of the shop between 21:00 and 23:00.
+*   **Hooded Jacket:** The discovery of a dark hooded jacket matching the description found in Daniel K.’s flat.
+*   **Neighbour Testimony:** A previous sighting of Daniel K. riding a bicycle in 2025.
+
+It’s important to note that this evidence was circumstantial and lacked direct proof of Daniel K.’s involvement. There were also several points of contention, such as the conflicting witness statements about the perpetrator’s gender, and the lack of fingerprints.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of 10 March 2026, Witness B’s certainty was very low. He admitted he chose the person who looked most similar in the line-up and stated he wasn’t entirely certain of his identification.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+Yes. The anonymous tip placed Ivo P. as the suspect, and on 12 March, police were investigating his movements. However, as of yet, there was no concrete evidence confirming his presence near the shop at the time of the burglary.
+
+
+run5:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. Based on the evidence, Daniel K.’s presence near the shop around the time of the burglary is bolstered by phone data, CCTV footage, a jacket found in his flat, and a witness identification, though the lack of fingerprints and glove use weakens the case.
+
+Summary: Daniel K. is the primary suspect in the burglary at Linden Street, following CCTV evidence of a person matching his height and the discovery of a hooded jacket in his flat. He initially claimed to be at a friend's flat watching football, but his friend’s account contradicts his later statements, and he was identified by a witness.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 85%. The evidence against Daniel K. is strengthening due to the presence of a matching jacket, CCTV footage, and a witness identification, making his involvement increasingly plausible.
+
+Summary: Daniel K. remains the primary suspect, with circumstantial evidence mounting against him, including a dark hooded jacket found in his flat and a witness identification. However, the case against him is complicated by conflicting accounts and the emergence of a potential alternative suspect, Ivo P., who was seen near the scene.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 60%. The accumulating evidence against Daniel K. is being countered by contradictory statements and details about his lack of cycling ability, making it difficult to definitively assess his involvement.
+
+Summary: The case against Daniel K. is becoming increasingly shaky as new information emerges, including evidence suggesting he doesn’t own a bicycle and contradictory statements. The investigation is now focusing on Ivo P., and the court has requested a review of his movements, significantly complicating the burglary investigation.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to March 14th, 2026, the evidence the prosecutor had to support the charge against Daniel K. was:
+
+*   **Witness Testimony (Partial):** Identification by Witness B from a photo lineup.
+*   **CCTV Footage:** A blurry CCTV image of a person approximately 170-180 cm tall near the shop.
+*   **Dark Hooded Jacket:** A dark hooded jacket found in Daniel K.’s flat.
+*   **Phone Data:** Daniel K.’s phone was located within 1km of the shop between 21:00 and 23:00 on 1 March.
+*   **Marta’s Testimony:** Daniel K.’s friend, Marta, stated he was with her watching a football match.
+
+It’s important to note that this evidence was largely circumstantial, relying on proximity, appearances, and incomplete accounts. The lack of fingerprints or conclusive forensic evidence was a significant factor.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of March 10th, Witness B’s identification of Daniel K. was extremely uncertain; he admitted he chose the person who looked most similar from the lineup and stated he wasn’t entirely certain of his selection.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+Yes. The anonymous tip regarding Ivo P. was corroborated by a bus driver who reported seeing him near Linden Street at approximately 22:05 on 1 March.
+
+
+run6:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%.
+
+Based solely on the provided notes, Daniel K.'s presence at the shop is plausible due to his proximity to the scene, the discovery of a matching jacket in his flat, and his conflicting statements, though the lack of fingerprints and glove use weakens the case considerably.
+
+**Summary:** Daniel K. was identified as being near the bicycle shop around the time of the burglary, possessing a similar jacket, and having a shaky alibi. Witnesses offered conflicting descriptions of the perpetrator’s gender, and forensic evidence indicates the burglar wore gloves, yet no fingerprints linked him to the crime scene.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 70%.
+
+Considering the mounting circumstantial evidence, including the jacket and witness identification, Daniel K.’s involvement in the burglary now seems moderately likely, though not definitively proven. 
+
+**Summary:** The case against Daniel K. has strengthened with the discovery of a matching jacket and his identification by Witness B, although conflicting accounts and a lack of concrete evidence continue to complicate the investigation. The emergence of Ivo P. as a potential suspect adds another layer of uncertainty.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 50%.
+
+The evidence against Daniel K. has become increasingly muddled, with contradictory statements and new information suggesting he may not have been involved in the burglary, making his probability of guilt uncertain.
+
+**Summary:** The case against Daniel K. is now highly ambiguous, with evidence suggesting he does not own or ride a bicycle, and conflicting reports regarding his whereabouts on the night of the burglary. The investigation has shifted focus to Ivo P., and the court has paused proceedings, indicating a lack of conclusive evidence.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to 14 March 2026, the prosecutor’s evidence against Daniel K. consisted of:
+
+*   **Witness Testimony:** Identification by Witness B in a photo lineup, initial statements from Witnesses A and C regarding the perpetrator's appearance (though with conflicting descriptions of gender).
+*   **CCTV Footage:** Blurry CCTV footage showing a person approximately 170-180cm tall.
+*   **Physical Evidence:** A dark hooded jacket found in Daniel K.’s flat.
+*   **Phone Data:** Location data placing Daniel K.’s phone near the crime scene.
+*   **Alibi Contradictions:** Conflicting statements from Daniel K. regarding his whereabouts on the night of the burglary.
+
+It’s important to note that this evidence is largely circumstantial and lacks direct links to Daniel K. being *at* the shop at 22:10 on 1 March – namely, no fingerprints or trace evidence linking him to the scene.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of 10 March 2026, Witness B’s identification of Daniel K. was extremely tentative; he admitted he chose the person who looked most similar, stating he wasn’t entirely certain of his choice.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+Yes. The anonymous tip placed Ivo P. as the perpetrator, and the police subsequently received information that he was seen near Linden Street at approximately 22:05 on 1 March.
+
+
+run7:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%. Based on the notes, Daniel K.’s movements are inconsistent, he was near the scene at the relevant time with a potential weapon found in his flat, and he was identified by a witness in a lineup.
+
+Summary: A bicycle shop was broken into on March 1st, and Daniel K.’s phone was near the scene between 21:00 and 23:00. He claims to have been at a friend’s flat, but his friend confirms he left later, and a dark hooded jacket matching the description was found in his flat, along with forensic evidence suggesting the use of gloves.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. While inconsistencies remain, Daniel K.’s presence near the scene, coupled with the discovery of a matching jacket and identification by a witness, increases the probability of his involvement.
+
+Summary: The burglary occurred on March 1st, with Daniel K.’s phone being near the scene and a dark hooded jacket found in his flat. Witness accounts are conflicting regarding the perpetrator’s gender and height. Ivo P. was identified by a bus driver, and Daniel K. has been charged, but the case remains circumstantial.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 50%. The accumulating inconsistencies regarding Daniel K.’s alibi, coupled with the CCTV footage of a person leaving the scene on a bicycle, creates a more balanced picture and reduces the certainty of his involvement.
+
+Summary: Daniel K. remains the primary suspect due to the evidence surrounding his flat and identification by a witness, but new information casts doubt. CCTV footage shows a cyclist leaving the scene, and it’s revealed he doesn't own a bike, while conflicting accounts regarding his whereabouts and the existence of Ivo P. complicate the case.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to March 14th, 2026, the prosecutor’s evidence against Daniel K. consisted of the following:
+
+*   **Witness Testimony:** Identification by Witness B in a photo lineup.
+*   **CCTV Evidence:** Blurry CCTV footage showing a person approximately 170-180 cm tall leaving Linden Street on a bicycle at 22:15.
+*   **Physical Evidence:** A dark hooded jacket found in Daniel K.’s flat.
+*   **Phone Data:** Location data placing Daniel K.’s phone near the shop between 21:00 and 23:00 on March 1st.
+*   **Forensic Evidence:** Lack of fingerprints of Daniel K. at the shop, and traces suggesting the use of gloves.
+
+It’s important to note that this evidence is largely circumstantial and relies on connecting various pieces of information rather than direct proof of Daniel K.’s guilt.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of March 10th, Witness B's identification of Daniel K. was highly uncertain; he stated he chose the person who looked most similar, and admitted he was not certain of his selection. His confidence was significantly undermined by his own admission of selecting based on resemblance rather than a clear recognition.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+No. As of March 12th, there was no evidence placing Ivo P. near the shop – the only information available was an anonymous tip regarding his potential involvement.
+
+
+run8:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%. Based on the notes, Daniel K.’s presence near the crime scene is supported by phone data and the discovery of a matching jacket in his flat, but contradicted by witness accounts and the lack of fingerprints.
+
+Summary: A bicycle shop was broken into on March 1st at 22:10, with multiple witnesses describing a man (varying heights) and a hooded figure. Daniel K.’s phone was nearby, and a similar jacket was found in his flat, but he provided inconsistent alibis and had no fingerprints at the scene.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. While Daniel K. has several pieces of circumstantial evidence against him, the growing evidence pointing towards Ivo P. and the inconsistencies in Daniel’s story make his involvement less probable.
+
+Summary: The burglary occurred on March 1st, with witnesses initially describing a man in a hooded jacket. Daniel K. is now the primary suspect due to a matching jacket and phone proximity, but conflicting statements and the discovery of gloves complicate the case, while Ivo P.’s presence near the scene is emerging as a significant lead.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 40%. The accumulating evidence against Daniel K. is increasingly undermined by contradictory information, particularly regarding his ability to have been at the scene, making his involvement appear highly improbable.
+
+Summary: Daniel K. remains the primary suspect due to circumstantial evidence, but significant challenges are emerging. CCTV shows a cyclist leaving the scene, while his lawyer claims he doesn’t own a bike, and conflicting witness testimony exists. The investigation is now focused on Ivo P., following a new lead regarding CCTV footage.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to March 14th, 2026, the prosecutor’s evidence against Daniel K. consisted of the following:
+
+*   **Witness Testimony:** Multiple witness accounts (Witness A, B, C) described a man in a dark hooded jacket near the shop around the time of the burglary. While some initially identified the person as a woman, several witnesses ultimately stated it was a man approximately 175cm tall.
+*   **CCTV Footage:** Blurry CCTV footage from a nearby café showed a single person, roughly 170-180cm in height, though the gender couldn’t be determined.
+*   **Phone Data:** Daniel K.’s phone records placed him within 1 km of the shop between 21:00 and 23:00 on March 1st.
+*   **Found Jacket:** A dark hooded jacket matching the description of the one seen near the shop was found in Daniel K.’s flat.
+*   **Witness Identification:** Witness B correctly identified Daniel K. in a photo line-up.
+*   **Lack of Fingerprints:** Forensic analysis showed no fingerprints of Daniel K. at the shop and evidence of gloves being worn.
+
+It's important to note that much of this evidence was circumstantial and reliant on interpretation.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of March 10th, Witness B’s identification of Daniel K. was very low certainty; he admitted he chose the person who looked most similar and wasn’t entirely sure of his decision. His statement highlights the unreliability of eyewitness identification under these circumstances.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+No. As of March 12th, there was no direct evidence placing Ivo P. near the shop; the only information regarding him was the anonymous tip and his own statement that he was simply passing by.
+
+
+run9:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%. 
+
+Based on the evidence, Daniel K.'s presence at the shop is moderately likely due to his proximity to the scene, the discovery of a similar jacket in his flat, and identification by Witness B, although the lack of fingerprints and glove use suggest an attempt to conceal evidence. 
+
+So far, the case revolves around Daniel K., who was near the scene of the crime, possesses a relevant item, and has provided conflicting accounts, while witnesses have offered differing descriptions and CCTV footage is inconclusive, with no direct evidence linking him to the burglary.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. The mounting circumstantial evidence, including Daniel K.’s proximity, the jacket, and identification by Witness B, makes it increasingly probable he was involved in the burglary. 
+
+So far, the case focuses on Daniel K., who has provided inconsistent statements, and the discovery of a relevant item in his flat; meanwhile, the investigation into Ivo P. has begun, though he denies involvement and claims he was simply passing by.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 55%. The conflicting evidence regarding Daniel K.’s bicycle ownership and a previous sighting raises serious doubts about his involvement in the burglary, making his connection to the crime less certain.
+
+So far, the case hinges on Daniel K., but inconsistencies regarding his ability to ride a bicycle and a previous sighting challenge the evidence against him, while the investigation into Ivo P. is ongoing and has not yet yielded concrete evidence.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes provided up to 14 March 2026, the evidence the prosecutor had to charge Daniel K. included:
+
+*   **Witness Statements:** Conflicting statements from Witnesses A, B, and C regarding the suspect’s gender and height.
+*   **CCTV Footage:** Blurry CCTV footage showing a single person approximately 170-180cm.
+*   **Daniel K.’s Possession:** A dark hooded jacket found in his flat, matching the description of the one seen at the scene.
+*   **Phone Data:** Daniel K.’s phone was located within 1km of the shop between 21:00 and 23:00 on 1 March.
+*   **Witness Identification:** Daniel K. was identified by Witness B in a photo lineup.
+*   **Forensic Evidence:** Absence of fingerprints from the shop and evidence of glove use.
+
+It's important to note that this evidence is largely circumstantial and presented in a way to suggest Daniel K.’s involvement.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of 10 March 2026, Witness B’s identification of Daniel K. was only moderately certain; he admitted he chose the person who looked most similar, and stated he wasn't entirely sure.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+No. There is currently no evidence placing Ivo P. near the shop on 12 March 2026 – the only information available is the anonymous tip suggesting he was involved.
+
+
+run10:
+>>> """
+... I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+... After each stage, answer the question.
+... 
+... Stage 1 — notes up to 14 March 2026:
+... 2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+... 2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+... 2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+... 2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+... 2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+... 2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+... 2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+... 2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+... 2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+... 2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+... 2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+... 2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+... 2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+... 2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+... 2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 65%. Based solely on the evidence, Daniel K.'s proximity to the scene, the discovery of a matching jacket in his flat, and his inconsistent statements, there’s a significant possibility he was involved.
+
+Summary: A bicycle shop was broken into on March 1st, with multiple witnesses describing a man approximately 175cm tall wearing a dark hooded jacket. Daniel K.’s phone was near the scene, a jacket matching the description was found in his flat, and he initially claimed to be watching a football match with a friend, though her account shifted.
+
+>>> """
+... Stage 2 — new notes:
+... 2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+... 2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+... 2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 75%. The mounting circumstantial evidence, including Daniel K.’s proximity, the jacket found in his flat, and his identification by Witness B, now suggests a stronger possibility than initially assessed.
+
+Summary: Daniel K. remains the primary suspect due to his location near the crime scene and the discovery of a matching jacket. Witness inconsistencies and his shifting statements continue to raise questions, while Ivo P.’s presence near the scene adds another element to the investigation.
+
+>>> """
+... Stage 3 — new notes:
+... 2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+... 2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+... 2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+... 2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+... 
+... Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+... """
+Likelihood: 50%. The conflicting evidence regarding Daniel K.’s bicycle ownership and a previous sighting, combined with the CCTV footage, creates a more ambiguous situation and reduces the certainty of his involvement.
+
+Summary: Daniel K. remains a suspect due to circumstantial evidence, including his proximity and the jacket, but challenges are emerging. CCTV shows someone leaving the scene on a bicycle, and his lawyer disputes his ability to ride one, while Ivo P. remains unverified and the case is pending further investigation into his movements.
+
+>>> """
+... Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+... """
+Based on the notes up to 14 March 2026, the evidence the prosecutor had to charge Daniel K. included:
+
+*   **Witness Testimony:** Multiple witness accounts (Witness A, B, C, and Marta) describing a man matching a general description (around 175cm, wearing a dark hooded jacket). Witness B’s positive identification in the line-up.
+*   **CCTV Footage:** A blurry CCTV image showing a single person approximately 170-180cm tall.
+*   **Phone Data:** Daniel K.’s phone was located within 1km of the shop between 21:00 and 23:00 on 1 March.
+*   **Found Item:** A dark hooded jacket matching the description of the burglar was found in Daniel K.’s flat.
+*   **Forensic Evidence:** Absence of fingerprints belonging to Daniel K. at the shop, with traces suggesting the use of gloves.
+
+It's important to note that this evidence was largely circumstantial and relied heavily on the identification of Daniel K. by witnesses.
+
+>>> """
+... Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+... """
+As of 10 March 2026, Witness B’s identification of Daniel K. was extremely weak; he admitted he only chose the person who looked most similar in the line-up and expressed uncertainty about his selection. This significantly undermined the value of his earlier positive identification.
+
+>>> """
+... Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+... """
+Yes. The anonymous tip placed Ivo P. as the burglar, and on 12 March, the police were actively investigating his movements as part of the ongoing investigation.
+
+

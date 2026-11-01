@@ -1,0 +1,2484 @@
+===== DC_m01_city_0  (dated, chrono, mass 1, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-02-04: She lives in Vienna.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_city_0  (dated, shuffled, mass 1, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-02-04: She lives in Vienna.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_city_0  (undated, chrono, mass 1, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She lives in Vienna.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_city_0  (undated, shuffled, mass 1, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She lives in Vienna.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_city_1  (dated, chrono, mass 1, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-03-27: She lives in Prague.
+2026-07-15: She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_city_1  (dated, shuffled, mass 1, new entry first; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She lives in Warsaw.
+2026-03-27: She lives in Prague.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_city_1  (undated, chrono, mass 1, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She lives in Prague.
+- She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_city_1  (undated, shuffled, mass 1, new entry first; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She lives in Warsaw.
+- She lives in Prague.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_city_2  (dated, chrono, mass 1, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-05-13: She lives in Lisbon.
+2026-07-15: She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_city_2  (dated, shuffled, mass 1, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-05-13: She lives in Lisbon.
+2026-07-15: She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_city_2  (undated, chrono, mass 1, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She lives in Lisbon.
+- She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_city_2  (undated, shuffled, mass 1, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She lives in Lisbon.
+- She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_employer_0  (dated, chrono, mass 1, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-05-16: She works at Northwind Analytics.
+2026-07-15: She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_employer_0  (dated, shuffled, mass 1, new entry first; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She works at Bluefield Labs.
+2026-05-16: She works at Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_employer_0  (undated, chrono, mass 1, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She works at Northwind Analytics.
+- She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_employer_0  (undated, shuffled, mass 1, new entry first; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She works at Bluefield Labs.
+- She works at Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_employer_1  (dated, chrono, mass 1, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-06-19: She works at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_employer_1  (dated, shuffled, mass 1, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-06-19: She works at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_employer_1  (undated, chrono, mass 1, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She works at Corvel Systems.
+- She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_employer_1  (undated, shuffled, mass 1, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She works at Corvel Systems.
+- She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_employer_2  (dated, chrono, mass 1, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-01-31: She works at Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_employer_2  (dated, shuffled, mass 1, new entry first; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She works at Quillstone Media.
+2026-01-31: She works at Maple Ridge Studio.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_employer_2  (undated, chrono, mass 1, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She works at Maple Ridge Studio.
+- She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_employer_2  (undated, shuffled, mass 1, new entry first; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She works at Quillstone Media.
+- She works at Maple Ridge Studio.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_gym_0  (dated, chrono, mass 1, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-03-03: She trains at Ironleaf Gym.
+2026-07-15: She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_gym_0  (dated, shuffled, mass 1, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-03-03: She trains at Ironleaf Gym.
+2026-07-15: She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_gym_0  (undated, chrono, mass 1, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She trains at Ironleaf Gym.
+- She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_gym_0  (undated, shuffled, mass 1, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She trains at Ironleaf Gym.
+- She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_gym_1  (dated, chrono, mass 1, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-06-07: She trains at Peak Motion Club.
+2026-07-15: She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_gym_1  (dated, shuffled, mass 1, new entry first; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She trains at Riverside Sports Hall.
+2026-06-07: She trains at Peak Motion Club.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_gym_1  (undated, chrono, mass 1, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She trains at Peak Motion Club.
+- She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_gym_1  (undated, shuffled, mass 1, new entry first; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She trains at Riverside Sports Hall.
+- She trains at Peak Motion Club.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m01_gym_2  (dated, chrono, mass 1, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-06-13: She trains at Copperfield Gym.
+2026-07-15: She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m01_gym_2  (dated, shuffled, mass 1, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-06-13: She trains at Copperfield Gym.
+2026-07-15: She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m01_gym_2  (undated, chrono, mass 1, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She trains at Copperfield Gym.
+- She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m01_gym_2  (undated, shuffled, mass 1, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She trains at Copperfield Gym.
+- She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_city_0  (dated, chrono, mass 3, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-05-10: She lives in Vienna.
+2026-05-25: She mentioned her flat in Vienna.
+2026-05-31: She talked about her neighbours in Vienna.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_city_0  (dated, shuffled, mass 3, new entry first; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She lives in Budapest.
+2026-05-10: She lives in Vienna.
+2026-05-25: She mentioned her flat in Vienna.
+2026-05-31: She talked about her neighbours in Vienna.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_city_0  (undated, chrono, mass 3, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She lives in Vienna.
+- She mentioned her flat in Vienna.
+- She talked about her neighbours in Vienna.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_city_0  (undated, shuffled, mass 3, new entry first; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She lives in Budapest.
+- She lives in Vienna.
+- She mentioned her flat in Vienna.
+- She talked about her neighbours in Vienna.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_city_1  (dated, chrono, mass 3, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-01-25: She mentioned her flat in Prague.
+2026-02-02: She talked about her neighbours in Prague.
+2026-06-11: She lives in Prague.
+2026-07-15: She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_city_1  (dated, shuffled, mass 3, new entry middle; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-06-11: She lives in Prague.
+2026-01-25: She mentioned her flat in Prague.
+2026-07-15: She lives in Warsaw.
+2026-02-02: She talked about her neighbours in Prague.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_city_1  (undated, chrono, mass 3, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She mentioned her flat in Prague.
+- She talked about her neighbours in Prague.
+- She lives in Prague.
+- She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_city_1  (undated, shuffled, mass 3, new entry middle; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She lives in Prague.
+- She mentioned her flat in Prague.
+- She lives in Warsaw.
+- She talked about her neighbours in Prague.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_city_2  (dated, chrono, mass 3, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-02-27: She talked about her neighbours in Lisbon.
+2026-03-26: She mentioned her flat in Lisbon.
+2026-06-27: She lives in Lisbon.
+2026-07-15: She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_city_2  (dated, shuffled, mass 3, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-02-27: She talked about her neighbours in Lisbon.
+2026-06-27: She lives in Lisbon.
+2026-03-26: She mentioned her flat in Lisbon.
+2026-07-15: She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_city_2  (undated, chrono, mass 3, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She talked about her neighbours in Lisbon.
+- She mentioned her flat in Lisbon.
+- She lives in Lisbon.
+- She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_city_2  (undated, shuffled, mass 3, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She talked about her neighbours in Lisbon.
+- She lives in Lisbon.
+- She mentioned her flat in Lisbon.
+- She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_employer_0  (dated, chrono, mass 3, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-04-11: She works at Northwind Analytics.
+2026-05-16: She complained about the coffee machine at Northwind Analytics.
+2026-06-17: She mentioned a meeting with her team at Northwind Analytics.
+2026-07-15: She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_employer_0  (dated, shuffled, mass 3, new entry middle; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-06-17: She mentioned a meeting with her team at Northwind Analytics.
+2026-07-15: She works at Bluefield Labs.
+2026-05-16: She complained about the coffee machine at Northwind Analytics.
+2026-04-11: She works at Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_employer_0  (undated, chrono, mass 3, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She works at Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_employer_0  (undated, shuffled, mass 3, new entry middle; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She mentioned a meeting with her team at Northwind Analytics.
+- She works at Bluefield Labs.
+- She complained about the coffee machine at Northwind Analytics.
+- She works at Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_employer_1  (dated, chrono, mass 3, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-02-10: She works at Corvel Systems.
+2026-03-19: She mentioned a meeting with her team at Corvel Systems.
+2026-05-02: She complained about the coffee machine at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_employer_1  (dated, shuffled, mass 3, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-02-10: She works at Corvel Systems.
+2026-03-19: She mentioned a meeting with her team at Corvel Systems.
+2026-05-02: She complained about the coffee machine at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_employer_1  (undated, chrono, mass 3, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She works at Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+- She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_employer_1  (undated, shuffled, mass 3, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She works at Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+- She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_employer_2  (dated, chrono, mass 3, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-04-08: She complained about the coffee machine at Maple Ridge Studio.
+2026-04-23: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-05-03: She works at Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_employer_2  (dated, shuffled, mass 3, new entry first; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She works at Quillstone Media.
+2026-05-03: She works at Maple Ridge Studio.
+2026-04-23: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-04-08: She complained about the coffee machine at Maple Ridge Studio.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_employer_2  (undated, chrono, mass 3, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She complained about the coffee machine at Maple Ridge Studio.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_employer_2  (undated, shuffled, mass 3, new entry first; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She works at Quillstone Media.
+- She works at Maple Ridge Studio.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She complained about the coffee machine at Maple Ridge Studio.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_gym_0  (dated, chrono, mass 3, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-02-03: She trains at Ironleaf Gym.
+2026-04-23: She mentioned her trainer at Ironleaf Gym.
+2026-05-14: She said the showers at Ironleaf Gym were cold.
+2026-07-15: She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_gym_0  (dated, shuffled, mass 3, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-02-03: She trains at Ironleaf Gym.
+2026-04-23: She mentioned her trainer at Ironleaf Gym.
+2026-05-14: She said the showers at Ironleaf Gym were cold.
+2026-07-15: She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_gym_0  (undated, chrono, mass 3, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She trains at Ironleaf Gym.
+- She mentioned her trainer at Ironleaf Gym.
+- She said the showers at Ironleaf Gym were cold.
+- She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_gym_0  (undated, shuffled, mass 3, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She trains at Ironleaf Gym.
+- She mentioned her trainer at Ironleaf Gym.
+- She said the showers at Ironleaf Gym were cold.
+- She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_gym_1  (dated, chrono, mass 3, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-04-22: She trains at Peak Motion Club.
+2026-05-07: She said the showers at Peak Motion Club were cold.
+2026-05-29: She mentioned her trainer at Peak Motion Club.
+2026-07-15: She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_gym_1  (dated, shuffled, mass 3, new entry first; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She trains at Riverside Sports Hall.
+2026-05-07: She said the showers at Peak Motion Club were cold.
+2026-04-22: She trains at Peak Motion Club.
+2026-05-29: She mentioned her trainer at Peak Motion Club.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_gym_1  (undated, chrono, mass 3, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She trains at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She mentioned her trainer at Peak Motion Club.
+- She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_gym_1  (undated, shuffled, mass 3, new entry first; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She trains at Riverside Sports Hall.
+- She said the showers at Peak Motion Club were cold.
+- She trains at Peak Motion Club.
+- She mentioned her trainer at Peak Motion Club.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m03_gym_2  (dated, chrono, mass 3, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-01-17: She mentioned her trainer at Copperfield Gym.
+2026-02-07: She trains at Copperfield Gym.
+2026-05-18: She said the showers at Copperfield Gym were cold.
+2026-07-15: She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m03_gym_2  (dated, shuffled, mass 3, new entry middle; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-02-07: She trains at Copperfield Gym.
+2026-01-17: She mentioned her trainer at Copperfield Gym.
+2026-07-15: She trains at Lantern Climbing Centre.
+2026-05-18: She said the showers at Copperfield Gym were cold.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m03_gym_2  (undated, chrono, mass 3, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She mentioned her trainer at Copperfield Gym.
+- She trains at Copperfield Gym.
+- She said the showers at Copperfield Gym were cold.
+- She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m03_gym_2  (undated, shuffled, mass 3, new entry middle; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She trains at Copperfield Gym.
+- She mentioned her trainer at Copperfield Gym.
+- She trains at Lantern Climbing Centre.
+- She said the showers at Copperfield Gym were cold.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_city_0  (dated, chrono, mass 5, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-02-05: She talked about her neighbours in Vienna.
+2026-05-01: She lives in Vienna.
+2026-05-05: She asked how to renew her public transport pass in Vienna.
+2026-06-14: She mentioned her flat in Vienna.
+2026-06-26: She said she loves the cafés near her home in Vienna.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_city_0  (dated, shuffled, mass 5, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-02-05: She talked about her neighbours in Vienna.
+2026-05-01: She lives in Vienna.
+2026-06-14: She mentioned her flat in Vienna.
+2026-05-05: She asked how to renew her public transport pass in Vienna.
+2026-06-26: She said she loves the cafés near her home in Vienna.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_city_0  (undated, chrono, mass 5, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She talked about her neighbours in Vienna.
+- She lives in Vienna.
+- She asked how to renew her public transport pass in Vienna.
+- She mentioned her flat in Vienna.
+- She said she loves the cafés near her home in Vienna.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_city_0  (undated, shuffled, mass 5, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She talked about her neighbours in Vienna.
+- She lives in Vienna.
+- She mentioned her flat in Vienna.
+- She asked how to renew her public transport pass in Vienna.
+- She said she loves the cafés near her home in Vienna.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_city_1  (dated, chrono, mass 5, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-01-07: She lives in Prague.
+2026-01-13: She asked how to renew her public transport pass in Prague.
+2026-02-25: She mentioned her flat in Prague.
+2026-03-14: She said she loves the cafés near her home in Prague.
+2026-03-21: She talked about her neighbours in Prague.
+2026-07-15: She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_city_1  (dated, shuffled, mass 5, new entry first; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She lives in Warsaw.
+2026-01-07: She lives in Prague.
+2026-03-21: She talked about her neighbours in Prague.
+2026-02-25: She mentioned her flat in Prague.
+2026-03-14: She said she loves the cafés near her home in Prague.
+2026-01-13: She asked how to renew her public transport pass in Prague.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_city_1  (undated, chrono, mass 5, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She lives in Prague.
+- She asked how to renew her public transport pass in Prague.
+- She mentioned her flat in Prague.
+- She said she loves the cafés near her home in Prague.
+- She talked about her neighbours in Prague.
+- She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_city_1  (undated, shuffled, mass 5, new entry first; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She lives in Warsaw.
+- She lives in Prague.
+- She talked about her neighbours in Prague.
+- She mentioned her flat in Prague.
+- She said she loves the cafés near her home in Prague.
+- She asked how to renew her public transport pass in Prague.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_city_2  (dated, chrono, mass 5, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-04-26: She lives in Lisbon.
+2026-05-04: She asked how to renew her public transport pass in Lisbon.
+2026-05-12: She said she loves the cafés near her home in Lisbon.
+2026-05-15: She mentioned her flat in Lisbon.
+2026-05-27: She talked about her neighbours in Lisbon.
+2026-07-15: She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_city_2  (dated, shuffled, mass 5, new entry middle; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-05-27: She talked about her neighbours in Lisbon.
+2026-07-15: She lives in Madrid.
+2026-05-15: She mentioned her flat in Lisbon.
+2026-05-04: She asked how to renew her public transport pass in Lisbon.
+2026-05-12: She said she loves the cafés near her home in Lisbon.
+2026-04-26: She lives in Lisbon.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_city_2  (undated, chrono, mass 5, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She lives in Lisbon.
+- She asked how to renew her public transport pass in Lisbon.
+- She said she loves the cafés near her home in Lisbon.
+- She mentioned her flat in Lisbon.
+- She talked about her neighbours in Lisbon.
+- She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_city_2  (undated, shuffled, mass 5, new entry middle; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She talked about her neighbours in Lisbon.
+- She lives in Madrid.
+- She mentioned her flat in Lisbon.
+- She asked how to renew her public transport pass in Lisbon.
+- She said she loves the cafés near her home in Lisbon.
+- She lives in Lisbon.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_employer_0  (dated, chrono, mass 5, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-01-21: She talked about a deadline at Northwind Analytics.
+2026-03-14: She works at Northwind Analytics.
+2026-04-23: She mentioned a meeting with her team at Northwind Analytics.
+2026-05-07: She complained about the coffee machine at Northwind Analytics.
+2026-06-20: She said her manager at Northwind Analytics liked her report.
+2026-07-15: She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_employer_0  (dated, shuffled, mass 5, new entry first; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She works at Bluefield Labs.
+2026-03-14: She works at Northwind Analytics.
+2026-06-20: She said her manager at Northwind Analytics liked her report.
+2026-01-21: She talked about a deadline at Northwind Analytics.
+2026-04-23: She mentioned a meeting with her team at Northwind Analytics.
+2026-05-07: She complained about the coffee machine at Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_employer_0  (undated, chrono, mass 5, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She talked about a deadline at Northwind Analytics.
+- She works at Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+- She said her manager at Northwind Analytics liked her report.
+- She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_employer_0  (undated, shuffled, mass 5, new entry first; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She works at Bluefield Labs.
+- She works at Northwind Analytics.
+- She said her manager at Northwind Analytics liked her report.
+- She talked about a deadline at Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_employer_1  (dated, chrono, mass 5, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-01-05: She complained about the coffee machine at Corvel Systems.
+2026-01-28: She works at Corvel Systems.
+2026-04-30: She talked about a deadline at Corvel Systems.
+2026-05-24: She mentioned a meeting with her team at Corvel Systems.
+2026-06-02: She said her manager at Corvel Systems liked her report.
+2026-07-15: She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_employer_1  (dated, shuffled, mass 5, new entry middle; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-05-24: She mentioned a meeting with her team at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+2026-04-30: She talked about a deadline at Corvel Systems.
+2026-06-02: She said her manager at Corvel Systems liked her report.
+2026-01-28: She works at Corvel Systems.
+2026-01-05: She complained about the coffee machine at Corvel Systems.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_employer_1  (undated, chrono, mass 5, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She complained about the coffee machine at Corvel Systems.
+- She works at Corvel Systems.
+- She talked about a deadline at Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She said her manager at Corvel Systems liked her report.
+- She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_employer_1  (undated, shuffled, mass 5, new entry middle; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She mentioned a meeting with her team at Corvel Systems.
+- She works at Ardent Data.
+- She talked about a deadline at Corvel Systems.
+- She said her manager at Corvel Systems liked her report.
+- She works at Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_employer_2  (dated, chrono, mass 5, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-01-06: She works at Maple Ridge Studio.
+2026-02-13: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-03-26: She said her manager at Maple Ridge Studio liked her report.
+2026-06-03: She complained about the coffee machine at Maple Ridge Studio.
+2026-06-24: She talked about a deadline at Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_employer_2  (dated, shuffled, mass 5, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-02-13: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-01-06: She works at Maple Ridge Studio.
+2026-03-26: She said her manager at Maple Ridge Studio liked her report.
+2026-06-03: She complained about the coffee machine at Maple Ridge Studio.
+2026-06-24: She talked about a deadline at Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_employer_2  (undated, chrono, mass 5, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She works at Maple Ridge Studio.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She said her manager at Maple Ridge Studio liked her report.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She talked about a deadline at Maple Ridge Studio.
+- She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_employer_2  (undated, shuffled, mass 5, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She said her manager at Maple Ridge Studio liked her report.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She talked about a deadline at Maple Ridge Studio.
+- She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_gym_0  (dated, chrono, mass 5, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-01-26: She said the showers at Ironleaf Gym were cold.
+2026-03-20: She trains at Ironleaf Gym.
+2026-04-21: She talked about a yoga class at Ironleaf Gym.
+2026-05-14: She mentioned her trainer at Ironleaf Gym.
+2026-06-07: She described the weights area at Ironleaf Gym.
+2026-07-15: She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_gym_0  (dated, shuffled, mass 5, new entry middle; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-01-26: She said the showers at Ironleaf Gym were cold.
+2026-05-14: She mentioned her trainer at Ironleaf Gym.
+2026-04-21: She talked about a yoga class at Ironleaf Gym.
+2026-06-07: She described the weights area at Ironleaf Gym.
+2026-07-15: She trains at Harbour Fitness.
+2026-03-20: She trains at Ironleaf Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_gym_0  (undated, chrono, mass 5, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She said the showers at Ironleaf Gym were cold.
+- She trains at Ironleaf Gym.
+- She talked about a yoga class at Ironleaf Gym.
+- She mentioned her trainer at Ironleaf Gym.
+- She described the weights area at Ironleaf Gym.
+- She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_gym_0  (undated, shuffled, mass 5, new entry middle; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She said the showers at Ironleaf Gym were cold.
+- She mentioned her trainer at Ironleaf Gym.
+- She talked about a yoga class at Ironleaf Gym.
+- She described the weights area at Ironleaf Gym.
+- She trains at Harbour Fitness.
+- She trains at Ironleaf Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_gym_1  (dated, chrono, mass 5, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-01-08: She described the weights area at Peak Motion Club.
+2026-01-23: She trains at Peak Motion Club.
+2026-02-01: She said the showers at Peak Motion Club were cold.
+2026-04-11: She mentioned her trainer at Peak Motion Club.
+2026-04-14: She talked about a yoga class at Peak Motion Club.
+2026-07-15: She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_gym_1  (dated, shuffled, mass 5, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-04-14: She talked about a yoga class at Peak Motion Club.
+2026-01-23: She trains at Peak Motion Club.
+2026-04-11: She mentioned her trainer at Peak Motion Club.
+2026-02-01: She said the showers at Peak Motion Club were cold.
+2026-01-08: She described the weights area at Peak Motion Club.
+2026-07-15: She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_gym_1  (undated, chrono, mass 5, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She described the weights area at Peak Motion Club.
+- She trains at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She mentioned her trainer at Peak Motion Club.
+- She talked about a yoga class at Peak Motion Club.
+- She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_gym_1  (undated, shuffled, mass 5, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She talked about a yoga class at Peak Motion Club.
+- She trains at Peak Motion Club.
+- She mentioned her trainer at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She described the weights area at Peak Motion Club.
+- She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m05_gym_2  (dated, chrono, mass 5, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-02-05: She talked about a yoga class at Copperfield Gym.
+2026-03-23: She mentioned her trainer at Copperfield Gym.
+2026-03-29: She said the showers at Copperfield Gym were cold.
+2026-04-30: She described the weights area at Copperfield Gym.
+2026-06-28: She trains at Copperfield Gym.
+2026-07-15: She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m05_gym_2  (dated, shuffled, mass 5, new entry first; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She trains at Lantern Climbing Centre.
+2026-03-23: She mentioned her trainer at Copperfield Gym.
+2026-02-05: She talked about a yoga class at Copperfield Gym.
+2026-03-29: She said the showers at Copperfield Gym were cold.
+2026-06-28: She trains at Copperfield Gym.
+2026-04-30: She described the weights area at Copperfield Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m05_gym_2  (undated, chrono, mass 5, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She talked about a yoga class at Copperfield Gym.
+- She mentioned her trainer at Copperfield Gym.
+- She said the showers at Copperfield Gym were cold.
+- She described the weights area at Copperfield Gym.
+- She trains at Copperfield Gym.
+- She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m05_gym_2  (undated, shuffled, mass 5, new entry first; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She trains at Lantern Climbing Centre.
+- She mentioned her trainer at Copperfield Gym.
+- She talked about a yoga class at Copperfield Gym.
+- She said the showers at Copperfield Gym were cold.
+- She trains at Copperfield Gym.
+- She described the weights area at Copperfield Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_city_0  (dated, chrono, mass 10, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-01-13: She mentioned her flat in Vienna.
+2026-01-16: She lives in Vienna.
+2026-01-22: She invited friends for dinner at her place in Vienna.
+2026-02-18: She complained about the noise from the street outside her flat in Vienna.
+2026-02-24: She mentioned the market close to her flat in Vienna.
+2026-04-17: She asked how to renew her public transport pass in Vienna.
+2026-05-24: She said the rent for her flat in Vienna went up.
+2026-05-25: She said she loves the cafés near her home in Vienna.
+2026-06-19: She described her walk to the park near her home in Vienna.
+2026-06-27: She talked about her neighbours in Vienna.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_city_0  (dated, shuffled, mass 10, new entry middle; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-05-24: She said the rent for her flat in Vienna went up.
+2026-02-24: She mentioned the market close to her flat in Vienna.
+2026-01-22: She invited friends for dinner at her place in Vienna.
+2026-01-16: She lives in Vienna.
+2026-06-27: She talked about her neighbours in Vienna.
+2026-04-17: She asked how to renew her public transport pass in Vienna.
+2026-06-19: She described her walk to the park near her home in Vienna.
+2026-02-18: She complained about the noise from the street outside her flat in Vienna.
+2026-05-25: She said she loves the cafés near her home in Vienna.
+2026-07-15: She lives in Budapest.
+2026-01-13: She mentioned her flat in Vienna.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_city_0  (undated, chrono, mass 10, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She mentioned her flat in Vienna.
+- She lives in Vienna.
+- She invited friends for dinner at her place in Vienna.
+- She complained about the noise from the street outside her flat in Vienna.
+- She mentioned the market close to her flat in Vienna.
+- She asked how to renew her public transport pass in Vienna.
+- She said the rent for her flat in Vienna went up.
+- She said she loves the cafés near her home in Vienna.
+- She described her walk to the park near her home in Vienna.
+- She talked about her neighbours in Vienna.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_city_0  (undated, shuffled, mass 10, new entry middle; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She said the rent for her flat in Vienna went up.
+- She mentioned the market close to her flat in Vienna.
+- She invited friends for dinner at her place in Vienna.
+- She lives in Vienna.
+- She talked about her neighbours in Vienna.
+- She asked how to renew her public transport pass in Vienna.
+- She described her walk to the park near her home in Vienna.
+- She complained about the noise from the street outside her flat in Vienna.
+- She said she loves the cafés near her home in Vienna.
+- She lives in Budapest.
+- She mentioned her flat in Vienna.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_city_1  (dated, chrono, mass 10, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-02-18: She invited friends for dinner at her place in Prague.
+2026-02-21: She mentioned her flat in Prague.
+2026-03-13: She lives in Prague.
+2026-03-19: She asked how to renew her public transport pass in Prague.
+2026-03-24: She complained about the noise from the street outside her flat in Prague.
+2026-04-03: She said the rent for her flat in Prague went up.
+2026-04-21: She said she loves the cafés near her home in Prague.
+2026-05-03: She described her walk to the park near her home in Prague.
+2026-05-04: She mentioned the market close to her flat in Prague.
+2026-05-12: She talked about her neighbours in Prague.
+2026-07-15: She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_city_1  (dated, shuffled, mass 10, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-02-21: She mentioned her flat in Prague.
+2026-04-21: She said she loves the cafés near her home in Prague.
+2026-05-04: She mentioned the market close to her flat in Prague.
+2026-05-12: She talked about her neighbours in Prague.
+2026-03-24: She complained about the noise from the street outside her flat in Prague.
+2026-02-18: She invited friends for dinner at her place in Prague.
+2026-03-19: She asked how to renew her public transport pass in Prague.
+2026-05-03: She described her walk to the park near her home in Prague.
+2026-04-03: She said the rent for her flat in Prague went up.
+2026-03-13: She lives in Prague.
+2026-07-15: She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_city_1  (undated, chrono, mass 10, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She invited friends for dinner at her place in Prague.
+- She mentioned her flat in Prague.
+- She lives in Prague.
+- She asked how to renew her public transport pass in Prague.
+- She complained about the noise from the street outside her flat in Prague.
+- She said the rent for her flat in Prague went up.
+- She said she loves the cafés near her home in Prague.
+- She described her walk to the park near her home in Prague.
+- She mentioned the market close to her flat in Prague.
+- She talked about her neighbours in Prague.
+- She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_city_1  (undated, shuffled, mass 10, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She mentioned her flat in Prague.
+- She said she loves the cafés near her home in Prague.
+- She mentioned the market close to her flat in Prague.
+- She talked about her neighbours in Prague.
+- She complained about the noise from the street outside her flat in Prague.
+- She invited friends for dinner at her place in Prague.
+- She asked how to renew her public transport pass in Prague.
+- She described her walk to the park near her home in Prague.
+- She said the rent for her flat in Prague went up.
+- She lives in Prague.
+- She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_city_2  (dated, chrono, mass 10, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-01-11: She said the rent for her flat in Lisbon went up.
+2026-02-02: She described her walk to the park near her home in Lisbon.
+2026-02-14: She asked how to renew her public transport pass in Lisbon.
+2026-03-01: She complained about the noise from the street outside her flat in Lisbon.
+2026-04-05: She talked about her neighbours in Lisbon.
+2026-05-22: She invited friends for dinner at her place in Lisbon.
+2026-05-28: She mentioned the market close to her flat in Lisbon.
+2026-05-31: She mentioned her flat in Lisbon.
+2026-06-12: She lives in Lisbon.
+2026-06-29: She said she loves the cafés near her home in Lisbon.
+2026-07-15: She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_city_2  (dated, shuffled, mass 10, new entry first; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She lives in Madrid.
+2026-02-02: She described her walk to the park near her home in Lisbon.
+2026-01-11: She said the rent for her flat in Lisbon went up.
+2026-05-31: She mentioned her flat in Lisbon.
+2026-05-22: She invited friends for dinner at her place in Lisbon.
+2026-05-28: She mentioned the market close to her flat in Lisbon.
+2026-02-14: She asked how to renew her public transport pass in Lisbon.
+2026-06-29: She said she loves the cafés near her home in Lisbon.
+2026-03-01: She complained about the noise from the street outside her flat in Lisbon.
+2026-06-12: She lives in Lisbon.
+2026-04-05: She talked about her neighbours in Lisbon.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_city_2  (undated, chrono, mass 10, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She said the rent for her flat in Lisbon went up.
+- She described her walk to the park near her home in Lisbon.
+- She asked how to renew her public transport pass in Lisbon.
+- She complained about the noise from the street outside her flat in Lisbon.
+- She talked about her neighbours in Lisbon.
+- She invited friends for dinner at her place in Lisbon.
+- She mentioned the market close to her flat in Lisbon.
+- She mentioned her flat in Lisbon.
+- She lives in Lisbon.
+- She said she loves the cafés near her home in Lisbon.
+- She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_city_2  (undated, shuffled, mass 10, new entry first; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She lives in Madrid.
+- She described her walk to the park near her home in Lisbon.
+- She said the rent for her flat in Lisbon went up.
+- She mentioned her flat in Lisbon.
+- She invited friends for dinner at her place in Lisbon.
+- She mentioned the market close to her flat in Lisbon.
+- She asked how to renew her public transport pass in Lisbon.
+- She said she loves the cafés near her home in Lisbon.
+- She complained about the noise from the street outside her flat in Lisbon.
+- She lives in Lisbon.
+- She talked about her neighbours in Lisbon.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_employer_0  (dated, chrono, mass 10, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-01-21: She complained about the coffee machine at Northwind Analytics.
+2026-02-01: She said she had lunch with colleagues from Northwind Analytics.
+2026-02-15: She described the office of Northwind Analytics.
+2026-03-16: She asked how to write an email to HR at Northwind Analytics.
+2026-03-20: She works at Northwind Analytics.
+2026-03-26: She mentioned a training course organised by Northwind Analytics.
+2026-05-14: She said her manager at Northwind Analytics liked her report.
+2026-06-04: She said Northwind Analytics gave her a new laptop.
+2026-06-15: She talked about a deadline at Northwind Analytics.
+2026-06-19: She mentioned a meeting with her team at Northwind Analytics.
+2026-07-15: She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_employer_0  (dated, shuffled, mass 10, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-06-04: She said Northwind Analytics gave her a new laptop.
+2026-06-15: She talked about a deadline at Northwind Analytics.
+2026-05-14: She said her manager at Northwind Analytics liked her report.
+2026-03-26: She mentioned a training course organised by Northwind Analytics.
+2026-02-15: She described the office of Northwind Analytics.
+2026-03-16: She asked how to write an email to HR at Northwind Analytics.
+2026-01-21: She complained about the coffee machine at Northwind Analytics.
+2026-02-01: She said she had lunch with colleagues from Northwind Analytics.
+2026-06-19: She mentioned a meeting with her team at Northwind Analytics.
+2026-03-20: She works at Northwind Analytics.
+2026-07-15: She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_employer_0  (undated, chrono, mass 10, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She complained about the coffee machine at Northwind Analytics.
+- She said she had lunch with colleagues from Northwind Analytics.
+- She described the office of Northwind Analytics.
+- She asked how to write an email to HR at Northwind Analytics.
+- She works at Northwind Analytics.
+- She mentioned a training course organised by Northwind Analytics.
+- She said her manager at Northwind Analytics liked her report.
+- She said Northwind Analytics gave her a new laptop.
+- She talked about a deadline at Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_employer_0  (undated, shuffled, mass 10, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She said Northwind Analytics gave her a new laptop.
+- She talked about a deadline at Northwind Analytics.
+- She said her manager at Northwind Analytics liked her report.
+- She mentioned a training course organised by Northwind Analytics.
+- She described the office of Northwind Analytics.
+- She asked how to write an email to HR at Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+- She said she had lunch with colleagues from Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She works at Northwind Analytics.
+- She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_employer_1  (dated, chrono, mass 10, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-01-14: She talked about a deadline at Corvel Systems.
+2026-03-01: She asked how to write an email to HR at Corvel Systems.
+2026-03-26: She said Corvel Systems gave her a new laptop.
+2026-04-18: She said she had lunch with colleagues from Corvel Systems.
+2026-05-03: She described the office of Corvel Systems.
+2026-06-06: She mentioned a training course organised by Corvel Systems.
+2026-06-09: She complained about the coffee machine at Corvel Systems.
+2026-06-11: She works at Corvel Systems.
+2026-06-14: She said her manager at Corvel Systems liked her report.
+2026-06-21: She mentioned a meeting with her team at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_employer_1  (dated, shuffled, mass 10, new entry first; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She works at Ardent Data.
+2026-01-14: She talked about a deadline at Corvel Systems.
+2026-06-11: She works at Corvel Systems.
+2026-06-14: She said her manager at Corvel Systems liked her report.
+2026-04-18: She said she had lunch with colleagues from Corvel Systems.
+2026-03-26: She said Corvel Systems gave her a new laptop.
+2026-05-03: She described the office of Corvel Systems.
+2026-06-21: She mentioned a meeting with her team at Corvel Systems.
+2026-06-06: She mentioned a training course organised by Corvel Systems.
+2026-03-01: She asked how to write an email to HR at Corvel Systems.
+2026-06-09: She complained about the coffee machine at Corvel Systems.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_employer_1  (undated, chrono, mass 10, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She talked about a deadline at Corvel Systems.
+- She asked how to write an email to HR at Corvel Systems.
+- She said Corvel Systems gave her a new laptop.
+- She said she had lunch with colleagues from Corvel Systems.
+- She described the office of Corvel Systems.
+- She mentioned a training course organised by Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+- She works at Corvel Systems.
+- She said her manager at Corvel Systems liked her report.
+- She mentioned a meeting with her team at Corvel Systems.
+- She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_employer_1  (undated, shuffled, mass 10, new entry first; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She works at Ardent Data.
+- She talked about a deadline at Corvel Systems.
+- She works at Corvel Systems.
+- She said her manager at Corvel Systems liked her report.
+- She said she had lunch with colleagues from Corvel Systems.
+- She said Corvel Systems gave her a new laptop.
+- She described the office of Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She mentioned a training course organised by Corvel Systems.
+- She asked how to write an email to HR at Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_employer_2  (dated, chrono, mass 10, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-01-10: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-01-19: She mentioned a training course organised by Maple Ridge Studio.
+2026-02-24: She said her manager at Maple Ridge Studio liked her report.
+2026-03-22: She talked about a deadline at Maple Ridge Studio.
+2026-03-27: She asked how to write an email to HR at Maple Ridge Studio.
+2026-04-02: She described the office of Maple Ridge Studio.
+2026-04-21: She complained about the coffee machine at Maple Ridge Studio.
+2026-05-23: She said Maple Ridge Studio gave her a new laptop.
+2026-05-28: She said she had lunch with colleagues from Maple Ridge Studio.
+2026-06-03: She works at Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_employer_2  (dated, shuffled, mass 10, new entry middle; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-04-02: She described the office of Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+2026-03-27: She asked how to write an email to HR at Maple Ridge Studio.
+2026-03-22: She talked about a deadline at Maple Ridge Studio.
+2026-05-28: She said she had lunch with colleagues from Maple Ridge Studio.
+2026-05-23: She said Maple Ridge Studio gave her a new laptop.
+2026-04-21: She complained about the coffee machine at Maple Ridge Studio.
+2026-01-10: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-06-03: She works at Maple Ridge Studio.
+2026-02-24: She said her manager at Maple Ridge Studio liked her report.
+2026-01-19: She mentioned a training course organised by Maple Ridge Studio.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_employer_2  (undated, chrono, mass 10, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She mentioned a training course organised by Maple Ridge Studio.
+- She said her manager at Maple Ridge Studio liked her report.
+- She talked about a deadline at Maple Ridge Studio.
+- She asked how to write an email to HR at Maple Ridge Studio.
+- She described the office of Maple Ridge Studio.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She said Maple Ridge Studio gave her a new laptop.
+- She said she had lunch with colleagues from Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_employer_2  (undated, shuffled, mass 10, new entry middle; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She described the office of Maple Ridge Studio.
+- She works at Quillstone Media.
+- She asked how to write an email to HR at Maple Ridge Studio.
+- She talked about a deadline at Maple Ridge Studio.
+- She said she had lunch with colleagues from Maple Ridge Studio.
+- She said Maple Ridge Studio gave her a new laptop.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She said her manager at Maple Ridge Studio liked her report.
+- She mentioned a training course organised by Maple Ridge Studio.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_gym_0  (dated, chrono, mass 10, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-01-12: She talked about the opening hours of Ironleaf Gym.
+2026-02-06: She trains at Ironleaf Gym.
+2026-02-11: She described the weights area at Ironleaf Gym.
+2026-02-20: She mentioned her trainer at Ironleaf Gym.
+2026-03-11: She mentioned a friend she met at Ironleaf Gym.
+2026-04-16: She said she ran 5 km on a treadmill at Ironleaf Gym.
+2026-05-23: She talked about a yoga class at Ironleaf Gym.
+2026-05-27: She asked how to pause her membership at Ironleaf Gym.
+2026-06-23: She said the showers at Ironleaf Gym were cold.
+2026-06-29: She said Ironleaf Gym was crowded on Monday.
+2026-07-15: She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_gym_0  (dated, shuffled, mass 10, new entry first; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She trains at Harbour Fitness.
+2026-05-27: She asked how to pause her membership at Ironleaf Gym.
+2026-05-23: She talked about a yoga class at Ironleaf Gym.
+2026-02-06: She trains at Ironleaf Gym.
+2026-04-16: She said she ran 5 km on a treadmill at Ironleaf Gym.
+2026-06-29: She said Ironleaf Gym was crowded on Monday.
+2026-03-11: She mentioned a friend she met at Ironleaf Gym.
+2026-02-11: She described the weights area at Ironleaf Gym.
+2026-06-23: She said the showers at Ironleaf Gym were cold.
+2026-01-12: She talked about the opening hours of Ironleaf Gym.
+2026-02-20: She mentioned her trainer at Ironleaf Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_gym_0  (undated, chrono, mass 10, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She talked about the opening hours of Ironleaf Gym.
+- She trains at Ironleaf Gym.
+- She described the weights area at Ironleaf Gym.
+- She mentioned her trainer at Ironleaf Gym.
+- She mentioned a friend she met at Ironleaf Gym.
+- She said she ran 5 km on a treadmill at Ironleaf Gym.
+- She talked about a yoga class at Ironleaf Gym.
+- She asked how to pause her membership at Ironleaf Gym.
+- She said the showers at Ironleaf Gym were cold.
+- She said Ironleaf Gym was crowded on Monday.
+- She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_gym_0  (undated, shuffled, mass 10, new entry first; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She trains at Harbour Fitness.
+- She asked how to pause her membership at Ironleaf Gym.
+- She talked about a yoga class at Ironleaf Gym.
+- She trains at Ironleaf Gym.
+- She said she ran 5 km on a treadmill at Ironleaf Gym.
+- She said Ironleaf Gym was crowded on Monday.
+- She mentioned a friend she met at Ironleaf Gym.
+- She described the weights area at Ironleaf Gym.
+- She said the showers at Ironleaf Gym were cold.
+- She talked about the opening hours of Ironleaf Gym.
+- She mentioned her trainer at Ironleaf Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_gym_1  (dated, chrono, mass 10, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-01-07: She asked how to pause her membership at Peak Motion Club.
+2026-01-19: She talked about a yoga class at Peak Motion Club.
+2026-02-12: She talked about the opening hours of Peak Motion Club.
+2026-03-02: She mentioned a friend she met at Peak Motion Club.
+2026-03-08: She said Peak Motion Club was crowded on Monday.
+2026-05-05: She trains at Peak Motion Club.
+2026-05-15: She described the weights area at Peak Motion Club.
+2026-06-14: She said she ran 5 km on a treadmill at Peak Motion Club.
+2026-06-22: She mentioned her trainer at Peak Motion Club.
+2026-06-27: She said the showers at Peak Motion Club were cold.
+2026-07-15: She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_gym_1  (dated, shuffled, mass 10, new entry middle; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-01-07: She asked how to pause her membership at Peak Motion Club.
+2026-06-27: She said the showers at Peak Motion Club were cold.
+2026-06-14: She said she ran 5 km on a treadmill at Peak Motion Club.
+2026-01-19: She talked about a yoga class at Peak Motion Club.
+2026-06-22: She mentioned her trainer at Peak Motion Club.
+2026-02-12: She talked about the opening hours of Peak Motion Club.
+2026-03-08: She said Peak Motion Club was crowded on Monday.
+2026-03-02: She mentioned a friend she met at Peak Motion Club.
+2026-07-15: She trains at Riverside Sports Hall.
+2026-05-05: She trains at Peak Motion Club.
+2026-05-15: She described the weights area at Peak Motion Club.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_gym_1  (undated, chrono, mass 10, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She asked how to pause her membership at Peak Motion Club.
+- She talked about a yoga class at Peak Motion Club.
+- She talked about the opening hours of Peak Motion Club.
+- She mentioned a friend she met at Peak Motion Club.
+- She said Peak Motion Club was crowded on Monday.
+- She trains at Peak Motion Club.
+- She described the weights area at Peak Motion Club.
+- She said she ran 5 km on a treadmill at Peak Motion Club.
+- She mentioned her trainer at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_gym_1  (undated, shuffled, mass 10, new entry middle; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She asked how to pause her membership at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She said she ran 5 km on a treadmill at Peak Motion Club.
+- She talked about a yoga class at Peak Motion Club.
+- She mentioned her trainer at Peak Motion Club.
+- She talked about the opening hours of Peak Motion Club.
+- She said Peak Motion Club was crowded on Monday.
+- She mentioned a friend she met at Peak Motion Club.
+- She trains at Riverside Sports Hall.
+- She trains at Peak Motion Club.
+- She described the weights area at Peak Motion Club.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m10_gym_2  (dated, chrono, mass 10, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-01-06: She mentioned her trainer at Copperfield Gym.
+2026-01-14: She talked about a yoga class at Copperfield Gym.
+2026-02-13: She trains at Copperfield Gym.
+2026-04-05: She said the showers at Copperfield Gym were cold.
+2026-04-19: She described the weights area at Copperfield Gym.
+2026-04-20: She asked how to pause her membership at Copperfield Gym.
+2026-05-09: She said Copperfield Gym was crowded on Monday.
+2026-05-18: She said she ran 5 km on a treadmill at Copperfield Gym.
+2026-06-14: She talked about the opening hours of Copperfield Gym.
+2026-06-17: She mentioned a friend she met at Copperfield Gym.
+2026-07-15: She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m10_gym_2  (dated, shuffled, mass 10, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-04-05: She said the showers at Copperfield Gym were cold.
+2026-01-06: She mentioned her trainer at Copperfield Gym.
+2026-04-20: She asked how to pause her membership at Copperfield Gym.
+2026-06-14: She talked about the opening hours of Copperfield Gym.
+2026-05-09: She said Copperfield Gym was crowded on Monday.
+2026-05-18: She said she ran 5 km on a treadmill at Copperfield Gym.
+2026-06-17: She mentioned a friend she met at Copperfield Gym.
+2026-04-19: She described the weights area at Copperfield Gym.
+2026-01-14: She talked about a yoga class at Copperfield Gym.
+2026-02-13: She trains at Copperfield Gym.
+2026-07-15: She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m10_gym_2  (undated, chrono, mass 10, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She mentioned her trainer at Copperfield Gym.
+- She talked about a yoga class at Copperfield Gym.
+- She trains at Copperfield Gym.
+- She said the showers at Copperfield Gym were cold.
+- She described the weights area at Copperfield Gym.
+- She asked how to pause her membership at Copperfield Gym.
+- She said Copperfield Gym was crowded on Monday.
+- She said she ran 5 km on a treadmill at Copperfield Gym.
+- She talked about the opening hours of Copperfield Gym.
+- She mentioned a friend she met at Copperfield Gym.
+- She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m10_gym_2  (undated, shuffled, mass 10, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She said the showers at Copperfield Gym were cold.
+- She mentioned her trainer at Copperfield Gym.
+- She asked how to pause her membership at Copperfield Gym.
+- She talked about the opening hours of Copperfield Gym.
+- She said Copperfield Gym was crowded on Monday.
+- She said she ran 5 km on a treadmill at Copperfield Gym.
+- She mentioned a friend she met at Copperfield Gym.
+- She described the weights area at Copperfield Gym.
+- She talked about a yoga class at Copperfield Gym.
+- She trains at Copperfield Gym.
+- She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_city_0  (dated, chrono, mass 20, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-01-07: She mentioned her flat in Vienna.
+2026-01-15: She invited friends for dinner at her place in Vienna.
+2026-02-08: She asked how to renew her public transport pass in Vienna.
+2026-02-15: She asked how to renew her public transport pass in Vienna.
+2026-02-22: She said she loves the cafés near her home in Vienna.
+2026-03-19: She said the rent for her flat in Vienna went up.
+2026-03-20: She said the rent for her flat in Vienna went up.
+2026-03-21: She said she loves the cafés near her home in Vienna.
+2026-03-25: She talked about cycling to the shops near her home in Vienna.
+2026-04-06: She talked about her neighbours in Vienna.
+2026-04-14: She said her landlord in Vienna fixed the heating.
+2026-04-23: She lives in Vienna.
+2026-05-07: She described her walk to the park near her home in Vienna.
+2026-05-22: She talked about her neighbours in Vienna.
+2026-05-23: She complained about the noise from the street outside her flat in Vienna.
+2026-06-05: She mentioned her flat in Vienna.
+2026-06-09: She mentioned the market close to her flat in Vienna.
+2026-06-15: She complained about the noise from the street outside her flat in Vienna.
+2026-06-19: She invited friends for dinner at her place in Vienna.
+2026-06-23: She lives in Vienna.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_city_0  (dated, shuffled, mass 20, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+2026-02-15: She asked how to renew her public transport pass in Vienna.
+2026-03-20: She said the rent for her flat in Vienna went up.
+2026-02-22: She said she loves the cafés near her home in Vienna.
+2026-06-05: She mentioned her flat in Vienna.
+2026-03-21: She said she loves the cafés near her home in Vienna.
+2026-05-07: She described her walk to the park near her home in Vienna.
+2026-04-06: She talked about her neighbours in Vienna.
+2026-06-19: She invited friends for dinner at her place in Vienna.
+2026-04-23: She lives in Vienna.
+2026-05-23: She complained about the noise from the street outside her flat in Vienna.
+2026-01-15: She invited friends for dinner at her place in Vienna.
+2026-06-15: She complained about the noise from the street outside her flat in Vienna.
+2026-05-22: She talked about her neighbours in Vienna.
+2026-02-08: She asked how to renew her public transport pass in Vienna.
+2026-03-25: She talked about cycling to the shops near her home in Vienna.
+2026-04-14: She said her landlord in Vienna fixed the heating.
+2026-06-23: She lives in Vienna.
+2026-01-07: She mentioned her flat in Vienna.
+2026-06-09: She mentioned the market close to her flat in Vienna.
+2026-03-19: She said the rent for her flat in Vienna went up.
+2026-07-15: She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_city_0  (undated, chrono, mass 20, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She mentioned her flat in Vienna.
+- She invited friends for dinner at her place in Vienna.
+- She asked how to renew her public transport pass in Vienna.
+- She asked how to renew her public transport pass in Vienna.
+- She said she loves the cafés near her home in Vienna.
+- She said the rent for her flat in Vienna went up.
+- She said the rent for her flat in Vienna went up.
+- She said she loves the cafés near her home in Vienna.
+- She talked about cycling to the shops near her home in Vienna.
+- She talked about her neighbours in Vienna.
+- She said her landlord in Vienna fixed the heating.
+- She lives in Vienna.
+- She described her walk to the park near her home in Vienna.
+- She talked about her neighbours in Vienna.
+- She complained about the noise from the street outside her flat in Vienna.
+- She mentioned her flat in Vienna.
+- She mentioned the market close to her flat in Vienna.
+- She complained about the noise from the street outside her flat in Vienna.
+- She invited friends for dinner at her place in Vienna.
+- She lives in Vienna.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_city_0  (undated, shuffled, mass 20, new entry last; old=Vienna new=Budapest)
+These are your saved memories about the user from previous conversations:
+- She asked how to renew her public transport pass in Vienna.
+- She said the rent for her flat in Vienna went up.
+- She said she loves the cafés near her home in Vienna.
+- She mentioned her flat in Vienna.
+- She said she loves the cafés near her home in Vienna.
+- She described her walk to the park near her home in Vienna.
+- She talked about her neighbours in Vienna.
+- She invited friends for dinner at her place in Vienna.
+- She lives in Vienna.
+- She complained about the noise from the street outside her flat in Vienna.
+- She invited friends for dinner at her place in Vienna.
+- She complained about the noise from the street outside her flat in Vienna.
+- She talked about her neighbours in Vienna.
+- She asked how to renew her public transport pass in Vienna.
+- She talked about cycling to the shops near her home in Vienna.
+- She said her landlord in Vienna fixed the heating.
+- She lives in Vienna.
+- She mentioned her flat in Vienna.
+- She mentioned the market close to her flat in Vienna.
+- She said the rent for her flat in Vienna went up.
+- She lives in Budapest.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_city_1  (dated, chrono, mass 20, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-01-22: She talked about her neighbours in Prague.
+2026-01-26: She described her walk to the park near her home in Prague.
+2026-01-27: She said she loves the cafés near her home in Prague.
+2026-02-17: She lives in Prague.
+2026-03-03: She invited friends for dinner at her place in Prague.
+2026-03-13: She asked how to renew her public transport pass in Prague.
+2026-03-25: She talked about her neighbours in Prague.
+2026-03-28: She lives in Prague.
+2026-03-29: She mentioned the market close to her flat in Prague.
+2026-03-30: She invited friends for dinner at her place in Prague.
+2026-04-03: She complained about the noise from the street outside her flat in Prague.
+2026-04-06: She mentioned her flat in Prague.
+2026-04-25: She talked about cycling to the shops near her home in Prague.
+2026-05-01: She mentioned her flat in Prague.
+2026-05-11: She complained about the noise from the street outside her flat in Prague.
+2026-05-14: She said her landlord in Prague fixed the heating.
+2026-05-28: She said she loves the cafés near her home in Prague.
+2026-06-03: She asked how to renew her public transport pass in Prague.
+2026-06-23: She said the rent for her flat in Prague went up.
+2026-06-28: She said the rent for her flat in Prague went up.
+2026-07-15: She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_city_1  (dated, shuffled, mass 20, new entry first; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She lives in Warsaw.
+2026-01-22: She talked about her neighbours in Prague.
+2026-01-27: She said she loves the cafés near her home in Prague.
+2026-03-03: She invited friends for dinner at her place in Prague.
+2026-03-30: She invited friends for dinner at her place in Prague.
+2026-05-11: She complained about the noise from the street outside her flat in Prague.
+2026-05-01: She mentioned her flat in Prague.
+2026-01-26: She described her walk to the park near her home in Prague.
+2026-03-29: She mentioned the market close to her flat in Prague.
+2026-06-28: She said the rent for her flat in Prague went up.
+2026-06-03: She asked how to renew her public transport pass in Prague.
+2026-05-28: She said she loves the cafés near her home in Prague.
+2026-04-06: She mentioned her flat in Prague.
+2026-02-17: She lives in Prague.
+2026-03-28: She lives in Prague.
+2026-06-23: She said the rent for her flat in Prague went up.
+2026-03-25: She talked about her neighbours in Prague.
+2026-03-13: She asked how to renew her public transport pass in Prague.
+2026-04-03: She complained about the noise from the street outside her flat in Prague.
+2026-04-25: She talked about cycling to the shops near her home in Prague.
+2026-05-14: She said her landlord in Prague fixed the heating.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_city_1  (undated, chrono, mass 20, new entry last; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She talked about her neighbours in Prague.
+- She described her walk to the park near her home in Prague.
+- She said she loves the cafés near her home in Prague.
+- She lives in Prague.
+- She invited friends for dinner at her place in Prague.
+- She asked how to renew her public transport pass in Prague.
+- She talked about her neighbours in Prague.
+- She lives in Prague.
+- She mentioned the market close to her flat in Prague.
+- She invited friends for dinner at her place in Prague.
+- She complained about the noise from the street outside her flat in Prague.
+- She mentioned her flat in Prague.
+- She talked about cycling to the shops near her home in Prague.
+- She mentioned her flat in Prague.
+- She complained about the noise from the street outside her flat in Prague.
+- She said her landlord in Prague fixed the heating.
+- She said she loves the cafés near her home in Prague.
+- She asked how to renew her public transport pass in Prague.
+- She said the rent for her flat in Prague went up.
+- She said the rent for her flat in Prague went up.
+- She lives in Warsaw.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_city_1  (undated, shuffled, mass 20, new entry first; old=Prague new=Warsaw)
+These are your saved memories about the user from previous conversations:
+- She lives in Warsaw.
+- She talked about her neighbours in Prague.
+- She said she loves the cafés near her home in Prague.
+- She invited friends for dinner at her place in Prague.
+- She invited friends for dinner at her place in Prague.
+- She complained about the noise from the street outside her flat in Prague.
+- She mentioned her flat in Prague.
+- She described her walk to the park near her home in Prague.
+- She mentioned the market close to her flat in Prague.
+- She said the rent for her flat in Prague went up.
+- She asked how to renew her public transport pass in Prague.
+- She said she loves the cafés near her home in Prague.
+- She mentioned her flat in Prague.
+- She lives in Prague.
+- She lives in Prague.
+- She said the rent for her flat in Prague went up.
+- She talked about her neighbours in Prague.
+- She asked how to renew her public transport pass in Prague.
+- She complained about the noise from the street outside her flat in Prague.
+- She talked about cycling to the shops near her home in Prague.
+- She said her landlord in Prague fixed the heating.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_city_2  (dated, chrono, mass 20, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-01-10: She lives in Lisbon.
+2026-01-20: She mentioned her flat in Lisbon.
+2026-01-29: She mentioned the market close to her flat in Lisbon.
+2026-02-18: She complained about the noise from the street outside her flat in Lisbon.
+2026-02-27: She said the rent for her flat in Lisbon went up.
+2026-03-30: She lives in Lisbon.
+2026-04-01: She talked about cycling to the shops near her home in Lisbon.
+2026-04-05: She mentioned her flat in Lisbon.
+2026-04-17: She invited friends for dinner at her place in Lisbon.
+2026-04-19: She complained about the noise from the street outside her flat in Lisbon.
+2026-04-23: She said she loves the cafés near her home in Lisbon.
+2026-05-11: She invited friends for dinner at her place in Lisbon.
+2026-05-17: She asked how to renew her public transport pass in Lisbon.
+2026-05-24: She talked about her neighbours in Lisbon.
+2026-05-25: She asked how to renew her public transport pass in Lisbon.
+2026-06-16: She talked about her neighbours in Lisbon.
+2026-06-19: She described her walk to the park near her home in Lisbon.
+2026-06-24: She said the rent for her flat in Lisbon went up.
+2026-06-26: She said she loves the cafés near her home in Lisbon.
+2026-06-27: She said her landlord in Lisbon fixed the heating.
+2026-07-15: She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_city_2  (dated, shuffled, mass 20, new entry middle; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+2026-02-18: She complained about the noise from the street outside her flat in Lisbon.
+2026-06-16: She talked about her neighbours in Lisbon.
+2026-01-29: She mentioned the market close to her flat in Lisbon.
+2026-06-19: She described her walk to the park near her home in Lisbon.
+2026-01-20: She mentioned her flat in Lisbon.
+2026-05-17: She asked how to renew her public transport pass in Lisbon.
+2026-06-27: She said her landlord in Lisbon fixed the heating.
+2026-05-25: She asked how to renew her public transport pass in Lisbon.
+2026-05-11: She invited friends for dinner at her place in Lisbon.
+2026-04-05: She mentioned her flat in Lisbon.
+2026-04-01: She talked about cycling to the shops near her home in Lisbon.
+2026-07-15: She lives in Madrid.
+2026-05-24: She talked about her neighbours in Lisbon.
+2026-04-23: She said she loves the cafés near her home in Lisbon.
+2026-04-19: She complained about the noise from the street outside her flat in Lisbon.
+2026-03-30: She lives in Lisbon.
+2026-02-27: She said the rent for her flat in Lisbon went up.
+2026-06-26: She said she loves the cafés near her home in Lisbon.
+2026-06-24: She said the rent for her flat in Lisbon went up.
+2026-04-17: She invited friends for dinner at her place in Lisbon.
+2026-01-10: She lives in Lisbon.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_city_2  (undated, chrono, mass 20, new entry last; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She lives in Lisbon.
+- She mentioned her flat in Lisbon.
+- She mentioned the market close to her flat in Lisbon.
+- She complained about the noise from the street outside her flat in Lisbon.
+- She said the rent for her flat in Lisbon went up.
+- She lives in Lisbon.
+- She talked about cycling to the shops near her home in Lisbon.
+- She mentioned her flat in Lisbon.
+- She invited friends for dinner at her place in Lisbon.
+- She complained about the noise from the street outside her flat in Lisbon.
+- She said she loves the cafés near her home in Lisbon.
+- She invited friends for dinner at her place in Lisbon.
+- She asked how to renew her public transport pass in Lisbon.
+- She talked about her neighbours in Lisbon.
+- She asked how to renew her public transport pass in Lisbon.
+- She talked about her neighbours in Lisbon.
+- She described her walk to the park near her home in Lisbon.
+- She said the rent for her flat in Lisbon went up.
+- She said she loves the cafés near her home in Lisbon.
+- She said her landlord in Lisbon fixed the heating.
+- She lives in Madrid.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_city_2  (undated, shuffled, mass 20, new entry middle; old=Lisbon new=Madrid)
+These are your saved memories about the user from previous conversations:
+- She complained about the noise from the street outside her flat in Lisbon.
+- She talked about her neighbours in Lisbon.
+- She mentioned the market close to her flat in Lisbon.
+- She described her walk to the park near her home in Lisbon.
+- She mentioned her flat in Lisbon.
+- She asked how to renew her public transport pass in Lisbon.
+- She said her landlord in Lisbon fixed the heating.
+- She asked how to renew her public transport pass in Lisbon.
+- She invited friends for dinner at her place in Lisbon.
+- She mentioned her flat in Lisbon.
+- She talked about cycling to the shops near her home in Lisbon.
+- She lives in Madrid.
+- She talked about her neighbours in Lisbon.
+- She said she loves the cafés near her home in Lisbon.
+- She complained about the noise from the street outside her flat in Lisbon.
+- She lives in Lisbon.
+- She said the rent for her flat in Lisbon went up.
+- She said she loves the cafés near her home in Lisbon.
+- She said the rent for her flat in Lisbon went up.
+- She invited friends for dinner at her place in Lisbon.
+- She lives in Lisbon.
+
+Question: Where does she live now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_employer_0  (dated, chrono, mass 20, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-01-12: She talked about a deadline at Northwind Analytics.
+2026-01-16: She said she had lunch with colleagues from Northwind Analytics.
+2026-01-26: She described the office of Northwind Analytics.
+2026-02-01: She works at Northwind Analytics.
+2026-02-08: She complained about the coffee machine at Northwind Analytics.
+2026-02-17: She mentioned a team party at Northwind Analytics.
+2026-02-21: She mentioned a training course organised by Northwind Analytics.
+2026-03-15: She mentioned a training course organised by Northwind Analytics.
+2026-03-25: She mentioned a meeting with her team at Northwind Analytics.
+2026-04-21: She said her manager at Northwind Analytics liked her report.
+2026-04-22: She said her manager at Northwind Analytics liked her report.
+2026-05-16: She mentioned a meeting with her team at Northwind Analytics.
+2026-05-18: She described the office of Northwind Analytics.
+2026-05-25: She talked about the commute to Northwind Analytics.
+2026-05-28: She said Northwind Analytics gave her a new laptop.
+2026-05-30: She asked how to write an email to HR at Northwind Analytics.
+2026-06-04: She talked about a deadline at Northwind Analytics.
+2026-06-09: She complained about the coffee machine at Northwind Analytics.
+2026-06-26: She said she had lunch with colleagues from Northwind Analytics.
+2026-06-28: She works at Northwind Analytics.
+2026-07-15: She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_employer_0  (dated, shuffled, mass 20, new entry first; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She works at Bluefield Labs.
+2026-02-21: She mentioned a training course organised by Northwind Analytics.
+2026-01-26: She described the office of Northwind Analytics.
+2026-03-25: She mentioned a meeting with her team at Northwind Analytics.
+2026-06-04: She talked about a deadline at Northwind Analytics.
+2026-01-16: She said she had lunch with colleagues from Northwind Analytics.
+2026-02-01: She works at Northwind Analytics.
+2026-05-25: She talked about the commute to Northwind Analytics.
+2026-01-12: She talked about a deadline at Northwind Analytics.
+2026-06-26: She said she had lunch with colleagues from Northwind Analytics.
+2026-05-28: She said Northwind Analytics gave her a new laptop.
+2026-05-18: She described the office of Northwind Analytics.
+2026-02-08: She complained about the coffee machine at Northwind Analytics.
+2026-06-28: She works at Northwind Analytics.
+2026-04-21: She said her manager at Northwind Analytics liked her report.
+2026-02-17: She mentioned a team party at Northwind Analytics.
+2026-05-16: She mentioned a meeting with her team at Northwind Analytics.
+2026-06-09: She complained about the coffee machine at Northwind Analytics.
+2026-04-22: She said her manager at Northwind Analytics liked her report.
+2026-05-30: She asked how to write an email to HR at Northwind Analytics.
+2026-03-15: She mentioned a training course organised by Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_employer_0  (undated, chrono, mass 20, new entry last; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She talked about a deadline at Northwind Analytics.
+- She said she had lunch with colleagues from Northwind Analytics.
+- She described the office of Northwind Analytics.
+- She works at Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+- She mentioned a team party at Northwind Analytics.
+- She mentioned a training course organised by Northwind Analytics.
+- She mentioned a training course organised by Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She said her manager at Northwind Analytics liked her report.
+- She said her manager at Northwind Analytics liked her report.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She described the office of Northwind Analytics.
+- She talked about the commute to Northwind Analytics.
+- She said Northwind Analytics gave her a new laptop.
+- She asked how to write an email to HR at Northwind Analytics.
+- She talked about a deadline at Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+- She said she had lunch with colleagues from Northwind Analytics.
+- She works at Northwind Analytics.
+- She works at Bluefield Labs.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_employer_0  (undated, shuffled, mass 20, new entry first; old=Northwind Analytics new=Bluefield Labs)
+These are your saved memories about the user from previous conversations:
+- She works at Bluefield Labs.
+- She mentioned a training course organised by Northwind Analytics.
+- She described the office of Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She talked about a deadline at Northwind Analytics.
+- She said she had lunch with colleagues from Northwind Analytics.
+- She works at Northwind Analytics.
+- She talked about the commute to Northwind Analytics.
+- She talked about a deadline at Northwind Analytics.
+- She said she had lunch with colleagues from Northwind Analytics.
+- She said Northwind Analytics gave her a new laptop.
+- She described the office of Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+- She works at Northwind Analytics.
+- She said her manager at Northwind Analytics liked her report.
+- She mentioned a team party at Northwind Analytics.
+- She mentioned a meeting with her team at Northwind Analytics.
+- She complained about the coffee machine at Northwind Analytics.
+- She said her manager at Northwind Analytics liked her report.
+- She asked how to write an email to HR at Northwind Analytics.
+- She mentioned a training course organised by Northwind Analytics.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_employer_1  (dated, chrono, mass 20, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-01-24: She said Corvel Systems gave her a new laptop.
+2026-02-01: She described the office of Corvel Systems.
+2026-02-18: She mentioned a meeting with her team at Corvel Systems.
+2026-02-20: She complained about the coffee machine at Corvel Systems.
+2026-02-28: She talked about the commute to Corvel Systems.
+2026-03-11: She said she had lunch with colleagues from Corvel Systems.
+2026-03-27: She mentioned a training course organised by Corvel Systems.
+2026-03-29: She works at Corvel Systems.
+2026-04-01: She works at Corvel Systems.
+2026-04-07: She said her manager at Corvel Systems liked her report.
+2026-04-13: She talked about a deadline at Corvel Systems.
+2026-05-10: She described the office of Corvel Systems.
+2026-05-15: She talked about a deadline at Corvel Systems.
+2026-05-18: She mentioned a meeting with her team at Corvel Systems.
+2026-05-20: She said her manager at Corvel Systems liked her report.
+2026-05-28: She mentioned a training course organised by Corvel Systems.
+2026-06-06: She mentioned a team party at Corvel Systems.
+2026-06-09: She said she had lunch with colleagues from Corvel Systems.
+2026-06-15: She complained about the coffee machine at Corvel Systems.
+2026-06-23: She asked how to write an email to HR at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_employer_1  (dated, shuffled, mass 20, new entry middle; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+2026-06-23: She asked how to write an email to HR at Corvel Systems.
+2026-06-06: She mentioned a team party at Corvel Systems.
+2026-04-07: She said her manager at Corvel Systems liked her report.
+2026-03-11: She said she had lunch with colleagues from Corvel Systems.
+2026-05-10: She described the office of Corvel Systems.
+2026-04-13: She talked about a deadline at Corvel Systems.
+2026-02-01: She described the office of Corvel Systems.
+2026-06-09: She said she had lunch with colleagues from Corvel Systems.
+2026-02-28: She talked about the commute to Corvel Systems.
+2026-02-20: She complained about the coffee machine at Corvel Systems.
+2026-05-15: She talked about a deadline at Corvel Systems.
+2026-02-18: She mentioned a meeting with her team at Corvel Systems.
+2026-06-15: She complained about the coffee machine at Corvel Systems.
+2026-05-28: She mentioned a training course organised by Corvel Systems.
+2026-04-01: She works at Corvel Systems.
+2026-05-18: She mentioned a meeting with her team at Corvel Systems.
+2026-03-27: She mentioned a training course organised by Corvel Systems.
+2026-03-29: She works at Corvel Systems.
+2026-07-15: She works at Ardent Data.
+2026-05-20: She said her manager at Corvel Systems liked her report.
+2026-01-24: She said Corvel Systems gave her a new laptop.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_employer_1  (undated, chrono, mass 20, new entry last; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She said Corvel Systems gave her a new laptop.
+- She described the office of Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+- She talked about the commute to Corvel Systems.
+- She said she had lunch with colleagues from Corvel Systems.
+- She mentioned a training course organised by Corvel Systems.
+- She works at Corvel Systems.
+- She works at Corvel Systems.
+- She said her manager at Corvel Systems liked her report.
+- She talked about a deadline at Corvel Systems.
+- She described the office of Corvel Systems.
+- She talked about a deadline at Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She said her manager at Corvel Systems liked her report.
+- She mentioned a training course organised by Corvel Systems.
+- She mentioned a team party at Corvel Systems.
+- She said she had lunch with colleagues from Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+- She asked how to write an email to HR at Corvel Systems.
+- She works at Ardent Data.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_employer_1  (undated, shuffled, mass 20, new entry middle; old=Corvel Systems new=Ardent Data)
+These are your saved memories about the user from previous conversations:
+- She asked how to write an email to HR at Corvel Systems.
+- She mentioned a team party at Corvel Systems.
+- She said her manager at Corvel Systems liked her report.
+- She said she had lunch with colleagues from Corvel Systems.
+- She described the office of Corvel Systems.
+- She talked about a deadline at Corvel Systems.
+- She described the office of Corvel Systems.
+- She said she had lunch with colleagues from Corvel Systems.
+- She talked about the commute to Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+- She talked about a deadline at Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She complained about the coffee machine at Corvel Systems.
+- She mentioned a training course organised by Corvel Systems.
+- She works at Corvel Systems.
+- She mentioned a meeting with her team at Corvel Systems.
+- She mentioned a training course organised by Corvel Systems.
+- She works at Corvel Systems.
+- She works at Ardent Data.
+- She said her manager at Corvel Systems liked her report.
+- She said Corvel Systems gave her a new laptop.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_employer_2  (dated, chrono, mass 20, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-01-12: She asked how to write an email to HR at Maple Ridge Studio.
+2026-01-18: She described the office of Maple Ridge Studio.
+2026-01-28: She said her manager at Maple Ridge Studio liked her report.
+2026-02-06: She mentioned a training course organised by Maple Ridge Studio.
+2026-02-13: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-02-17: She works at Maple Ridge Studio.
+2026-02-21: She said she had lunch with colleagues from Maple Ridge Studio.
+2026-03-02: She said her manager at Maple Ridge Studio liked her report.
+2026-03-22: She complained about the coffee machine at Maple Ridge Studio.
+2026-04-08: She works at Maple Ridge Studio.
+2026-04-20: She said Maple Ridge Studio gave her a new laptop.
+2026-05-02: She talked about the commute to Maple Ridge Studio.
+2026-05-04: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-05-10: She complained about the coffee machine at Maple Ridge Studio.
+2026-05-16: She mentioned a team party at Maple Ridge Studio.
+2026-05-23: She talked about a deadline at Maple Ridge Studio.
+2026-05-24: She talked about a deadline at Maple Ridge Studio.
+2026-06-13: She said she had lunch with colleagues from Maple Ridge Studio.
+2026-06-18: She described the office of Maple Ridge Studio.
+2026-06-28: She mentioned a training course organised by Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_employer_2  (dated, shuffled, mass 20, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+2026-01-28: She said her manager at Maple Ridge Studio liked her report.
+2026-02-06: She mentioned a training course organised by Maple Ridge Studio.
+2026-05-16: She mentioned a team party at Maple Ridge Studio.
+2026-03-22: She complained about the coffee machine at Maple Ridge Studio.
+2026-05-02: She talked about the commute to Maple Ridge Studio.
+2026-05-04: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-02-21: She said she had lunch with colleagues from Maple Ridge Studio.
+2026-06-13: She said she had lunch with colleagues from Maple Ridge Studio.
+2026-05-24: She talked about a deadline at Maple Ridge Studio.
+2026-04-08: She works at Maple Ridge Studio.
+2026-02-17: She works at Maple Ridge Studio.
+2026-05-23: She talked about a deadline at Maple Ridge Studio.
+2026-06-28: She mentioned a training course organised by Maple Ridge Studio.
+2026-01-12: She asked how to write an email to HR at Maple Ridge Studio.
+2026-03-02: She said her manager at Maple Ridge Studio liked her report.
+2026-01-18: She described the office of Maple Ridge Studio.
+2026-06-18: She described the office of Maple Ridge Studio.
+2026-04-20: She said Maple Ridge Studio gave her a new laptop.
+2026-02-13: She mentioned a meeting with her team at Maple Ridge Studio.
+2026-05-10: She complained about the coffee machine at Maple Ridge Studio.
+2026-07-15: She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_employer_2  (undated, chrono, mass 20, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She asked how to write an email to HR at Maple Ridge Studio.
+- She described the office of Maple Ridge Studio.
+- She said her manager at Maple Ridge Studio liked her report.
+- She mentioned a training course organised by Maple Ridge Studio.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She said she had lunch with colleagues from Maple Ridge Studio.
+- She said her manager at Maple Ridge Studio liked her report.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She said Maple Ridge Studio gave her a new laptop.
+- She talked about the commute to Maple Ridge Studio.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She mentioned a team party at Maple Ridge Studio.
+- She talked about a deadline at Maple Ridge Studio.
+- She talked about a deadline at Maple Ridge Studio.
+- She said she had lunch with colleagues from Maple Ridge Studio.
+- She described the office of Maple Ridge Studio.
+- She mentioned a training course organised by Maple Ridge Studio.
+- She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_employer_2  (undated, shuffled, mass 20, new entry last; old=Maple Ridge Studio new=Quillstone Media)
+These are your saved memories about the user from previous conversations:
+- She said her manager at Maple Ridge Studio liked her report.
+- She mentioned a training course organised by Maple Ridge Studio.
+- She mentioned a team party at Maple Ridge Studio.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She talked about the commute to Maple Ridge Studio.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She said she had lunch with colleagues from Maple Ridge Studio.
+- She said she had lunch with colleagues from Maple Ridge Studio.
+- She talked about a deadline at Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She works at Maple Ridge Studio.
+- She talked about a deadline at Maple Ridge Studio.
+- She mentioned a training course organised by Maple Ridge Studio.
+- She asked how to write an email to HR at Maple Ridge Studio.
+- She said her manager at Maple Ridge Studio liked her report.
+- She described the office of Maple Ridge Studio.
+- She described the office of Maple Ridge Studio.
+- She said Maple Ridge Studio gave her a new laptop.
+- She mentioned a meeting with her team at Maple Ridge Studio.
+- She complained about the coffee machine at Maple Ridge Studio.
+- She works at Quillstone Media.
+
+Question: Where does she work now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_gym_0  (dated, chrono, mass 20, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-01-12: She trains at Ironleaf Gym.
+2026-01-25: She described the weights area at Ironleaf Gym.
+2026-01-28: She mentioned a friend she met at Ironleaf Gym.
+2026-02-03: She said she forgot her towel at Ironleaf Gym.
+2026-02-14: She mentioned her trainer at Ironleaf Gym.
+2026-02-18: She said the showers at Ironleaf Gym were cold.
+2026-02-22: She trains at Ironleaf Gym.
+2026-02-24: She said she ran 5 km on a treadmill at Ironleaf Gym.
+2026-02-26: She said Ironleaf Gym was crowded on Monday.
+2026-02-28: She talked about the opening hours of Ironleaf Gym.
+2026-04-05: She said the showers at Ironleaf Gym were cold.
+2026-04-24: She asked how to pause her membership at Ironleaf Gym.
+2026-04-25: She talked about a yoga class at Ironleaf Gym.
+2026-05-08: She talked about a yoga class at Ironleaf Gym.
+2026-05-28: She mentioned the music played at Ironleaf Gym.
+2026-06-09: She described the weights area at Ironleaf Gym.
+2026-06-13: She mentioned a friend she met at Ironleaf Gym.
+2026-06-18: She asked how to pause her membership at Ironleaf Gym.
+2026-06-27: She said Ironleaf Gym was crowded on Monday.
+2026-06-30: She mentioned her trainer at Ironleaf Gym.
+2026-07-15: She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_gym_0  (dated, shuffled, mass 20, new entry middle; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+2026-06-09: She described the weights area at Ironleaf Gym.
+2026-01-28: She mentioned a friend she met at Ironleaf Gym.
+2026-02-03: She said she forgot her towel at Ironleaf Gym.
+2026-06-13: She mentioned a friend she met at Ironleaf Gym.
+2026-05-28: She mentioned the music played at Ironleaf Gym.
+2026-05-08: She talked about a yoga class at Ironleaf Gym.
+2026-01-25: She described the weights area at Ironleaf Gym.
+2026-04-05: She said the showers at Ironleaf Gym were cold.
+2026-02-18: She said the showers at Ironleaf Gym were cold.
+2026-06-27: She said Ironleaf Gym was crowded on Monday.
+2026-04-25: She talked about a yoga class at Ironleaf Gym.
+2026-06-30: She mentioned her trainer at Ironleaf Gym.
+2026-02-24: She said she ran 5 km on a treadmill at Ironleaf Gym.
+2026-07-15: She trains at Harbour Fitness.
+2026-01-12: She trains at Ironleaf Gym.
+2026-02-22: She trains at Ironleaf Gym.
+2026-04-24: She asked how to pause her membership at Ironleaf Gym.
+2026-02-28: She talked about the opening hours of Ironleaf Gym.
+2026-02-26: She said Ironleaf Gym was crowded on Monday.
+2026-02-14: She mentioned her trainer at Ironleaf Gym.
+2026-06-18: She asked how to pause her membership at Ironleaf Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_gym_0  (undated, chrono, mass 20, new entry last; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She trains at Ironleaf Gym.
+- She described the weights area at Ironleaf Gym.
+- She mentioned a friend she met at Ironleaf Gym.
+- She said she forgot her towel at Ironleaf Gym.
+- She mentioned her trainer at Ironleaf Gym.
+- She said the showers at Ironleaf Gym were cold.
+- She trains at Ironleaf Gym.
+- She said she ran 5 km on a treadmill at Ironleaf Gym.
+- She said Ironleaf Gym was crowded on Monday.
+- She talked about the opening hours of Ironleaf Gym.
+- She said the showers at Ironleaf Gym were cold.
+- She asked how to pause her membership at Ironleaf Gym.
+- She talked about a yoga class at Ironleaf Gym.
+- She talked about a yoga class at Ironleaf Gym.
+- She mentioned the music played at Ironleaf Gym.
+- She described the weights area at Ironleaf Gym.
+- She mentioned a friend she met at Ironleaf Gym.
+- She asked how to pause her membership at Ironleaf Gym.
+- She said Ironleaf Gym was crowded on Monday.
+- She mentioned her trainer at Ironleaf Gym.
+- She trains at Harbour Fitness.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_gym_0  (undated, shuffled, mass 20, new entry middle; old=Ironleaf Gym new=Harbour Fitness)
+These are your saved memories about the user from previous conversations:
+- She described the weights area at Ironleaf Gym.
+- She mentioned a friend she met at Ironleaf Gym.
+- She said she forgot her towel at Ironleaf Gym.
+- She mentioned a friend she met at Ironleaf Gym.
+- She mentioned the music played at Ironleaf Gym.
+- She talked about a yoga class at Ironleaf Gym.
+- She described the weights area at Ironleaf Gym.
+- She said the showers at Ironleaf Gym were cold.
+- She said the showers at Ironleaf Gym were cold.
+- She said Ironleaf Gym was crowded on Monday.
+- She talked about a yoga class at Ironleaf Gym.
+- She mentioned her trainer at Ironleaf Gym.
+- She said she ran 5 km on a treadmill at Ironleaf Gym.
+- She trains at Harbour Fitness.
+- She trains at Ironleaf Gym.
+- She trains at Ironleaf Gym.
+- She asked how to pause her membership at Ironleaf Gym.
+- She talked about the opening hours of Ironleaf Gym.
+- She said Ironleaf Gym was crowded on Monday.
+- She mentioned her trainer at Ironleaf Gym.
+- She asked how to pause her membership at Ironleaf Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_gym_1  (dated, chrono, mass 20, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-01-10: She said she forgot her towel at Peak Motion Club.
+2026-01-11: She described the weights area at Peak Motion Club.
+2026-01-22: She talked about a yoga class at Peak Motion Club.
+2026-01-28: She trains at Peak Motion Club.
+2026-01-31: She said the showers at Peak Motion Club were cold.
+2026-02-01: She said the showers at Peak Motion Club were cold.
+2026-02-08: She said Peak Motion Club was crowded on Monday.
+2026-02-13: She mentioned her trainer at Peak Motion Club.
+2026-03-27: She said she ran 5 km on a treadmill at Peak Motion Club.
+2026-04-13: She talked about a yoga class at Peak Motion Club.
+2026-04-15: She asked how to pause her membership at Peak Motion Club.
+2026-04-30: She trains at Peak Motion Club.
+2026-05-01: She mentioned a friend she met at Peak Motion Club.
+2026-05-07: She asked how to pause her membership at Peak Motion Club.
+2026-05-20: She described the weights area at Peak Motion Club.
+2026-05-23: She talked about the opening hours of Peak Motion Club.
+2026-05-29: She mentioned the music played at Peak Motion Club.
+2026-06-01: She mentioned her trainer at Peak Motion Club.
+2026-06-11: She said Peak Motion Club was crowded on Monday.
+2026-06-19: She mentioned a friend she met at Peak Motion Club.
+2026-07-15: She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_gym_1  (dated, shuffled, mass 20, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+2026-05-29: She mentioned the music played at Peak Motion Club.
+2026-01-31: She said the showers at Peak Motion Club were cold.
+2026-04-15: She asked how to pause her membership at Peak Motion Club.
+2026-02-08: She said Peak Motion Club was crowded on Monday.
+2026-05-20: She described the weights area at Peak Motion Club.
+2026-01-28: She trains at Peak Motion Club.
+2026-02-13: She mentioned her trainer at Peak Motion Club.
+2026-01-22: She talked about a yoga class at Peak Motion Club.
+2026-06-19: She mentioned a friend she met at Peak Motion Club.
+2026-05-07: She asked how to pause her membership at Peak Motion Club.
+2026-06-11: She said Peak Motion Club was crowded on Monday.
+2026-04-13: She talked about a yoga class at Peak Motion Club.
+2026-05-01: She mentioned a friend she met at Peak Motion Club.
+2026-05-23: She talked about the opening hours of Peak Motion Club.
+2026-04-30: She trains at Peak Motion Club.
+2026-01-11: She described the weights area at Peak Motion Club.
+2026-01-10: She said she forgot her towel at Peak Motion Club.
+2026-03-27: She said she ran 5 km on a treadmill at Peak Motion Club.
+2026-06-01: She mentioned her trainer at Peak Motion Club.
+2026-02-01: She said the showers at Peak Motion Club were cold.
+2026-07-15: She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_gym_1  (undated, chrono, mass 20, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She said she forgot her towel at Peak Motion Club.
+- She described the weights area at Peak Motion Club.
+- She talked about a yoga class at Peak Motion Club.
+- She trains at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She said the showers at Peak Motion Club were cold.
+- She said Peak Motion Club was crowded on Monday.
+- She mentioned her trainer at Peak Motion Club.
+- She said she ran 5 km on a treadmill at Peak Motion Club.
+- She talked about a yoga class at Peak Motion Club.
+- She asked how to pause her membership at Peak Motion Club.
+- She trains at Peak Motion Club.
+- She mentioned a friend she met at Peak Motion Club.
+- She asked how to pause her membership at Peak Motion Club.
+- She described the weights area at Peak Motion Club.
+- She talked about the opening hours of Peak Motion Club.
+- She mentioned the music played at Peak Motion Club.
+- She mentioned her trainer at Peak Motion Club.
+- She said Peak Motion Club was crowded on Monday.
+- She mentioned a friend she met at Peak Motion Club.
+- She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_gym_1  (undated, shuffled, mass 20, new entry last; old=Peak Motion Club new=Riverside Sports Hall)
+These are your saved memories about the user from previous conversations:
+- She mentioned the music played at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She asked how to pause her membership at Peak Motion Club.
+- She said Peak Motion Club was crowded on Monday.
+- She described the weights area at Peak Motion Club.
+- She trains at Peak Motion Club.
+- She mentioned her trainer at Peak Motion Club.
+- She talked about a yoga class at Peak Motion Club.
+- She mentioned a friend she met at Peak Motion Club.
+- She asked how to pause her membership at Peak Motion Club.
+- She said Peak Motion Club was crowded on Monday.
+- She talked about a yoga class at Peak Motion Club.
+- She mentioned a friend she met at Peak Motion Club.
+- She talked about the opening hours of Peak Motion Club.
+- She trains at Peak Motion Club.
+- She described the weights area at Peak Motion Club.
+- She said she forgot her towel at Peak Motion Club.
+- She said she ran 5 km on a treadmill at Peak Motion Club.
+- She mentioned her trainer at Peak Motion Club.
+- She said the showers at Peak Motion Club were cold.
+- She trains at Riverside Sports Hall.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DC_m20_gym_2  (dated, chrono, mass 20, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-01-09: She asked how to pause her membership at Copperfield Gym.
+2026-01-11: She mentioned her trainer at Copperfield Gym.
+2026-01-13: She talked about a yoga class at Copperfield Gym.
+2026-02-09: She talked about the opening hours of Copperfield Gym.
+2026-02-16: She described the weights area at Copperfield Gym.
+2026-03-01: She mentioned her trainer at Copperfield Gym.
+2026-03-07: She said the showers at Copperfield Gym were cold.
+2026-03-14: She said she forgot her towel at Copperfield Gym.
+2026-03-21: She said Copperfield Gym was crowded on Monday.
+2026-03-26: She said the showers at Copperfield Gym were cold.
+2026-04-05: She said she ran 5 km on a treadmill at Copperfield Gym.
+2026-04-13: She talked about a yoga class at Copperfield Gym.
+2026-04-25: She asked how to pause her membership at Copperfield Gym.
+2026-05-04: She trains at Copperfield Gym.
+2026-05-08: She said Copperfield Gym was crowded on Monday.
+2026-05-12: She mentioned the music played at Copperfield Gym.
+2026-05-18: She described the weights area at Copperfield Gym.
+2026-05-20: She mentioned a friend she met at Copperfield Gym.
+2026-06-02: She trains at Copperfield Gym.
+2026-06-08: She mentioned a friend she met at Copperfield Gym.
+2026-07-15: She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== DS_m20_gym_2  (dated, shuffled, mass 20, new entry first; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+2026-07-15: She trains at Lantern Climbing Centre.
+2026-05-04: She trains at Copperfield Gym.
+2026-06-02: She trains at Copperfield Gym.
+2026-02-16: She described the weights area at Copperfield Gym.
+2026-04-25: She asked how to pause her membership at Copperfield Gym.
+2026-03-01: She mentioned her trainer at Copperfield Gym.
+2026-03-26: She said the showers at Copperfield Gym were cold.
+2026-01-09: She asked how to pause her membership at Copperfield Gym.
+2026-05-08: She said Copperfield Gym was crowded on Monday.
+2026-05-20: She mentioned a friend she met at Copperfield Gym.
+2026-04-05: She said she ran 5 km on a treadmill at Copperfield Gym.
+2026-01-11: She mentioned her trainer at Copperfield Gym.
+2026-06-08: She mentioned a friend she met at Copperfield Gym.
+2026-03-14: She said she forgot her towel at Copperfield Gym.
+2026-05-12: She mentioned the music played at Copperfield Gym.
+2026-03-21: She said Copperfield Gym was crowded on Monday.
+2026-01-13: She talked about a yoga class at Copperfield Gym.
+2026-03-07: She said the showers at Copperfield Gym were cold.
+2026-04-13: She talked about a yoga class at Copperfield Gym.
+2026-02-09: She talked about the opening hours of Copperfield Gym.
+2026-05-18: She described the weights area at Copperfield Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NC_m20_gym_2  (undated, chrono, mass 20, new entry last; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She asked how to pause her membership at Copperfield Gym.
+- She mentioned her trainer at Copperfield Gym.
+- She talked about a yoga class at Copperfield Gym.
+- She talked about the opening hours of Copperfield Gym.
+- She described the weights area at Copperfield Gym.
+- She mentioned her trainer at Copperfield Gym.
+- She said the showers at Copperfield Gym were cold.
+- She said she forgot her towel at Copperfield Gym.
+- She said Copperfield Gym was crowded on Monday.
+- She said the showers at Copperfield Gym were cold.
+- She said she ran 5 km on a treadmill at Copperfield Gym.
+- She talked about a yoga class at Copperfield Gym.
+- She asked how to pause her membership at Copperfield Gym.
+- She trains at Copperfield Gym.
+- She said Copperfield Gym was crowded on Monday.
+- She mentioned the music played at Copperfield Gym.
+- She described the weights area at Copperfield Gym.
+- She mentioned a friend she met at Copperfield Gym.
+- She trains at Copperfield Gym.
+- She mentioned a friend she met at Copperfield Gym.
+- She trains at Lantern Climbing Centre.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+
+===== NS_m20_gym_2  (undated, shuffled, mass 20, new entry first; old=Copperfield Gym new=Lantern Climbing Centre)
+These are your saved memories about the user from previous conversations:
+- She trains at Lantern Climbing Centre.
+- She trains at Copperfield Gym.
+- She trains at Copperfield Gym.
+- She described the weights area at Copperfield Gym.
+- She asked how to pause her membership at Copperfield Gym.
+- She mentioned her trainer at Copperfield Gym.
+- She said the showers at Copperfield Gym were cold.
+- She asked how to pause her membership at Copperfield Gym.
+- She said Copperfield Gym was crowded on Monday.
+- She mentioned a friend she met at Copperfield Gym.
+- She said she ran 5 km on a treadmill at Copperfield Gym.
+- She mentioned her trainer at Copperfield Gym.
+- She mentioned a friend she met at Copperfield Gym.
+- She said she forgot her towel at Copperfield Gym.
+- She mentioned the music played at Copperfield Gym.
+- She said Copperfield Gym was crowded on Monday.
+- She talked about a yoga class at Copperfield Gym.
+- She said the showers at Copperfield Gym were cold.
+- She talked about a yoga class at Copperfield Gym.
+- She talked about the opening hours of Copperfield Gym.
+- She described the weights area at Copperfield Gym.
+
+Question: Where does she train now? Answer in one sentence, then give your confidence from 0 to 100.
+

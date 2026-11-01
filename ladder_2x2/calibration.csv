@@ -1,0 +1,7 @@
+model,answer_follows,n,mean_confidence
+gemma3:4b,date (correct),67,96.8
+gemma3:4b,mass/position (wrong),10,94.5
+llama3.1:8b,date (correct),75,96.7
+llama3.1:8b,mass/position (wrong),0,
+qwen2.5:7b,date (correct),79,96.1
+qwen2.5:7b,mass/position (wrong),11,95.0

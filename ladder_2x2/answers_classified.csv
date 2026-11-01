@@ -1,0 +1,541 @@
+model,id,rep,dates,order,mass,template,new_pos,old,new,choice,confidence,answer
+gemma3:4b,DC_m01_city_0,0,dated,chrono,1,city,last,Vienna,Budapest,ABSTAIN,30,"It’s unclear where she currently lives, as my information indicates she has lived in both Vienna and Budapest. Confidence: 30"
+gemma3:4b,DS_m01_city_0,0,dated,shuffled,1,city,last,Vienna,Budapest,ABSTAIN,30,"I cannot definitively answer where she lives now, as the information I have regarding her location is contradictory – she was previously recorded as living in both Vienna and Budapest. Confidence: 30%"
+gemma3:4b,NC_m01_city_0,0,undated,chrono,1,city,last,Vienna,Budapest,ABSTAIN,30,"It’s unclear where she currently lives, as she has previously been associated with both Vienna and Budapest. Confidence: 30"
+gemma3:4b,NS_m01_city_0,0,undated,shuffled,1,city,last,Vienna,Budapest,ABSTAIN,30,I cannot definitively answer where she lives now because the information provided states she lives in both Vienna and Budapest. Confidence: 30
+gemma3:4b,DC_m01_city_1,0,dated,chrono,1,city,last,Prague,Warsaw,ABSTAIN,30,"It’s unclear where she currently lives, as my information indicates she has lived in both Prague and Warsaw. Confidence: 30"
+gemma3:4b,DS_m01_city_1,0,dated,shuffled,1,city,first,Prague,Warsaw,ABSTAIN,30,"It’s unclear where she currently lives, as her location has been inconsistent between Warsaw and Prague. Confidence: 30"
+gemma3:4b,NC_m01_city_1,0,undated,chrono,1,city,last,Prague,Warsaw,ABSTAIN,30,It’s unclear where she currently lives as the information provided indicates she has lived in both Prague and Warsaw. Confidence: 30/100
+gemma3:4b,NS_m01_city_1,0,undated,shuffled,1,city,first,Prague,Warsaw,ABSTAIN,30,"It’s unclear where she currently lives, as she has previously been associated with both Warsaw and Prague. Confidence: 30"
+gemma3:4b,DC_m01_city_2,0,dated,chrono,1,city,last,Lisbon,Madrid,ABSTAIN,30,I cannot definitively determine where she lives now because my saved memories conflict – she was previously stated to live in both Lisbon and Madrid. Confidence: 30/100
+gemma3:4b,DS_m01_city_2,0,dated,shuffled,1,city,last,Lisbon,Madrid,ABSTAIN,30,"I cannot definitively answer where she lives now, as the information I have indicates she has lived in both Lisbon and Madrid. Confidence: 30"
+gemma3:4b,NC_m01_city_2,0,undated,chrono,1,city,last,Lisbon,Madrid,BOTH,30,"It seems there’s conflicting information, as she has previously been stated to live in both Lisbon and Madrid. Confidence: 30"
+gemma3:4b,NS_m01_city_2,0,undated,shuffled,1,city,last,Lisbon,Madrid,BOTH,30,"It appears there’s conflicting information, as she has previously been identified as living in both Lisbon and Madrid. Confidence: 30"
+gemma3:4b,DC_m01_employer_0,0,dated,chrono,1,employer,last,Northwind Analytics,Bluefield Labs,NEW,80,She currently works at Bluefield Labs. Confidence: 80
+gemma3:4b,DS_m01_employer_0,0,dated,shuffled,1,employer,first,Northwind Analytics,Bluefield Labs,NEW,90,She currently works at Bluefield Labs. Confidence: 90
+gemma3:4b,NC_m01_employer_0,0,undated,chrono,1,employer,last,Northwind Analytics,Bluefield Labs,BOTH,70,She currently works at both Northwind Analytics and Bluefield Labs. Confidence: 70
+gemma3:4b,NS_m01_employer_0,0,undated,shuffled,1,employer,first,Northwind Analytics,Bluefield Labs,OLD,90,She currently works at Northwind Analytics. Confidence: 90
+gemma3:4b,DC_m01_employer_1,0,dated,chrono,1,employer,last,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+gemma3:4b,DS_m01_employer_1,0,dated,shuffled,1,employer,last,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+gemma3:4b,NC_m01_employer_1,0,undated,chrono,1,employer,last,Corvel Systems,Ardent Data,OLD,95,She currently works at Corvel Systems. Confidence: 95
+gemma3:4b,NS_m01_employer_1,0,undated,shuffled,1,employer,last,Corvel Systems,Ardent Data,OLD,95,She currently works at Corvel Systems. Confidence: 95
+gemma3:4b,DC_m01_employer_2,0,dated,chrono,1,employer,last,Maple Ridge Studio,Quillstone Media,NEW,90,"Currently, she works at Quillstone Media. Confidence: 90"
+gemma3:4b,DS_m01_employer_2,0,dated,shuffled,1,employer,first,Maple Ridge Studio,Quillstone Media,NEW,95,She currently works at Quillstone Media. Confidence: 95
+gemma3:4b,NC_m01_employer_2,0,undated,chrono,1,employer,last,Maple Ridge Studio,Quillstone Media,BOTH,80,She currently works at both Maple Ridge Studio and Quillstone Media. Confidence: 80
+gemma3:4b,NS_m01_employer_2,0,undated,shuffled,1,employer,first,Maple Ridge Studio,Quillstone Media,BOTH,60,"She currently works at both Quillstone Media and Maple Ridge Studio. Confidence: 60% **Note:** I’m providing a combined answer because the previous conversations presented information about her working at both locations. However, the confidence level is reduced because it’s possible one of those rol"
+gemma3:4b,DC_m01_gym_0,0,dated,chrono,1,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She currently trains at Harbour Fitness. Confidence: 100
+gemma3:4b,DS_m01_gym_0,0,dated,shuffled,1,gym,last,Ironleaf Gym,Harbour Fitness,NEW,80,She currently trains at Harbour Fitness. Confidence: 80
+gemma3:4b,NC_m01_gym_0,0,undated,chrono,1,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,80,She currently trains at both Ironleaf Gym and Harbour Fitness. Confidence: 80
+gemma3:4b,NS_m01_gym_0,0,undated,shuffled,1,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,80,She trains at both Ironleaf Gym and Harbour Fitness. Confidence: 80
+gemma3:4b,DC_m01_gym_1,0,dated,chrono,1,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She currently trains at Riverside Sports Hall. Confidence: 100
+gemma3:4b,DS_m01_gym_1,0,dated,shuffled,1,gym,first,Peak Motion Club,Riverside Sports Hall,NEW,100,She currently trains at Riverside Sports Hall. Confidence: 100
+gemma3:4b,NC_m01_gym_1,0,undated,chrono,1,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,100,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 100
+gemma3:4b,NS_m01_gym_1,0,undated,shuffled,1,gym,first,Peak Motion Club,Riverside Sports Hall,BOTH,100,She trains at both Riverside Sports Hall and Peak Motion Club. Confidence: 100
+gemma3:4b,DC_m01_gym_2,0,dated,chrono,1,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She currently trains at Lantern Climbing Centre. Confidence: 100
+gemma3:4b,DS_m01_gym_2,0,dated,shuffled,1,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She currently trains at Lantern Climbing Centre. Confidence: 100
+gemma3:4b,NC_m01_gym_2,0,undated,chrono,1,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,100,She trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 100
+gemma3:4b,NS_m01_gym_2,0,undated,shuffled,1,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,100,She trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 100
+gemma3:4b,DC_m03_city_0,0,dated,chrono,3,city,last,Vienna,Budapest,NEW,100,She now lives in Budapest. Confidence: 100
+gemma3:4b,DS_m03_city_0,0,dated,shuffled,3,city,first,Vienna,Budapest,ABSTAIN,30,"Based on the provided memories, it’s unclear where she currently lives, as her location has fluctuated between Budapest and Vienna. Confidence: 30/100 **Reasoning:** The memories are contradictory (Budapest and Vienna), suggesting the information is unreliable or that the user has changed locations "
+gemma3:4b,NC_m03_city_0,0,undated,chrono,3,city,last,Vienna,Budapest,NEW,95,"She now lives in Budapest. Confidence: 95% **Reasoning:** While she previously mentioned living in Vienna, the final piece of information explicitly states she lives in Budapest. The other statements about Vienna are likely recollections from earlier in the conversation."
+gemma3:4b,NS_m03_city_0,0,undated,shuffled,3,city,first,Vienna,Budapest,OLD,80,"She currently lives in Vienna. Confidence: 80% **Reasoning:** While there’s a conflicting memory about Budapest, the repeated mentions of her flat and neighbors in Vienna strongly suggest that’s where she currently resides. The Budapest information is likely an older recollection."
+gemma3:4b,DC_m03_city_1,0,dated,chrono,3,city,last,Prague,Warsaw,NEW,90,She currently lives in Warsaw. Confidence: 90
+gemma3:4b,DS_m03_city_1,0,dated,shuffled,3,city,middle,Prague,Warsaw,NEW,80,She lives in Warsaw. Confidence: 80
+gemma3:4b,NC_m03_city_1,0,undated,chrono,3,city,last,Prague,Warsaw,NEW,95,She currently lives in Warsaw. Confidence: 95%
+gemma3:4b,NS_m03_city_1,0,undated,shuffled,3,city,middle,Prague,Warsaw,NEW,95,"She currently lives in Warsaw. Confidence: 95% **Reasoning:** While she previously mentioned living in Prague and discussing her flat and neighbors there, the most recent information indicates she now resides in Warsaw."
+gemma3:4b,DC_m03_city_2,0,dated,chrono,3,city,last,Lisbon,Madrid,NEW,95,"She currently lives in Madrid. Confidence: 95% **Reasoning:** The most recent memory (2026-07-15) explicitly states she lives in Madrid, overriding the previous statements about Lisbon."
+gemma3:4b,DS_m03_city_2,0,dated,shuffled,3,city,last,Lisbon,Madrid,NEW,95,"She currently lives in Madrid. Confidence: 95% **Reasoning:** The most recent memory (2026-07-15) explicitly states she lives in Madrid, overriding the previous Lisbon memories."
+gemma3:4b,NC_m03_city_2,0,undated,chrono,3,city,last,Lisbon,Madrid,NEW,95,She currently lives in Madrid. Confidence: 95%
+gemma3:4b,NS_m03_city_2,0,undated,shuffled,3,city,last,Lisbon,Madrid,NEW,95,She now lives in Madrid. Confidence: 95%
+gemma3:4b,DC_m03_employer_0,0,dated,chrono,3,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She currently works at Bluefield Labs. Confidence: 100
+gemma3:4b,DS_m03_employer_0,0,dated,shuffled,3,employer,middle,Northwind Analytics,Bluefield Labs,NEW,95,She currently works at Bluefield Labs. Confidence: 95
+gemma3:4b,NC_m03_employer_0,0,undated,chrono,3,employer,last,Northwind Analytics,Bluefield Labs,BOTH,80,She currently works at both Northwind Analytics and Bluefield Labs. Confidence: 80%
+gemma3:4b,NS_m03_employer_0,0,undated,shuffled,3,employer,middle,Northwind Analytics,Bluefield Labs,NEW,95,She currently works at Bluefield Labs. Confidence: 95
+gemma3:4b,DC_m03_employer_1,0,dated,chrono,3,employer,last,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+gemma3:4b,DS_m03_employer_1,0,dated,shuffled,3,employer,last,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+gemma3:4b,NC_m03_employer_1,0,undated,chrono,3,employer,last,Corvel Systems,Ardent Data,BOTH,90,She currently works at both Corvel Systems and Ardent Data. Confidence: 90
+gemma3:4b,NS_m03_employer_1,0,undated,shuffled,3,employer,last,Corvel Systems,Ardent Data,BOTH,90,She currently works at both Corvel Systems and Ardent Data. Confidence: 90
+gemma3:4b,DC_m03_employer_2,0,dated,chrono,3,employer,last,Maple Ridge Studio,Quillstone Media,NEW,95,She currently works at Quillstone Media. Confidence: 95
+gemma3:4b,DS_m03_employer_2,0,dated,shuffled,3,employer,first,Maple Ridge Studio,Quillstone Media,NEW,95,"She currently works at Quillstone Media. Confidence: 95% **Reasoning:** While there are mentions of Maple Ridge Studio earlier, the most recent memory (2026-07-15) explicitly states she works at Quillstone Media. This is the most recent and direct piece of information."
+gemma3:4b,NC_m03_employer_2,0,undated,chrono,3,employer,last,Maple Ridge Studio,Quillstone Media,BOTH,95,She currently works at both Maple Ridge Studio and Quillstone Media. Confidence: 95%
+gemma3:4b,NS_m03_employer_2,0,undated,shuffled,3,employer,first,Maple Ridge Studio,Quillstone Media,BOTH,90,She currently works at both Quillstone Media and Maple Ridge Studio. Confidence: 90
+gemma3:4b,DC_m03_gym_0,0,dated,chrono,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. Confidence: 100
+gemma3:4b,DS_m03_gym_0,0,dated,shuffled,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She currently trains at Harbour Fitness. Confidence: 100
+gemma3:4b,NC_m03_gym_0,0,undated,chrono,3,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,90,She currently trains at both Ironleaf Gym and Harbour Fitness. Confidence: 90
+gemma3:4b,NS_m03_gym_0,0,undated,shuffled,3,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,90,She currently trains at both Ironleaf Gym and Harbour Fitness. Confidence: 90
+gemma3:4b,DC_m03_gym_1,0,dated,chrono,3,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She currently trains at Riverside Sports Hall. Confidence: 100
+gemma3:4b,DS_m03_gym_1,0,dated,shuffled,3,gym,first,Peak Motion Club,Riverside Sports Hall,OLD,95,She currently trains at Peak Motion Club. Confidence: 95
+gemma3:4b,NC_m03_gym_1,0,undated,chrono,3,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,95,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 95%
+gemma3:4b,NS_m03_gym_1,0,undated,shuffled,3,gym,first,Peak Motion Club,Riverside Sports Hall,BOTH,95,She currently trains at both Riverside Sports Hall and Peak Motion Club. Confidence: 95%
+gemma3:4b,DC_m03_gym_2,0,dated,chrono,3,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,95,She currently trains at Lantern Climbing Centre. Confidence: 95
+gemma3:4b,DS_m03_gym_2,0,dated,shuffled,3,gym,middle,Copperfield Gym,Lantern Climbing Centre,NEW,95,She currently trains at Lantern Climbing Centre. Confidence: 95
+gemma3:4b,NC_m03_gym_2,0,undated,chrono,3,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,100,She currently trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 100
+gemma3:4b,NS_m03_gym_2,0,undated,shuffled,3,gym,middle,Copperfield Gym,Lantern Climbing Centre,BOTH,95,She currently trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 95%
+gemma3:4b,DC_m05_city_0,0,dated,chrono,5,city,last,Vienna,Budapest,NEW,100,She now lives in Budapest. Confidence: 100
+gemma3:4b,DS_m05_city_0,0,dated,shuffled,5,city,last,Vienna,Budapest,NEW,100,She now lives in Budapest. Confidence: 100
+gemma3:4b,NC_m05_city_0,0,undated,chrono,5,city,last,Vienna,Budapest,NEW,95,"She currently lives in Budapest. Confidence: 95% (Despite several mentions of Vienna, the final statement explicitly states she lives in Budapest.)"
+gemma3:4b,NS_m05_city_0,0,undated,shuffled,5,city,last,Vienna,Budapest,NEW,100,She currently lives in Budapest. Confidence: 100
+gemma3:4b,DC_m05_city_1,0,dated,chrono,5,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. Confidence: 100
+gemma3:4b,DS_m05_city_1,0,dated,shuffled,5,city,first,Prague,Warsaw,OLD,80,"Based on the provided memories, she currently lives in Prague. Confidence: 80% **Note:** There’s a conflicting memory stating she lives in Warsaw, but the majority of her conversations focus on Prague."
+gemma3:4b,NC_m05_city_1,0,undated,chrono,5,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. Confidence: 100
+gemma3:4b,NS_m05_city_1,0,undated,shuffled,5,city,first,Prague,Warsaw,OLD,95,She currently lives in Prague. Confidence: 95%
+gemma3:4b,DC_m05_city_2,0,dated,chrono,5,city,last,Lisbon,Madrid,NEW,100,She now lives in Madrid. Confidence: 100
+gemma3:4b,DS_m05_city_2,0,dated,shuffled,5,city,middle,Lisbon,Madrid,NEW,95,She lives in Madrid now. Confidence: 95
+gemma3:4b,NC_m05_city_2,0,undated,chrono,5,city,last,Lisbon,Madrid,NEW,100,She now lives in Madrid. Confidence: 100
+gemma3:4b,NS_m05_city_2,0,undated,shuffled,5,city,middle,Lisbon,Madrid,NEW,100,She lives in Madrid now. Confidence: 100
+gemma3:4b,DC_m05_employer_0,0,dated,chrono,5,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She currently works at Bluefield Labs. Confidence: 100
+gemma3:4b,DS_m05_employer_0,0,dated,shuffled,5,employer,first,Northwind Analytics,Bluefield Labs,NEW,95,She currently works at Bluefield Labs. Confidence: 95%
+gemma3:4b,NC_m05_employer_0,0,undated,chrono,5,employer,last,Northwind Analytics,Bluefield Labs,BOTH,95,She currently works at both Northwind Analytics and Bluefield Labs. Confidence: 95%
+gemma3:4b,NS_m05_employer_0,0,undated,shuffled,5,employer,first,Northwind Analytics,Bluefield Labs,NEW,100,She currently works at Bluefield Labs. Confidence: 100
+gemma3:4b,DC_m05_employer_1,0,dated,chrono,5,employer,last,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+gemma3:4b,DS_m05_employer_1,0,dated,shuffled,5,employer,middle,Corvel Systems,Ardent Data,NEW,95,She currently works at Ardent Data and Corvel Systems. Confidence: 95
+gemma3:4b,NC_m05_employer_1,0,undated,chrono,5,employer,last,Corvel Systems,Ardent Data,BOTH,95,She currently works at both Corvel Systems and Ardent Data. Confidence: 95%
+gemma3:4b,NS_m05_employer_1,0,undated,shuffled,5,employer,middle,Corvel Systems,Ardent Data,BOTH,95,She currently works at both Ardent Data and Corvel Systems. Confidence: 95
+gemma3:4b,DC_m05_employer_2,0,dated,chrono,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She currently works at Quillstone Media. Confidence: 100
+gemma3:4b,DS_m05_employer_2,0,dated,shuffled,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. Confidence: 100
+gemma3:4b,NC_m05_employer_2,0,undated,chrono,5,employer,last,Maple Ridge Studio,Quillstone Media,BOTH,95,She currently works at both Maple Ridge Studio and Quillstone Media. Confidence: 95%
+gemma3:4b,NS_m05_employer_2,0,undated,shuffled,5,employer,last,Maple Ridge Studio,Quillstone Media,BOTH,95,She currently works at both Maple Ridge Studio and Quillstone Media. Confidence: 95%
+gemma3:4b,DC_m05_gym_0,0,dated,chrono,5,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She now trains at Harbour Fitness. Confidence: 100
+gemma3:4b,DS_m05_gym_0,0,dated,shuffled,5,gym,middle,Ironleaf Gym,Harbour Fitness,BOTH,95,She currently trains at both Harbour Fitness and Ironleaf Gym. Confidence: 95
+gemma3:4b,NC_m05_gym_0,0,undated,chrono,5,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,95,She currently trains at both Ironleaf Gym and Harbour Fitness. Confidence: 95
+gemma3:4b,NS_m05_gym_0,0,undated,shuffled,5,gym,middle,Ironleaf Gym,Harbour Fitness,BOTH,95,She currently trains at both Ironleaf Gym and Harbour Fitness. Confidence: 95
+gemma3:4b,DC_m05_gym_1,0,dated,chrono,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She currently trains at Riverside Sports Hall. Confidence: 100
+gemma3:4b,DS_m05_gym_1,0,dated,shuffled,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,95,She currently trains at Riverside Sports Hall. Confidence: 95%
+gemma3:4b,NC_m05_gym_1,0,undated,chrono,5,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,95,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 95
+gemma3:4b,NS_m05_gym_1,0,undated,shuffled,5,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,100,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 100
+gemma3:4b,DC_m05_gym_2,0,dated,chrono,5,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,95,She currently trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 95
+gemma3:4b,DS_m05_gym_2,0,dated,shuffled,5,gym,first,Copperfield Gym,Lantern Climbing Centre,OLD,95,She currently trains at Copperfield Gym. Confidence: 95
+gemma3:4b,NC_m05_gym_2,0,undated,chrono,5,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,100,She trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 100
+gemma3:4b,NS_m05_gym_2,0,undated,shuffled,5,gym,first,Copperfield Gym,Lantern Climbing Centre,NEW,95,She currently trains at Lantern Climbing Centre. Confidence: 95
+gemma3:4b,DC_m10_city_0,0,dated,chrono,10,city,last,Vienna,Budapest,NEW,100,She now lives in Budapest. Confidence: 100
+gemma3:4b,DS_m10_city_0,0,dated,shuffled,10,city,middle,Vienna,Budapest,NEW,100,She now lives in Budapest. Confidence: 100
+gemma3:4b,NC_m10_city_0,0,undated,chrono,10,city,last,Vienna,Budapest,NEW,100,She now lives in Budapest. Confidence: 100
+gemma3:4b,NS_m10_city_0,0,undated,shuffled,10,city,middle,Vienna,Budapest,NEW,95,She currently lives in Budapest. Confidence: 95%
+gemma3:4b,DC_m10_city_1,0,dated,chrono,10,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. Confidence: 100
+gemma3:4b,DS_m10_city_1,0,dated,shuffled,10,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. Confidence: 100
+gemma3:4b,NC_m10_city_1,0,undated,chrono,10,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. Confidence: 100
+gemma3:4b,NS_m10_city_1,0,undated,shuffled,10,city,last,Prague,Warsaw,BOTH,95,She currently lives in both Prague and Warsaw. Confidence: 95% **Note:** The conflicting information about living in both Prague and Warsaw suggests a recent move or a situation where she maintains connections in both cities.
+gemma3:4b,DC_m10_city_2,0,dated,chrono,10,city,last,Lisbon,Madrid,NEW,100,She now lives in Madrid. Confidence: 100
+gemma3:4b,DS_m10_city_2,0,dated,shuffled,10,city,first,Lisbon,Madrid,OLD,95,She currently lives in Lisbon. Confidence: 95
+gemma3:4b,NC_m10_city_2,0,undated,chrono,10,city,last,Lisbon,Madrid,BOTH,80,She currently lives in both Lisbon and Madrid. Confidence: 80% **Note:** The conflicting information about living in Lisbon and Madrid suggests a recent move or a situation where she maintains connections in both locations.
+gemma3:4b,NS_m10_city_2,0,undated,shuffled,10,city,first,Lisbon,Madrid,NEW,100,She now lives in Madrid. Confidence: 100
+gemma3:4b,DC_m10_employer_0,0,dated,chrono,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,95,She now works at Bluefield Labs. Confidence: 95
+gemma3:4b,DS_m10_employer_0,0,dated,shuffled,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She currently works at Bluefield Labs. Confidence: 100
+gemma3:4b,NC_m10_employer_0,0,undated,chrono,10,employer,last,Northwind Analytics,Bluefield Labs,BOTH,95,She currently works at both Northwind Analytics and Bluefield Labs. Confidence: 95%
+gemma3:4b,NS_m10_employer_0,0,undated,shuffled,10,employer,last,Northwind Analytics,Bluefield Labs,OLD,95,She currently works at Northwind Analytics and Bluefield Labs. Confidence: 95
+gemma3:4b,DC_m10_employer_1,0,dated,chrono,10,employer,last,Corvel Systems,Ardent Data,NEW,100,She now works at Ardent Data. Confidence: 100
+gemma3:4b,DS_m10_employer_1,0,dated,shuffled,10,employer,first,Corvel Systems,Ardent Data,OLD,95,She currently works at Corvel Systems. Confidence: 95
+gemma3:4b,NC_m10_employer_1,0,undated,chrono,10,employer,last,Corvel Systems,Ardent Data,BOTH,95,She currently works at both Corvel Systems and Ardent Data. Confidence: 95%
+gemma3:4b,NS_m10_employer_1,0,undated,shuffled,10,employer,first,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+gemma3:4b,DC_m10_employer_2,0,dated,chrono,10,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She currently works at Quillstone Media. Confidence: 100
+gemma3:4b,DS_m10_employer_2,0,dated,shuffled,10,employer,middle,Maple Ridge Studio,Quillstone Media,OLD,95,She currently works at Maple Ridge Studio. Confidence: 95
+gemma3:4b,NC_m10_employer_2,0,undated,chrono,10,employer,last,Maple Ridge Studio,Quillstone Media,BOTH,95,She currently works at both Maple Ridge Studio and Quillstone Media. Confidence: 95
+gemma3:4b,NS_m10_employer_2,0,undated,shuffled,10,employer,middle,Maple Ridge Studio,Quillstone Media,OLD,100,She works at Maple Ridge Studio. 100 **Confidence Level: 100** – The user has repeatedly and consistently stated she works at Maple Ridge Studio across numerous previous conversations.
+gemma3:4b,DC_m10_gym_0,0,dated,chrono,10,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She now trains at Harbour Fitness. Confidence: 100
+gemma3:4b,DS_m10_gym_0,0,dated,shuffled,10,gym,first,Ironleaf Gym,Harbour Fitness,OLD,95,She currently trains at Ironleaf Gym. Confidence: 95
+gemma3:4b,NC_m10_gym_0,0,undated,chrono,10,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,95,"She currently trains at both Ironleaf Gym and Harbour Fitness. Confidence: 95 **Reasoning:** The conversation explicitly states she trains at both locations. While she initially focused heavily on Ironleaf Gym, the final statement definitively includes Harbour Fitness."
+gemma3:4b,NS_m10_gym_0,0,undated,shuffled,10,gym,first,Ironleaf Gym,Harbour Fitness,BOTH,95,She currently trains at both Harbour Fitness and Ironleaf Gym. Confidence: 95
+gemma3:4b,DC_m10_gym_1,0,dated,chrono,10,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She currently trains at Riverside Sports Hall. Confidence: 100
+gemma3:4b,DS_m10_gym_1,0,dated,shuffled,10,gym,middle,Peak Motion Club,Riverside Sports Hall,BOTH,85,She currently trains at both Riverside Sports Hall and Peak Motion Club. Confidence: 85
+gemma3:4b,NC_m10_gym_1,0,undated,chrono,10,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,95,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 95
+gemma3:4b,NS_m10_gym_1,0,undated,shuffled,10,gym,middle,Peak Motion Club,Riverside Sports Hall,BOTH,95,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 95
+gemma3:4b,DC_m10_gym_2,0,dated,chrono,10,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,85,She currently trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 85
+gemma3:4b,DS_m10_gym_2,0,dated,shuffled,10,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,95,She currently trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 95
+gemma3:4b,NC_m10_gym_2,0,undated,chrono,10,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,95,She trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 95
+gemma3:4b,NS_m10_gym_2,0,undated,shuffled,10,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,95,She trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 95
+gemma3:4b,DC_m20_city_0,0,dated,chrono,20,city,last,Vienna,Budapest,NEW,95,She now lives in Budapest. Confidence: 95
+gemma3:4b,DS_m20_city_0,0,dated,shuffled,20,city,last,Vienna,Budapest,NEW,95,She now lives in Budapest. Confidence: 95
+gemma3:4b,NC_m20_city_0,0,undated,chrono,20,city,last,Vienna,Budapest,NEW,95,She now lives in Budapest. Confidence: 95
+gemma3:4b,NS_m20_city_0,0,undated,shuffled,20,city,last,Vienna,Budapest,NEW,100,She now lives in Budapest. Confidence: 100
+gemma3:4b,DC_m20_city_1,0,dated,chrono,20,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. Confidence: 100
+gemma3:4b,DS_m20_city_1,0,dated,shuffled,20,city,first,Prague,Warsaw,OLD,100,She lives in Prague. Confidence: 100
+gemma3:4b,NC_m20_city_1,0,undated,chrono,20,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. Confidence: 100
+gemma3:4b,NS_m20_city_1,0,undated,shuffled,20,city,first,Prague,Warsaw,OLD,100,She lives in Prague. Confidence: 100
+gemma3:4b,DC_m20_city_2,0,dated,chrono,20,city,last,Lisbon,Madrid,NEW,100,She now lives in Madrid. Confidence: 100
+gemma3:4b,DS_m20_city_2,0,dated,shuffled,20,city,middle,Lisbon,Madrid,NEW,95,She currently lives in Madrid. Confidence: 95
+gemma3:4b,NC_m20_city_2,0,undated,chrono,20,city,last,Lisbon,Madrid,NEW,100,She now lives in Madrid. Confidence: 100
+gemma3:4b,NS_m20_city_2,0,undated,shuffled,20,city,middle,Lisbon,Madrid,OLD,100,She currently lives in Lisbon. Confidence: 100
+gemma3:4b,DC_m20_employer_0,0,dated,chrono,20,employer,last,Northwind Analytics,Bluefield Labs,NEW,95,She now works at Bluefield Labs. Confidence: 95
+gemma3:4b,DS_m20_employer_0,0,dated,shuffled,20,employer,first,Northwind Analytics,Bluefield Labs,OLD,100,"She works at Northwind Analytics. 100 **Confidence: 100** – The user has repeatedly stated she works at Northwind Analytics across numerous conversations, establishing it as a central and consistently referenced location."
+gemma3:4b,NC_m20_employer_0,0,undated,chrono,20,employer,last,Northwind Analytics,Bluefield Labs,BOTH,95,She currently works at both Northwind Analytics and Bluefield Labs. Confidence: 95%
+gemma3:4b,NS_m20_employer_0,0,undated,shuffled,20,employer,first,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs and Northwind Analytics. Confidence: 100
+gemma3:4b,DC_m20_employer_1,0,dated,chrono,20,employer,last,Corvel Systems,Ardent Data,NEW,100,She now works at Ardent Data. Confidence: 100
+gemma3:4b,DS_m20_employer_1,0,dated,shuffled,20,employer,middle,Corvel Systems,Ardent Data,NEW,95,She currently works at Ardent Data. Confidence: 95
+gemma3:4b,NC_m20_employer_1,0,undated,chrono,20,employer,last,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+gemma3:4b,NS_m20_employer_1,0,undated,shuffled,20,employer,middle,Corvel Systems,Ardent Data,BOTH,100,She currently works at both Corvel Systems and Ardent Data. Confidence: 100
+gemma3:4b,DC_m20_employer_2,0,dated,chrono,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,,She now works at Quillstone Media. 100
+gemma3:4b,DS_m20_employer_2,0,dated,shuffled,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. 100 **Confidence: 100** – The user explicitly stated “She works at Quillstone Media” in a recent conversation (2026-07-15).
+gemma3:4b,NC_m20_employer_2,0,undated,chrono,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. Confidence: 100
+gemma3:4b,NS_m20_employer_2,0,undated,shuffled,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. Confidence: 100
+gemma3:4b,DC_m20_gym_0,0,dated,chrono,20,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She now trains at Harbour Fitness. Confidence: 100
+gemma3:4b,DS_m20_gym_0,0,dated,shuffled,20,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,95,She currently trains at Harbour Fitness. Confidence: 95
+gemma3:4b,NC_m20_gym_0,0,undated,chrono,20,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,95,She currently trains at both Ironleaf Gym and Harbour Fitness. Confidence: 95
+gemma3:4b,NS_m20_gym_0,0,undated,shuffled,20,gym,middle,Ironleaf Gym,Harbour Fitness,BOTH,95,She trains at both Ironleaf Gym and Harbour Fitness. Confidence: 95
+gemma3:4b,DC_m20_gym_1,0,dated,chrono,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,95,She currently trains at Riverside Sports Hall. Confidence: 95
+gemma3:4b,DS_m20_gym_1,0,dated,shuffled,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,80,She currently trains at Riverside Sports Hall. Confidence: 80
+gemma3:4b,NC_m20_gym_1,0,undated,chrono,20,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,90,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 90
+gemma3:4b,NS_m20_gym_1,0,undated,shuffled,20,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,95,She currently trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 95
+gemma3:4b,DC_m20_gym_2,0,dated,chrono,20,gym,last,Copperfield Gym,Lantern Climbing Centre,OLD,95,She currently trains at Copperfield Gym. Confidence: 95
+gemma3:4b,DS_m20_gym_2,0,dated,shuffled,20,gym,first,Copperfield Gym,Lantern Climbing Centre,NEW,95,She currently trains at Lantern Climbing Centre. Confidence: 95
+gemma3:4b,NC_m20_gym_2,0,undated,chrono,20,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,95,She trains at both Copperfield Gym and Lantern Climbing Centre. Confidence: 95
+gemma3:4b,NS_m20_gym_2,0,undated,shuffled,20,gym,first,Copperfield Gym,Lantern Climbing Centre,NEW,95,She trains at Lantern Climbing Centre and Copperfield Gym. Confidence: 95
+llama3.1:8b,DC_m01_city_0,0,dated,chrono,1,city,last,Vienna,Budapest,ABSTAIN,0,"I don't have enough information to determine her current location, as the last update was from 2026-07-15. Confidence: 0"
+llama3.1:8b,DS_m01_city_0,0,dated,shuffled,1,city,last,Vienna,Budapest,ABSTAIN,0,"I don't have enough information to determine where she lives now, as the last update was in 2026 and I don't have any information about her current residence. Confidence: 0"
+llama3.1:8b,NC_m01_city_0,0,undated,chrono,1,city,last,Vienna,Budapest,ABSTAIN,0,"Unfortunately, I don't have enough information to determine where she lives now, as the previous conversations only mentioned two possible locations: Vienna and Budapest. Confidence: 0"
+llama3.1:8b,NS_m01_city_0,0,undated,shuffled,1,city,last,Vienna,Budapest,ABSTAIN,0,"I don't have enough information to determine where she lives now, as the previous information indicates that she lives in both Vienna and Budapest, but it's unclear which one is the current residence. Confidence: 0"
+llama3.1:8b,DC_m01_city_1,0,dated,chrono,1,city,last,Prague,Warsaw,ABSTAIN,0,"I don't have enough information to determine where she lives now, as the last saved memory is from 2026-07-15, and I don't have any more recent information. Confidence: 0%"
+llama3.1:8b,DS_m01_city_1,0,dated,shuffled,1,city,first,Prague,Warsaw,ABSTAIN,50,"Unfortunately, I don't have enough information to determine where she lives now, but it seems she moved from Prague to Warsaw between our previous conversations. Confidence: 50."
+llama3.1:8b,NC_m01_city_1,0,undated,chrono,1,city,last,Prague,Warsaw,ABSTAIN,0,"Unfortunately, I don't have any information on where she lives now, as I only have conflicting memories from previous conversations. I can't determine her current location. Confidence: 0"
+llama3.1:8b,NS_m01_city_1,0,undated,shuffled,1,city,first,Prague,Warsaw,ABSTAIN,0,I don't have enough information to determine where she lives now. My confidence level is 0%.
+llama3.1:8b,DC_m01_city_2,0,dated,chrono,1,city,last,Lisbon,Madrid,ABSTAIN,0,"I don't have information about her current location, as the most recent saved memory is from 2026-07-15. Confidence: 0"
+llama3.1:8b,DS_m01_city_2,0,dated,shuffled,1,city,last,Lisbon,Madrid,ABSTAIN,0,"Unfortunately, I don't have any recent information to confirm her current location, but based on the previous conversations, I don't have enough data to pinpoint her exact location now. Confidence: 0"
+llama3.1:8b,NC_m01_city_2,0,undated,chrono,1,city,last,Lisbon,Madrid,ABSTAIN,0,"I don't have enough information to determine where she lives now, as both Lisbon and Madrid were mentioned as her previous residences. Confidence: 0."
+llama3.1:8b,NS_m01_city_2,0,undated,shuffled,1,city,last,Lisbon,Madrid,OLD,20,"I don't have enough information to determine where she lives now, but it is possible that she lives in Lisbon or Madrid, or perhaps her location has changed since our last conversation. Confidence: 20."
+llama3.1:8b,DC_m01_employer_0,0,dated,chrono,1,employer,last,Northwind Analytics,Bluefield Labs,ABSTAIN,0,"I don't have any saved memories about her current workplace, so I can't provide a confident answer. Confidence: 0"
+llama3.1:8b,DS_m01_employer_0,0,dated,shuffled,1,employer,first,Northwind Analytics,Bluefield Labs,NEW,100,She currently works at Bluefield Labs. Confidence: 100
+llama3.1:8b,NC_m01_employer_0,0,undated,chrono,1,employer,last,Northwind Analytics,Bluefield Labs,ABSTAIN,0,"I don't have enough information to determine where she works now, as her current job is not specified. Confidence: 0"
+llama3.1:8b,NS_m01_employer_0,0,undated,shuffled,1,employer,first,Northwind Analytics,Bluefield Labs,NEW,100,She currently works at Bluefield Labs. Confidence: 100.
+llama3.1:8b,DC_m01_employer_1,0,dated,chrono,1,employer,last,Corvel Systems,Ardent Data,NEW,100,She currently works at Ardent Data. Confidence: 100
+llama3.1:8b,DS_m01_employer_1,0,dated,shuffled,1,employer,last,Corvel Systems,Ardent Data,ABSTAIN,0,"Unfortunately, I don't have any information about her current job, as my saved memories only go up to 2026-07-15. Confidence: 0"
+llama3.1:8b,NC_m01_employer_1,0,undated,chrono,1,employer,last,Corvel Systems,Ardent Data,ABSTAIN,,"I don't have enough information to determine where she works now, as I have conflicting information that she works at both Corvel Systems and Ardent Data."
+llama3.1:8b,NS_m01_employer_1,0,undated,shuffled,1,employer,last,Corvel Systems,Ardent Data,ABSTAIN,0,"I'm unable to determine where she currently works, as the information provided only shows that she has worked at Corvel Systems and Ardent Data in the past. Confidence: 0%"
+llama3.1:8b,DC_m01_employer_2,0,dated,chrono,1,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,DS_m01_employer_2,0,dated,shuffled,1,employer,first,Maple Ridge Studio,Quillstone Media,NEW,100,She currently works at Quillstone Media. Confidence: 100
+llama3.1:8b,NC_m01_employer_2,0,undated,chrono,1,employer,last,Maple Ridge Studio,Quillstone Media,BOTH,80,"She works at both Maple Ridge Studio and Quillstone Media, suggesting a potential overlap or transition in her employment. Confidence: 80"
+llama3.1:8b,NS_m01_employer_2,0,undated,shuffled,1,employer,first,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,DC_m01_gym_0,0,dated,chrono,1,gym,last,Ironleaf Gym,Harbour Fitness,ABSTAIN,0,I do not have enough information to answer the question. Confidence: 0
+llama3.1:8b,DS_m01_gym_0,0,dated,shuffled,1,gym,last,Ironleaf Gym,Harbour Fitness,ABSTAIN,0,"I don't have enough information to determine where she trains now, as the last saved memory is from 2026-07-15 and I don't know if it's current. Confidence: 0"
+llama3.1:8b,NC_m01_gym_0,0,undated,chrono,1,gym,last,Ironleaf Gym,Harbour Fitness,ABSTAIN,0,"I don't have enough information to determine her current training location, as I only have records of her training at Ironleaf Gym and Harbour Fitness, but not her current affiliation. Confidence: 0"
+llama3.1:8b,NS_m01_gym_0,0,undated,shuffled,1,gym,last,Ironleaf Gym,Harbour Fitness,ABSTAIN,0,"Unfortunately, I don't have enough information to determine where she trains now, as I only know that she has trained at both Ironleaf Gym and Harbour Fitness in the past. Confidence: 0."
+llama3.1:8b,DC_m01_gym_1,0,dated,chrono,1,gym,last,Peak Motion Club,Riverside Sports Hall,ABSTAIN,0,"I don't have enough information to determine where she trains now, as there is no record of a more recent conversation. Confidence: 0"
+llama3.1:8b,DS_m01_gym_1,0,dated,shuffled,1,gym,first,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100.
+llama3.1:8b,NC_m01_gym_1,0,undated,chrono,1,gym,last,Peak Motion Club,Riverside Sports Hall,ABSTAIN,0,"Unfortunately, I don't have any information about her current training location. Confidence: 0%"
+llama3.1:8b,NS_m01_gym_1,0,undated,shuffled,1,gym,first,Peak Motion Club,Riverside Sports Hall,ABSTAIN,0,"Unfortunately, I don't have any information about where she trains now. Confidence: 0"
+llama3.1:8b,DC_m01_gym_2,0,dated,chrono,1,gym,last,Copperfield Gym,Lantern Climbing Centre,ABSTAIN,0,"Unfortunately, I don't have any information about her current training location, as there are no records of her training location in the past year. My confidence is 0."
+llama3.1:8b,DS_m01_gym_2,0,dated,shuffled,1,gym,last,Copperfield Gym,Lantern Climbing Centre,ABSTAIN,0,I don't have any information about her current training location. Confidence: 0
+llama3.1:8b,NC_m01_gym_2,0,undated,chrono,1,gym,last,Copperfield Gym,Lantern Climbing Centre,ABSTAIN,0,I'm unable to determine the current training location of the user. Confidence: 0%
+llama3.1:8b,NS_m01_gym_2,0,undated,shuffled,1,gym,last,Copperfield Gym,Lantern Climbing Centre,ABSTAIN,0,I don't have enough information to determine where she trains now. Confidence: 0
+llama3.1:8b,DC_m03_city_0,0,dated,chrono,3,city,last,Vienna,Budapest,NEW,,She lives in Budapest. 100
+llama3.1:8b,DS_m03_city_0,0,dated,shuffled,3,city,first,Vienna,Budapest,NEW,60,"She lives in Budapest. Confidence: 60 I'm not entirely sure if she still lives in Budapest, as the information about her moving to Budapest is only from July, and there is earlier information that she lives in Vienna."
+llama3.1:8b,NC_m03_city_0,0,undated,chrono,3,city,last,Vienna,Budapest,NEW,100,She lives in Budapest. Confidence: 100
+llama3.1:8b,NS_m03_city_0,0,undated,shuffled,3,city,first,Vienna,Budapest,OLD,60,"She lives in Vienna. Confidence: 60 Note: My confidence is lower than usual because we have a mix of memories indicating both Budapest and Vienna, and I'm trying to reconcile the two."
+llama3.1:8b,DC_m03_city_1,0,dated,chrono,3,city,last,Prague,Warsaw,NEW,100,"According to the saved memories, she lives in Warsaw, as mentioned on 2026-07-15. Confidence: 100."
+llama3.1:8b,DS_m03_city_1,0,dated,shuffled,3,city,middle,Prague,Warsaw,NEW,80,She lives in Warsaw. Confidence: 80%
+llama3.1:8b,NC_m03_city_1,0,undated,chrono,3,city,last,Prague,Warsaw,OLD,95,She lives in Prague now. Confidence: 95.
+llama3.1:8b,NS_m03_city_1,0,undated,shuffled,3,city,middle,Prague,Warsaw,NEW,60,She lives in Warsaw. Confidence: 60 (This answer is uncertain due to conflicting memories about her living in Prague and Warsaw.)
+llama3.1:8b,DC_m03_city_2,0,dated,chrono,3,city,last,Lisbon,Madrid,NEW,100,She lives in Madrid. Confidence: 100%
+llama3.1:8b,DS_m03_city_2,0,dated,shuffled,3,city,last,Lisbon,Madrid,NEW,100,She lives in Madrid now. Confidence: 100
+llama3.1:8b,NC_m03_city_2,0,undated,chrono,3,city,last,Lisbon,Madrid,NEW,60,"Based on my saved memories, it appears that she lives in Madrid now. Confidence: 60"
+llama3.1:8b,NS_m03_city_2,0,undated,shuffled,3,city,last,Lisbon,Madrid,NEW,100,She lives in Madrid. (Confidence: 100)
+llama3.1:8b,DC_m03_employer_0,0,dated,chrono,3,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100
+llama3.1:8b,DS_m03_employer_0,0,dated,shuffled,3,employer,middle,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100
+llama3.1:8b,NC_m03_employer_0,0,undated,chrono,3,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100%
+llama3.1:8b,NS_m03_employer_0,0,undated,shuffled,3,employer,middle,Northwind Analytics,Bluefield Labs,NEW,100,She currently works at Bluefield Labs. Confidence: 100
+llama3.1:8b,DC_m03_employer_1,0,dated,chrono,3,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100%
+llama3.1:8b,DS_m03_employer_1,0,dated,shuffled,3,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100
+llama3.1:8b,NC_m03_employer_1,0,undated,chrono,3,employer,last,Corvel Systems,Ardent Data,OLD,100,She works at Corvel Systems. (Confidence: 100)
+llama3.1:8b,NS_m03_employer_1,0,undated,shuffled,3,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100
+llama3.1:8b,DC_m03_employer_2,0,dated,chrono,3,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,DS_m03_employer_2,0,dated,shuffled,3,employer,first,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,NC_m03_employer_2,0,undated,chrono,3,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,NS_m03_employer_2,0,undated,shuffled,3,employer,first,Maple Ridge Studio,Quillstone Media,NEW,60,"She currently works at Quillstone Media, which suggests a change from her previous mention of working at Maple Ridge Studio. Confidence: 60"
+llama3.1:8b,DC_m03_gym_0,0,dated,chrono,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100%
+llama3.1:8b,DS_m03_gym_0,0,dated,shuffled,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100
+llama3.1:8b,NC_m03_gym_0,0,undated,chrono,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100.
+llama3.1:8b,NS_m03_gym_0,0,undated,shuffled,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100
+llama3.1:8b,DC_m03_gym_1,0,dated,chrono,3,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. (Confidence: 100)
+llama3.1:8b,DS_m03_gym_1,0,dated,shuffled,3,gym,first,Peak Motion Club,Riverside Sports Hall,NEW,90,"She trains at Riverside Sports Hall, which is the most recent information. Confidence: 90."
+llama3.1:8b,NC_m03_gym_1,0,undated,chrono,3,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100%
+llama3.1:8b,NS_m03_gym_1,0,undated,shuffled,3,gym,first,Peak Motion Club,Riverside Sports Hall,OLD,100,She trains at Peak Motion Club. Confidence: 100%
+llama3.1:8b,DC_m03_gym_2,0,dated,chrono,3,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100
+llama3.1:8b,DS_m03_gym_2,0,dated,shuffled,3,gym,middle,Copperfield Gym,Lantern Climbing Centre,NEW,0,"I'm not aware of any information that suggests she trains at a specific location as of the current date, as the most recent memory only mentions her training at the Lantern Climbing Centre, which doesn't provide information about the current training location. Confidence: 0"
+llama3.1:8b,NC_m03_gym_2,0,undated,chrono,3,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,80,"She trains at Lantern Climbing Centre, which suggests she has switched gyms since she previously mentioned training at Copperfield Gym. Confidence: 80."
+llama3.1:8b,NS_m03_gym_2,0,undated,shuffled,3,gym,middle,Copperfield Gym,Lantern Climbing Centre,NEW,20,"Unfortunately, I don't have any information about her current training location, but it's possible that she still trains at Lantern Climbing Centre, as that was mentioned in a previous conversation. Confidence: 20."
+llama3.1:8b,DC_m05_city_0,0,dated,chrono,5,city,last,Vienna,Budapest,NEW,100,She lives in Budapest. Confidence: 100.
+llama3.1:8b,DS_m05_city_0,0,dated,shuffled,5,city,last,Vienna,Budapest,NEW,100,She lives in Budapest. Confidence: 100
+llama3.1:8b,NC_m05_city_0,0,undated,chrono,5,city,last,Vienna,Budapest,NEW,100,"According to the saved memories, she lives in Vienna, which contradicts the new information that she lives in Budapest. Therefore, I will update the information that she lives in Budapest. She lives in Budapest. Confidence: 100%"
+llama3.1:8b,NS_m05_city_0,0,undated,shuffled,5,city,last,Vienna,Budapest,NEW,100,She lives in Budapest. Confidence: 100%
+llama3.1:8b,DC_m05_city_1,0,dated,chrono,5,city,last,Prague,Warsaw,NEW,100,She lives in Warsaw now. Confidence: 100.
+llama3.1:8b,DS_m05_city_1,0,dated,shuffled,5,city,first,Prague,Warsaw,NEW,80,She lives in Warsaw. Confidence: 80
+llama3.1:8b,NC_m05_city_1,0,undated,chrono,5,city,last,Prague,Warsaw,NEW,100,She lives in Warsaw. Confidence: 100%
+llama3.1:8b,NS_m05_city_1,0,undated,shuffled,5,city,first,Prague,Warsaw,NEW,80,She lives in Warsaw. Confidence: 80%
+llama3.1:8b,DC_m05_city_2,0,dated,chrono,5,city,last,Lisbon,Madrid,NEW,100,She lives in Madrid. Confidence: 100
+llama3.1:8b,DS_m05_city_2,0,dated,shuffled,5,city,middle,Lisbon,Madrid,NEW,90,She lives in Madrid. Confidence: 90.
+llama3.1:8b,NC_m05_city_2,0,undated,chrono,5,city,last,Lisbon,Madrid,NEW,90,She lives in Madrid. Confidence: 90
+llama3.1:8b,NS_m05_city_2,0,undated,shuffled,5,city,middle,Lisbon,Madrid,NEW,60,She lives in Madrid. Confidence: 60%
+llama3.1:8b,DC_m05_employer_0,0,dated,chrono,5,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100
+llama3.1:8b,DS_m05_employer_0,0,dated,shuffled,5,employer,first,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100.
+llama3.1:8b,NC_m05_employer_0,0,undated,chrono,5,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100.
+llama3.1:8b,NS_m05_employer_0,0,undated,shuffled,5,employer,first,Northwind Analytics,Bluefield Labs,OLD,90,She works at Northwind Analytics. Confidence: 90
+llama3.1:8b,DC_m05_employer_1,0,dated,chrono,5,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100%
+llama3.1:8b,DS_m05_employer_1,0,dated,shuffled,5,employer,middle,Corvel Systems,Ardent Data,NEW,100,"She works at Ardent Data, as mentioned in the conversation on 2026-07-15. Confidence: 100"
+llama3.1:8b,NC_m05_employer_1,0,undated,chrono,5,employer,last,Corvel Systems,Ardent Data,OLD,100,She works at Corvel Systems. Confidence: 100
+llama3.1:8b,NS_m05_employer_1,0,undated,shuffled,5,employer,middle,Corvel Systems,Ardent Data,NEW,90,She works at Ardent Data. Confidence: 90
+llama3.1:8b,DC_m05_employer_2,0,dated,chrono,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,DS_m05_employer_2,0,dated,shuffled,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. Confidence: 100%
+llama3.1:8b,NC_m05_employer_2,0,undated,chrono,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,NS_m05_employer_2,0,undated,shuffled,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. (Confidence: 100%)
+llama3.1:8b,DC_m05_gym_0,0,dated,chrono,5,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100%
+llama3.1:8b,DS_m05_gym_0,0,dated,shuffled,5,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100.
+llama3.1:8b,NC_m05_gym_0,0,undated,chrono,5,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. (Confidence: 100)
+llama3.1:8b,NS_m05_gym_0,0,undated,shuffled,5,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100
+llama3.1:8b,DC_m05_gym_1,0,dated,chrono,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100
+llama3.1:8b,DS_m05_gym_1,0,dated,shuffled,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100%
+llama3.1:8b,NC_m05_gym_1,0,undated,chrono,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,,She trains at Riverside Sports Hall. 100%
+llama3.1:8b,NS_m05_gym_1,0,undated,shuffled,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,50,"She trains at Riverside Sports Hall, and Peak Motion Club is mentioned in the context of her trainer and yoga class, but it's not clear if she still trains there. Confidence: 50"
+llama3.1:8b,DC_m05_gym_2,0,dated,chrono,5,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100
+llama3.1:8b,DS_m05_gym_2,0,dated,shuffled,5,gym,first,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100.
+llama3.1:8b,NC_m05_gym_2,0,undated,chrono,5,gym,last,Copperfield Gym,Lantern Climbing Centre,OLD,90,She trains at Copperfield Gym. Confidence: 90
+llama3.1:8b,NS_m05_gym_2,0,undated,shuffled,5,gym,first,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100%
+llama3.1:8b,DC_m10_city_0,0,dated,chrono,10,city,last,Vienna,Budapest,NEW,100,She lives in Budapest. My confidence is 100.
+llama3.1:8b,DS_m10_city_0,0,dated,shuffled,10,city,middle,Vienna,Budapest,NEW,80,"She lives in Budapest. Confidence: 80. I am relatively confident in this answer because it is based on a specific statement made by the user on 2026-07-15, but it conflicts with the other statements that suggest she lives in Vienna, so there is some uncertainty."
+llama3.1:8b,NC_m10_city_0,0,undated,chrono,10,city,last,Vienna,Budapest,NEW,100,She lives in Budapest. Confidence: 100.
+llama3.1:8b,NS_m10_city_0,0,undated,shuffled,10,city,middle,Vienna,Budapest,NEW,95,She lives in Budapest. Confidence: 95
+llama3.1:8b,DC_m10_city_1,0,dated,chrono,10,city,last,Prague,Warsaw,NEW,80,She lives in Warsaw. Confidence: 80
+llama3.1:8b,DS_m10_city_1,0,dated,shuffled,10,city,last,Prague,Warsaw,NEW,100,She lives in Warsaw now. Confidence: 100%
+llama3.1:8b,NC_m10_city_1,0,undated,chrono,10,city,last,Prague,Warsaw,NEW,,"She lives in Warsaw. I have 100% confidence in this answer because it directly contradicts all previous memories, which consistently placed her in Prague."
+llama3.1:8b,NS_m10_city_1,0,undated,shuffled,10,city,last,Prague,Warsaw,OLD,100,She lives in Prague. Confidence: 100
+llama3.1:8b,DC_m10_city_2,0,dated,chrono,10,city,last,Lisbon,Madrid,NEW,100,She lives in Madrid. Confidence: 100.
+llama3.1:8b,DS_m10_city_2,0,dated,shuffled,10,city,first,Lisbon,Madrid,NEW,90,She lives in Madrid. Confidence: 90
+llama3.1:8b,NC_m10_city_2,0,undated,chrono,10,city,last,Lisbon,Madrid,OLD,100,She lives in Lisbon. Confidence: 100
+llama3.1:8b,NS_m10_city_2,0,undated,shuffled,10,city,first,Lisbon,Madrid,NEW,80,"She lives in Madrid. Confidence: 80 This is because she previously mentioned living in Lisbon, but there is no explicit mention of her moving to Madrid."
+llama3.1:8b,DC_m10_employer_0,0,dated,chrono,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100.
+llama3.1:8b,DS_m10_employer_0,0,dated,shuffled,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100
+llama3.1:8b,NC_m10_employer_0,0,undated,chrono,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100
+llama3.1:8b,NS_m10_employer_0,0,undated,shuffled,10,employer,last,Northwind Analytics,Bluefield Labs,OLD,100,She works at Northwind Analytics. Confidence: 100
+llama3.1:8b,DC_m10_employer_1,0,dated,chrono,10,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100.
+llama3.1:8b,DS_m10_employer_1,0,dated,shuffled,10,employer,first,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100%
+llama3.1:8b,NC_m10_employer_1,0,undated,chrono,10,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100.
+llama3.1:8b,NS_m10_employer_1,0,undated,shuffled,10,employer,first,Corvel Systems,Ardent Data,OLD,100,She currently works at Corvel Systems. Confidence: 100.
+llama3.1:8b,DC_m10_employer_2,0,dated,chrono,10,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100.
+llama3.1:8b,DS_m10_employer_2,0,dated,shuffled,10,employer,middle,Maple Ridge Studio,Quillstone Media,NEW,100,She currently works at Quillstone Media. Confidence: 100
+llama3.1:8b,NC_m10_employer_2,0,undated,chrono,10,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100%
+llama3.1:8b,NS_m10_employer_2,0,undated,shuffled,10,employer,middle,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100
+llama3.1:8b,DC_m10_gym_0,0,dated,chrono,10,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. Confidence: 100
+llama3.1:8b,DS_m10_gym_0,0,dated,shuffled,10,gym,first,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100.
+llama3.1:8b,NC_m10_gym_0,0,undated,chrono,10,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100%
+llama3.1:8b,NS_m10_gym_0,0,undated,shuffled,10,gym,first,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100%
+llama3.1:8b,DC_m10_gym_1,0,dated,chrono,10,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She now trains at Riverside Sports Hall. Confidence: 100
+llama3.1:8b,DS_m10_gym_1,0,dated,shuffled,10,gym,middle,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100.
+llama3.1:8b,NC_m10_gym_1,0,undated,chrono,10,gym,last,Peak Motion Club,Riverside Sports Hall,OLD,90,She trains at Peak Motion Club. Confidence: 90.
+llama3.1:8b,NS_m10_gym_1,0,undated,shuffled,10,gym,middle,Peak Motion Club,Riverside Sports Hall,BOTH,100,She trains at both Peak Motion Club and Riverside Sports Hall. Confidence: 100
+llama3.1:8b,DC_m10_gym_2,0,dated,chrono,10,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100%
+llama3.1:8b,DS_m10_gym_2,0,dated,shuffled,10,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100.
+llama3.1:8b,NC_m10_gym_2,0,undated,chrono,10,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100
+llama3.1:8b,NS_m10_gym_2,0,undated,shuffled,10,gym,last,Copperfield Gym,Lantern Climbing Centre,OLD,80,"She trains at Copperfield Gym and Lantern Climbing Centre, but since there is no indication of her stopping training at Copperfield Gym, it can be assumed that she still trains there. Confidence: 80"
+llama3.1:8b,DC_m20_city_0,0,dated,chrono,20,city,last,Vienna,Budapest,NEW,100,"She lives in Budapest. Confidence: 100. The user's statement on 2026-07-15 explicitly mentions that she lives in Budapest, which is a clear and direct statement."
+llama3.1:8b,DS_m20_city_0,0,dated,shuffled,20,city,last,Vienna,Budapest,NEW,,She lives in Budapest.
+llama3.1:8b,NC_m20_city_0,0,undated,chrono,20,city,last,Vienna,Budapest,OLD,0,"I don't have enough information to determine where she lives now, as the last conversation mentioned Budapest, which contradicts the previous information that she lives in Vienna. Confidence: 0"
+llama3.1:8b,NS_m20_city_0,0,undated,shuffled,20,city,last,Vienna,Budapest,NEW,100,She lives in Budapest. Confidence: 100%
+llama3.1:8b,DC_m20_city_1,0,dated,chrono,20,city,last,Prague,Warsaw,NEW,100,She lives in Warsaw. Confidence: 100
+llama3.1:8b,DS_m20_city_1,0,dated,shuffled,20,city,first,Prague,Warsaw,NEW,100,She lives in Warsaw. Confidence: 100
+llama3.1:8b,NC_m20_city_1,0,undated,chrono,20,city,last,Prague,Warsaw,NEW,100,She lives in Warsaw. Confidence: 100
+llama3.1:8b,NS_m20_city_1,0,undated,shuffled,20,city,first,Prague,Warsaw,NEW,100,She lives in Warsaw. Confidence: 100
+llama3.1:8b,DC_m20_city_2,0,dated,chrono,20,city,last,Lisbon,Madrid,NEW,100,"She lives in Madrid. I have a confidence level of 100, as she explicitly stated this in a previous conversation."
+llama3.1:8b,DS_m20_city_2,0,dated,shuffled,20,city,middle,Lisbon,Madrid,NEW,100,She lives in Madrid. Confidence: 100
+llama3.1:8b,NC_m20_city_2,0,undated,chrono,20,city,last,Lisbon,Madrid,NEW,100,She lives in Madrid. Confidence: 100
+llama3.1:8b,NS_m20_city_2,0,undated,shuffled,20,city,middle,Lisbon,Madrid,NEW,100,She lives in Madrid. Confidence: 100
+llama3.1:8b,DC_m20_employer_0,0,dated,chrono,20,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100.
+llama3.1:8b,DS_m20_employer_0,0,dated,shuffled,20,employer,first,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100
+llama3.1:8b,NC_m20_employer_0,0,undated,chrono,20,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs. Confidence: 100%
+llama3.1:8b,NS_m20_employer_0,0,undated,shuffled,20,employer,first,Northwind Analytics,Bluefield Labs,OLD,100,She works at Northwind Analytics. Confidence: 100.
+llama3.1:8b,DC_m20_employer_1,0,dated,chrono,20,employer,last,Corvel Systems,Ardent Data,NEW,100,She now works at Ardent Data. Confidence: 100.
+llama3.1:8b,DS_m20_employer_1,0,dated,shuffled,20,employer,middle,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100.
+llama3.1:8b,NC_m20_employer_1,0,undated,chrono,20,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100
+llama3.1:8b,NS_m20_employer_1,0,undated,shuffled,20,employer,middle,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data. Confidence: 100.
+llama3.1:8b,DC_m20_employer_2,0,dated,chrono,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. Confidence: 100.
+llama3.1:8b,DS_m20_employer_2,0,dated,shuffled,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100%
+llama3.1:8b,NC_m20_employer_2,0,undated,chrono,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media. Confidence: 100%
+llama3.1:8b,NS_m20_employer_2,0,undated,shuffled,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She currently works at Quillstone Media. Confidence: 100%
+llama3.1:8b,DC_m20_gym_0,0,dated,chrono,20,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100
+llama3.1:8b,DS_m20_gym_0,0,dated,shuffled,20,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100%
+llama3.1:8b,NC_m20_gym_0,0,undated,chrono,20,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,"She trains at Harbour Fitness. Confidence: 100 Note: There is only one instance where it's mentioned that she trains at Harbour Fitness, while it's repeatedly mentioned that she trains at Ironleaf Gym, making Harbour Fitness the clear correct answer."
+llama3.1:8b,NS_m20_gym_0,0,undated,shuffled,20,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness. Confidence: 100%
+llama3.1:8b,DC_m20_gym_1,0,dated,chrono,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100
+llama3.1:8b,DS_m20_gym_1,0,dated,shuffled,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100%
+llama3.1:8b,NC_m20_gym_1,0,undated,chrono,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100
+llama3.1:8b,NS_m20_gym_1,0,undated,shuffled,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall. Confidence: 100.
+llama3.1:8b,DC_m20_gym_2,0,dated,chrono,20,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100.
+llama3.1:8b,DS_m20_gym_2,0,dated,shuffled,20,gym,first,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100
+llama3.1:8b,NC_m20_gym_2,0,undated,chrono,20,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre. Confidence: 100.
+llama3.1:8b,NS_m20_gym_2,0,undated,shuffled,20,gym,first,Copperfield Gym,Lantern Climbing Centre,NEW,60,"She trains at Lantern Climbing Centre, although she also mentioned training at Copperfield Gym in previous conversations, which may indicate she still goes there or used to. Confidence: 60."
+qwen2.5:7b,DC_m01_city_0,0,dated,chrono,1,city,last,Vienna,Budapest,NEW,100,"She currently lives in Budapest, as per the last information I have. My confidence in this answer is 100."
+qwen2.5:7b,DS_m01_city_0,0,dated,shuffled,1,city,last,Vienna,Budapest,NEW,100,She lives in Budapest now. My confidence in this answer is 100.
+qwen2.5:7b,NC_m01_city_0,0,undated,chrono,1,city,last,Vienna,Budapest,BOTH,50,"Based on the saved memories, it seems she could be living in either Vienna or Budapest, as both locations have been mentioned. Since only one answer can be given, I'll choose one: she lives in Vienna. My confidence level is 50, as the information is ambiguous between the two cities."
+qwen2.5:7b,NS_m01_city_0,0,undated,shuffled,1,city,last,Vienna,Budapest,BOTH,50,"The information provided indicates that she lives in both Vienna and Budapest, which is contradictory. Given the choice, I will select the last stated location as the current one. Therefore, I will answer that she lives in Budapest now. My confidence in this answer is 50, as the information is ambig"
+qwen2.5:7b,DC_m01_city_1,0,dated,chrono,1,city,last,Prague,Warsaw,NEW,100,"She lives in Warsaw, based on the most recent information available. My confidence is 100."
+qwen2.5:7b,DS_m01_city_1,0,dated,shuffled,1,city,first,Prague,Warsaw,OLD,100,"Based on the most recent information, she lives in Prague. My confidence is 100."
+qwen2.5:7b,NC_m01_city_1,0,undated,chrono,1,city,last,Prague,Warsaw,ABSTAIN,0,"The information provided is contradictory as she cannot live in both Prague and Warsaw simultaneously. Based on the given data, I cannot determine her current residence with certainty. Confidence: 0"
+qwen2.5:7b,NS_m01_city_1,0,undated,shuffled,1,city,first,Prague,Warsaw,ABSTAIN,50,"She lives in either Warsaw or Prague, but I don't have enough information to determine which one specifically. My confidence is 50."
+qwen2.5:7b,DC_m01_city_2,0,dated,chrono,1,city,last,Lisbon,Madrid,NEW,100,"She currently lives in Madrid, based on the most recent information I have. My confidence is 100, as this is the latest update provided."
+qwen2.5:7b,DS_m01_city_2,0,dated,shuffled,1,city,last,Lisbon,Madrid,NEW,100,"She now lives in Madrid, as the last update was about her living there. My confidence is 100, as the information is recent and there have been no conflicting updates since then."
+qwen2.5:7b,NC_m01_city_2,0,undated,chrono,1,city,last,Lisbon,Madrid,NEW,70,"She lives in Madrid, as that is the most recent information provided. Confidence: 70."
+qwen2.5:7b,NS_m01_city_2,0,undated,shuffled,1,city,last,Lisbon,Madrid,ABSTAIN,50,"Based on the provided memories, it's unclear where she lives now since the locations given are contradictory. However, if I must choose, I'll go with Madrid, as the last mentioned location is often the most recent. My confidence in this answer is 50."
+qwen2.5:7b,DC_m01_employer_0,0,dated,chrono,1,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m01_employer_0,0,dated,shuffled,1,employer,first,Northwind Analytics,Bluefield Labs,OLD,100,"Based on the latest information from 2026-05-16, she works at Northwind Analytics. Confidence: 100."
+qwen2.5:7b,NC_m01_employer_0,0,undated,chrono,1,employer,last,Northwind Analytics,Bluefield Labs,NEW,80,"She works at Bluefield Labs. My confidence in this answer is 80, as there is an overlap in the information provided about her previous jobs."
+qwen2.5:7b,NS_m01_employer_0,0,undated,shuffled,1,employer,first,Northwind Analytics,Bluefield Labs,NEW,50,"She works at Bluefield Labs, according to the most recent information I have. However, there seems to be a discrepancy as she was also previously associated with Northwind Analytics. My confidence in this answer is 50, given the conflicting information."
+qwen2.5:7b,DC_m01_employer_1,0,dated,chrono,1,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m01_employer_1,0,dated,shuffled,1,employer,last,Corvel Systems,Ardent Data,NEW,100,"Based on the latest information available, she works at Ardent Data. My confidence in this answer is 100."
+qwen2.5:7b,NC_m01_employer_1,0,undated,chrono,1,employer,last,Corvel Systems,Ardent Data,NEW,80,"She works at Ardent Data now. My confidence in this answer is 80, as there is a recent change in her workplace mentioned."
+qwen2.5:7b,NS_m01_employer_1,0,undated,shuffled,1,employer,last,Corvel Systems,Ardent Data,NEW,80,"She works at Ardent Data, as that is the most recent information available. Confidence: 80."
+qwen2.5:7b,DC_m01_employer_2,0,dated,chrono,1,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,"She works at Quillstone Media now. My confidence in this answer is 100, as the last updated information about her employment is from July 15, 2026, and it states she works at Quillstone Media."
+qwen2.5:7b,DS_m01_employer_2,0,dated,shuffled,1,employer,first,Maple Ridge Studio,Quillstone Media,NEW,85,"She works at Quillstone Media, based on the most recent information available. Confidence: 85."
+qwen2.5:7b,NC_m01_employer_2,0,undated,chrono,1,employer,last,Maple Ridge Studio,Quillstone Media,OLD,100,"She works at Maple Ridge Studio now. Given the recent memory update, my confidence is 100."
+qwen2.5:7b,NS_m01_employer_2,0,undated,shuffled,1,employer,first,Maple Ridge Studio,Quillstone Media,OLD,80,"She works at Maple Ridge Studio, as that is the most recent information available. Confidence: 80."
+qwen2.5:7b,DC_m01_gym_0,0,dated,chrono,1,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,"Based on the saved memories, she trains at Harbour Fitness now. My confidence in this answer is 100."
+qwen2.5:7b,DS_m01_gym_0,0,dated,shuffled,1,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,"Based on the information available, she trains at Harbour Fitness now. My confidence level is 100, as the last recorded training location is Harbour Fitness."
+qwen2.5:7b,NC_m01_gym_0,0,undated,chrono,1,gym,last,Ironleaf Gym,Harbour Fitness,ABSTAIN,50,"Based on the information provided, she trains at both Ironleaf Gym and Harbour Fitness, so I cannot specify where she trains now without more context. My confidence level is 50."
+qwen2.5:7b,NS_m01_gym_0,0,undated,shuffled,1,gym,last,Ironleaf Gym,Harbour Fitness,BOTH,50,"Based on the information provided, she trains at both Ironleaf Gym and Harbour Fitness, so the specific current location is not clear. Confidence: 50."
+qwen2.5:7b,DC_m01_gym_1,0,dated,chrono,1,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,"Based on the information available, she trains at Riverside Sports Hall. My confidence level is 100, as the most recent memory provided is about her training at Riverside Sports Hall."
+qwen2.5:7b,DS_m01_gym_1,0,dated,shuffled,1,gym,first,Peak Motion Club,Riverside Sports Hall,NEW,80,"Based on the most recent information available, she trains at Riverside Sports Hall. My confidence is 80, as we don't have the exact date of her current training location, but the last recorded location was at Riverside Sports Hall."
+qwen2.5:7b,NC_m01_gym_1,0,undated,chrono,1,gym,last,Peak Motion Club,Riverside Sports Hall,BOTH,90,"She trains at both Peak Motion Club and Riverside Sports Hall now. Since the question does not specify which one to choose, I'll consider this as a dual answer. Given the information provided, I'll assign a confidence level of 90, as there's no recent indication of which specific location she trains"
+qwen2.5:7b,NS_m01_gym_1,0,undated,shuffled,1,gym,first,Peak Motion Club,Riverside Sports Hall,ABSTAIN,0,"Based on the information provided, she could be training at either Riverside Sports Hall or Peak Motion Club. Since the current training location is not specified, I cannot determine with certainty where she trains now. Confidence: 0."
+qwen2.5:7b,DC_m01_gym_2,0,dated,chrono,1,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,80,"Based on the available information, she trains at Lantern Climbing Centre now. My confidence is 80."
+qwen2.5:7b,DS_m01_gym_2,0,dated,shuffled,1,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,"Based on the information available, she trains at Lantern Climbing Centre. My confidence in this answer is 100."
+qwen2.5:7b,NC_m01_gym_2,0,undated,chrono,1,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,100,"Based on the saved memories, she trains at both Copperfield Gym and Lantern Climbing Centre. Since the question asks where she trains now and doesn't specify a time frame, I will provide a general answer. She trains at Copperfield Gym and Lantern Climbing Centre. My confidence is 100, as this is dir"
+qwen2.5:7b,NS_m01_gym_2,0,undated,shuffled,1,gym,last,Copperfield Gym,Lantern Climbing Centre,BOTH,100,She trains at both Copperfield Gym and Lantern Climbing Centre now. Confidence: 100
+qwen2.5:7b,DC_m03_city_0,0,dated,chrono,3,city,last,Vienna,Budapest,NEW,100,"She now lives in Budapest, based on the most recent information from our conversation history. Confidence: 100."
+qwen2.5:7b,DS_m03_city_0,0,dated,shuffled,3,city,first,Vienna,Budapest,NEW,100,"She now lives in Budapest. Based on the latest information provided, my confidence is 100."
+qwen2.5:7b,NC_m03_city_0,0,undated,chrono,3,city,last,Vienna,Budapest,NEW,100,"She currently lives in Budapest, according to her most recent mention. Confidence: 100."
+qwen2.5:7b,NS_m03_city_0,0,undated,shuffled,3,city,first,Vienna,Budapest,OLD,80,"She currently lives in Vienna, as she mentioned her flat there and talked about her neighbours. Confidence: 80."
+qwen2.5:7b,DC_m03_city_1,0,dated,chrono,3,city,last,Prague,Warsaw,NEW,100,"She now lives in Warsaw, based on the most recent information available. My confidence is 100."
+qwen2.5:7b,DS_m03_city_1,0,dated,shuffled,3,city,middle,Prague,Warsaw,NEW,100,"She currently lives in Warsaw, based on the most recent information available. My confidence in this answer is 100."
+qwen2.5:7b,NC_m03_city_1,0,undated,chrono,3,city,last,Prague,Warsaw,NEW,80,"She currently lives in Warsaw, but she has connections to Prague as she mentions her flat and neighbours there as well. Confidence: 80."
+qwen2.5:7b,NS_m03_city_1,0,undated,shuffled,3,city,middle,Prague,Warsaw,OLD,80,"She currently lives in Prague. Based on the information provided, my confidence is 80. The memories indicate she has lived in both Prague and Warsaw, but the most recent information suggests she lives in Prague now."
+qwen2.5:7b,DC_m03_city_2,0,dated,chrono,3,city,last,Lisbon,Madrid,NEW,100,"She now lives in Madrid, based on the most recent information available. My confidence in this answer is 100."
+qwen2.5:7b,DS_m03_city_2,0,dated,shuffled,3,city,last,Lisbon,Madrid,NEW,80,"She currently lives in Madrid, according to the last information I have. Confidence: 80."
+qwen2.5:7b,NC_m03_city_2,0,undated,chrono,3,city,last,Lisbon,Madrid,OLD,80,She currently lives in Lisbon. My confidence in this answer is 80.
+qwen2.5:7b,NS_m03_city_2,0,undated,shuffled,3,city,last,Lisbon,Madrid,NEW,100,"She lives in Madrid now. My confidence in this answer is 100, as the last piece of information provided directly states her current residence."
+qwen2.5:7b,DC_m03_employer_0,0,dated,chrono,3,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m03_employer_0,0,dated,shuffled,3,employer,middle,Northwind Analytics,Bluefield Labs,NEW,95,She works at Bluefield Labs now. My confidence in this answer is 95.
+qwen2.5:7b,NC_m03_employer_0,0,undated,chrono,3,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs now. My confidence in this answer is 100.
+qwen2.5:7b,NS_m03_employer_0,0,undated,shuffled,3,employer,middle,Northwind Analytics,Bluefield Labs,OLD,100,"She works at Northwind Analytics now. My confidence in this answer is 100, as it aligns with the information provided in your memory."
+qwen2.5:7b,DC_m03_employer_1,0,dated,chrono,3,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m03_employer_1,0,dated,shuffled,3,employer,last,Corvel Systems,Ardent Data,NEW,100,She now works at Ardent Data. My confidence in this answer is 100.
+qwen2.5:7b,NC_m03_employer_1,0,undated,chrono,3,employer,last,Corvel Systems,Ardent Data,NEW,100,"She works at Ardent Data now. My confidence in this answer is 100, as the most recent information provided indicates her current workplace."
+qwen2.5:7b,NS_m03_employer_1,0,undated,shuffled,3,employer,last,Corvel Systems,Ardent Data,NEW,100,"She works at Ardent Data now. My confidence in this answer is 100, as it directly contradicts her previous employment at Corvel Systems."
+qwen2.5:7b,DC_m03_employer_2,0,dated,chrono,3,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m03_employer_2,0,dated,shuffled,3,employer,first,Maple Ridge Studio,Quillstone Media,NEW,80,She works at Quillstone Media now. My confidence in this answer is 80.
+qwen2.5:7b,NC_m03_employer_2,0,undated,chrono,3,employer,last,Maple Ridge Studio,Quillstone Media,OLD,95,"She works at Maple Ridge Studio now, as that is her current workplace according to the saved memories. Confidence: 95."
+qwen2.5:7b,NS_m03_employer_2,0,undated,shuffled,3,employer,first,Maple Ridge Studio,Quillstone Media,OLD,80,She works at Maple Ridge Studio now. My confidence in this answer is 80.
+qwen2.5:7b,DC_m03_gym_0,0,dated,chrono,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m03_gym_0,0,dated,shuffled,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. My confidence in this answer is 100.
+qwen2.5:7b,NC_m03_gym_0,0,undated,chrono,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,"She trains at Harbour Fitness now. My confidence in this answer is 100, as it was directly stated in the saved memories."
+qwen2.5:7b,NS_m03_gym_0,0,undated,shuffled,3,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,"She trains at Harbour Fitness now. My confidence in this answer is 100, as it directly contradicts her previous statement about training at Ironleaf Gym."
+qwen2.5:7b,DC_m03_gym_1,0,dated,chrono,3,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains at Riverside Sports Hall now. My confidence is 100.
+qwen2.5:7b,DS_m03_gym_1,0,dated,shuffled,3,gym,first,Peak Motion Club,Riverside Sports Hall,OLD,85,She trains at Peak Motion Club now. My confidence in this answer is 85.
+qwen2.5:7b,NC_m03_gym_1,0,undated,chrono,3,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,"Based on the information provided, she trains at Riverside Sports Hall now. My confidence is 100, as this directly aligns with the last piece of information given about her training location."
+qwen2.5:7b,NS_m03_gym_1,0,undated,shuffled,3,gym,first,Peak Motion Club,Riverside Sports Hall,OLD,100,She trains at Peak Motion Club now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m03_gym_2,0,dated,chrono,3,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m03_gym_2,0,dated,shuffled,3,gym,middle,Copperfield Gym,Lantern Climbing Centre,NEW,85,She trains at Lantern Climbing Centre now. My confidence in this answer is 85.
+qwen2.5:7b,NC_m03_gym_2,0,undated,chrono,3,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,"Based on the information provided, she trains at Lantern Climbing Centre now. Confidence: 100."
+qwen2.5:7b,NS_m03_gym_2,0,undated,shuffled,3,gym,middle,Copperfield Gym,Lantern Climbing Centre,NEW,80,She currently trains at Lantern Climbing Centre. My confidence in this answer is 80.
+qwen2.5:7b,DC_m05_city_0,0,dated,chrono,5,city,last,Vienna,Budapest,NEW,100,"She currently lives in Budapest, as mentioned on 2026-07-15. My confidence is 100."
+qwen2.5:7b,DS_m05_city_0,0,dated,shuffled,5,city,last,Vienna,Budapest,NEW,100,"She now lives in Budapest, according to her most recent statement. Confidence: 100."
+qwen2.5:7b,NC_m05_city_0,0,undated,chrono,5,city,last,Vienna,Budapest,NEW,100,"She now lives in Budapest. My confidence in this answer is 100, as it directly contradicts her previous statement about living in Vienna and is the most recent information provided."
+qwen2.5:7b,NS_m05_city_0,0,undated,shuffled,5,city,last,Vienna,Budapest,NEW,100,"She currently lives in Budapest, so her most recent stated residence is Budapest. My confidence in this answer is 100."
+qwen2.5:7b,DC_m05_city_1,0,dated,chrono,5,city,last,Prague,Warsaw,NEW,85,"She now lives in Warsaw, based on the most recent information available. Confidence: 85."
+qwen2.5:7b,DS_m05_city_1,0,dated,shuffled,5,city,first,Prague,Warsaw,NEW,85,"She now lives in Warsaw. Based on the most recent information provided, my confidence is 85."
+qwen2.5:7b,NC_m05_city_1,0,undated,chrono,5,city,last,Prague,Warsaw,NEW,100,"She now lives in Warsaw, based on the most recent information provided. Confidence: 100."
+qwen2.5:7b,NS_m05_city_1,0,undated,shuffled,5,city,first,Prague,Warsaw,OLD,100,"She currently lives in Prague, based on the information provided. Confidence: 100."
+qwen2.5:7b,DC_m05_city_2,0,dated,chrono,5,city,last,Lisbon,Madrid,NEW,100,"She now lives in Madrid. My confidence in this answer is 100, as the most recent information provided states she lives in Madrid."
+qwen2.5:7b,DS_m05_city_2,0,dated,shuffled,5,city,middle,Lisbon,Madrid,NEW,95,"She now lives in Madrid, but she used to live in Lisbon. Based on the most recent information, her current residence is in Madrid, so I would assign a confidence level of 95."
+qwen2.5:7b,NC_m05_city_2,0,undated,chrono,5,city,last,Lisbon,Madrid,NEW,80,"She now lives in Madrid, with a previous residence in Lisbon. Based on the most recent information provided, her current residence is in Madrid. Confidence: 80."
+qwen2.5:7b,NS_m05_city_2,0,undated,shuffled,5,city,middle,Lisbon,Madrid,OLD,100,She now lives in Lisbon. My confidence in this answer is 100.
+qwen2.5:7b,DC_m05_employer_0,0,dated,chrono,5,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She now works at Bluefield Labs. My confidence in this answer is 100.
+qwen2.5:7b,DS_m05_employer_0,0,dated,shuffled,5,employer,first,Northwind Analytics,Bluefield Labs,NEW,100,"Based on the latest information, she works at Bluefield Labs. My confidence in this answer is 100."
+qwen2.5:7b,NC_m05_employer_0,0,undated,chrono,5,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs now. My confidence in this answer is 100.
+qwen2.5:7b,NS_m05_employer_0,0,undated,shuffled,5,employer,first,Northwind Analytics,Bluefield Labs,OLD,85,She works at Northwind Analytics now. My confidence in this answer is 85.
+qwen2.5:7b,DC_m05_employer_1,0,dated,chrono,5,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m05_employer_1,0,dated,shuffled,5,employer,middle,Corvel Systems,Ardent Data,NEW,85,She works at Ardent Data now. My confidence in this answer is 85.
+qwen2.5:7b,NC_m05_employer_1,0,undated,chrono,5,employer,last,Corvel Systems,Ardent Data,NEW,100,She now works at Ardent Data. My confidence in this answer is 100.
+qwen2.5:7b,NS_m05_employer_1,0,undated,shuffled,5,employer,middle,Corvel Systems,Ardent Data,NEW,100,"She works at Ardent Data now, based on the information provided. My confidence in this answer is 100."
+qwen2.5:7b,DC_m05_employer_2,0,dated,chrono,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,"She now works at Quillstone Media, based on the information from our previous conversation on 2026-07-15. My confidence is 100."
+qwen2.5:7b,DS_m05_employer_2,0,dated,shuffled,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media now. My confidence in this answer is 100.
+qwen2.5:7b,NC_m05_employer_2,0,undated,chrono,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media now. My confidence in this answer is 100.
+qwen2.5:7b,NS_m05_employer_2,0,undated,shuffled,5,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She currently works at Quillstone Media. My confidence in this answer is 100.
+qwen2.5:7b,DC_m05_gym_0,0,dated,chrono,5,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,"She currently trains at Harbour Fitness, based on the most recent information. Confidence: 100."
+qwen2.5:7b,DS_m05_gym_0,0,dated,shuffled,5,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,80,She trains at Harbour Fitness now. My confidence in this answer is 80.
+qwen2.5:7b,NC_m05_gym_0,0,undated,chrono,5,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,"She trains at Harbour Fitness now. My confidence in this answer is 100, as it directly contrasts with the information provided about her training at Ironleaf Gym in previous conversations."
+qwen2.5:7b,NS_m05_gym_0,0,undated,shuffled,5,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m05_gym_1,0,dated,chrono,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,80,"Based on the information provided, she trains at Riverside Sports Hall now. My confidence is 80."
+qwen2.5:7b,DS_m05_gym_1,0,dated,shuffled,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,80,"She trains at Riverside Sports Hall now. Based on the information provided, my confidence is 80."
+qwen2.5:7b,NC_m05_gym_1,0,undated,chrono,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,"She trains at Riverside Sports Hall now, based on her recent mention of training there. Confidence: 100."
+qwen2.5:7b,NS_m05_gym_1,0,undated,shuffled,5,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains now at Riverside Sports Hall. My confidence in this answer is 100.
+qwen2.5:7b,DC_m05_gym_2,0,dated,chrono,5,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m05_gym_2,0,dated,shuffled,5,gym,first,Copperfield Gym,Lantern Climbing Centre,OLD,80,"She trains at Copperfield Gym now, based on the most recent information. My confidence is 80."
+qwen2.5:7b,NC_m05_gym_2,0,undated,chrono,5,gym,last,Copperfield Gym,Lantern Climbing Centre,OLD,85,"She trains at Copperfield Gym now, based on her previous mentions of training there and the details she provided about it. Confidence: 85."
+qwen2.5:7b,NS_m05_gym_2,0,undated,shuffled,5,gym,first,Copperfield Gym,Lantern Climbing Centre,OLD,100,She trains at Copperfield Gym now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m10_city_0,0,dated,chrono,10,city,last,Vienna,Budapest,NEW,100,"She now lives in Budapest, according to the information from our previous conversation on July 15, 2026. Confidence: 100."
+qwen2.5:7b,DS_m10_city_0,0,dated,shuffled,10,city,middle,Vienna,Budapest,NEW,100,She now lives in Budapest. My confidence in this answer is 100.
+qwen2.5:7b,NC_m10_city_0,0,undated,chrono,10,city,last,Vienna,Budapest,NEW,100,"She now lives in Budapest, according to the last mentioned information. Confidence: 100."
+qwen2.5:7b,NS_m10_city_0,0,undated,shuffled,10,city,middle,Vienna,Budapest,NEW,100,"She now lives in Budapest, as she mentioned changing her residence. Confidence: 100."
+qwen2.5:7b,DC_m10_city_1,0,dated,chrono,10,city,last,Prague,Warsaw,NEW,100,"She now lives in Warsaw, based on the information from our previous conversation on 2026-07-15. Confidence: 100."
+qwen2.5:7b,DS_m10_city_1,0,dated,shuffled,10,city,last,Prague,Warsaw,NEW,100,"She now lives in Warsaw, based on the most recent information provided. Confidence: 100."
+qwen2.5:7b,NC_m10_city_1,0,undated,chrono,10,city,last,Prague,Warsaw,NEW,100,"She now lives in Warsaw, Poland. My confidence in this answer is 100."
+qwen2.5:7b,NS_m10_city_1,0,undated,shuffled,10,city,last,Prague,Warsaw,NEW,100,"She now lives in Warsaw, with a previous residence in Prague. Confidence: 100."
+qwen2.5:7b,DC_m10_city_2,0,dated,chrono,10,city,last,Lisbon,Madrid,NEW,100,"She currently lives in Madrid, as she mentioned on July 15th. My confidence is 100."
+qwen2.5:7b,DS_m10_city_2,0,dated,shuffled,10,city,first,Lisbon,Madrid,OLD,100,She lives in Lisbon. My confidence is 100.
+qwen2.5:7b,NC_m10_city_2,0,undated,chrono,10,city,last,Lisbon,Madrid,NEW,100,"She now lives in Madrid, so I have a confidence of 100%."
+qwen2.5:7b,NS_m10_city_2,0,undated,shuffled,10,city,first,Lisbon,Madrid,OLD,100,She lives in Lisbon now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m10_employer_0,0,dated,chrono,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She now works at Bluefield Labs. My confidence in this answer is 100.
+qwen2.5:7b,DS_m10_employer_0,0,dated,shuffled,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She now works at Bluefield Labs. My confidence in this answer is 100.
+qwen2.5:7b,NC_m10_employer_0,0,undated,chrono,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She now works at Bluefield Labs. My confidence in this answer is 100.
+qwen2.5:7b,NS_m10_employer_0,0,undated,shuffled,10,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She works at Bluefield Labs now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m10_employer_1,0,dated,chrono,10,employer,last,Corvel Systems,Ardent Data,NEW,100,"She now works at Ardent Data, according to her most recent mention. Confidence: 100."
+qwen2.5:7b,DS_m10_employer_1,0,dated,shuffled,10,employer,first,Corvel Systems,Ardent Data,OLD,95,She works at Corvel Systems. My confidence in this answer is 95.
+qwen2.5:7b,NC_m10_employer_1,0,undated,chrono,10,employer,last,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data now. My confidence in this answer is 100.
+qwen2.5:7b,NS_m10_employer_1,0,undated,shuffled,10,employer,first,Corvel Systems,Ardent Data,OLD,100,"She works at Corvel Systems now. My confidence in this answer is 100, as multiple memories indicate her current employment there."
+qwen2.5:7b,DC_m10_employer_2,0,dated,chrono,10,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,"She now works at Quillstone Media, according to the most recent information. Confidence: 100."
+qwen2.5:7b,DS_m10_employer_2,0,dated,shuffled,10,employer,middle,Maple Ridge Studio,Quillstone Media,OLD,100,She works at Maple Ridge Studio. My confidence in this answer is 100.
+qwen2.5:7b,NC_m10_employer_2,0,undated,chrono,10,employer,last,Maple Ridge Studio,Quillstone Media,OLD,95,"She works at Maple Ridge Studio now, with the information given, although she previously worked at Quillstone Media. Confidence: 95."
+qwen2.5:7b,NS_m10_employer_2,0,undated,shuffled,10,employer,middle,Maple Ridge Studio,Quillstone Media,OLD,100,She works at Maple Ridge Studio. My confidence in this answer is 100.
+qwen2.5:7b,DC_m10_gym_0,0,dated,chrono,10,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She currently trains at Harbour Fitness. My confidence in this answer is 100.
+qwen2.5:7b,DS_m10_gym_0,0,dated,shuffled,10,gym,first,Ironleaf Gym,Harbour Fitness,NEW,100,"She trains at Harbour Fitness now, based on the information from 2026-07-15. Confidence: 100."
+qwen2.5:7b,NC_m10_gym_0,0,undated,chrono,10,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She now trains at Harbour Fitness. My confidence in this answer is 100.
+qwen2.5:7b,NS_m10_gym_0,0,undated,shuffled,10,gym,first,Ironleaf Gym,Harbour Fitness,OLD,100,She trains at Ironleaf Gym. My confidence in this answer is 100.
+qwen2.5:7b,DC_m10_gym_1,0,dated,chrono,10,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,80,"She currently trains at Riverside Sports Hall, based on her most recent mention. Confidence: 80."
+qwen2.5:7b,DS_m10_gym_1,0,dated,shuffled,10,gym,middle,Peak Motion Club,Riverside Sports Hall,NEW,80,She trains at Riverside Sports Hall now. My confidence in this answer is 80.
+qwen2.5:7b,NC_m10_gym_1,0,undated,chrono,10,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She now trains at Riverside Sports Hall. My confidence in this answer is 100.
+qwen2.5:7b,NS_m10_gym_1,0,undated,shuffled,10,gym,middle,Peak Motion Club,Riverside Sports Hall,NEW,80,She now trains at Riverside Sports Hall. My confidence in this answer is 80.
+qwen2.5:7b,DC_m10_gym_2,0,dated,chrono,10,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,"She currently trains at Lantern Climbing Centre. My confidence in this answer is 100, as the most recent information indicates she trains there, superseding the previous gym-related references."
+qwen2.5:7b,DS_m10_gym_2,0,dated,shuffled,10,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,She trains at Lantern Climbing Centre now. My confidence in this answer is 100.
+qwen2.5:7b,NC_m10_gym_2,0,undated,chrono,10,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,"She currently trains at Lantern Climbing Centre. My confidence in this answer is 100, as it was directly stated in her most recent memory."
+qwen2.5:7b,NS_m10_gym_2,0,undated,shuffled,10,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,95,"She primarily trains at Copperfield Gym, but also trains at Lantern Climbing Centre. Confidence: 95."
+qwen2.5:7b,DC_m20_city_0,0,dated,chrono,20,city,last,Vienna,Budapest,NEW,100,"She now lives in Budapest, according to the most recent information provided. Confidence: 100."
+qwen2.5:7b,DS_m20_city_0,0,dated,shuffled,20,city,last,Vienna,Budapest,NEW,100,"She now lives in Budapest, based on the most recent information provided. Confidence: 100."
+qwen2.5:7b,NC_m20_city_0,0,undated,chrono,20,city,last,Vienna,Budapest,OLD,95,She currently lives in Vienna. Confidence: 95.
+qwen2.5:7b,NS_m20_city_0,0,undated,shuffled,20,city,last,Vienna,Budapest,NEW,100,She now lives in Budapest. My confidence in this answer is 100.
+qwen2.5:7b,DC_m20_city_1,0,dated,chrono,20,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. My confidence in this answer is 100.
+qwen2.5:7b,DS_m20_city_1,0,dated,shuffled,20,city,first,Prague,Warsaw,OLD,100,She lives in Prague. My confidence in this answer is 100.
+qwen2.5:7b,NC_m20_city_1,0,undated,chrono,20,city,last,Prague,Warsaw,NEW,100,She now lives in Warsaw. My confidence in this answer is 100.
+qwen2.5:7b,NS_m20_city_1,0,undated,shuffled,20,city,first,Prague,Warsaw,OLD,100,She lives in Prague. My confidence is 100.
+qwen2.5:7b,DC_m20_city_2,0,dated,chrono,20,city,last,Lisbon,Madrid,NEW,100,She now lives in Madrid. My confidence in this answer is 100.
+qwen2.5:7b,DS_m20_city_2,0,dated,shuffled,20,city,middle,Lisbon,Madrid,NEW,100,She lives in Madrid now. My confidence in this answer is 100.
+qwen2.5:7b,NC_m20_city_2,0,undated,chrono,20,city,last,Lisbon,Madrid,NEW,100,She now lives in Madrid. My confidence in this answer is 100.
+qwen2.5:7b,NS_m20_city_2,0,undated,shuffled,20,city,middle,Lisbon,Madrid,NEW,100,She lives in Madrid now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m20_employer_0,0,dated,chrono,20,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She now works at Bluefield Labs. My confidence in this answer is 100.
+qwen2.5:7b,DS_m20_employer_0,0,dated,shuffled,20,employer,first,Northwind Analytics,Bluefield Labs,OLD,95,She works at Northwind Analytics. My confidence is 95.
+qwen2.5:7b,NC_m20_employer_0,0,undated,chrono,20,employer,last,Northwind Analytics,Bluefield Labs,NEW,100,She now works at Bluefield Labs. My confidence in this answer is 100.
+qwen2.5:7b,NS_m20_employer_0,0,undated,shuffled,20,employer,first,Northwind Analytics,Bluefield Labs,OLD,100,She works at Northwind Analytics. My confidence in this answer is 100.
+qwen2.5:7b,DC_m20_employer_1,0,dated,chrono,20,employer,last,Corvel Systems,Ardent Data,NEW,100,"She now works at Ardent Data, based on the information from our previous conversation on 2026-07-15. Confidence: 100."
+qwen2.5:7b,DS_m20_employer_1,0,dated,shuffled,20,employer,middle,Corvel Systems,Ardent Data,NEW,100,"She now works at Ardent Data, according to the most recent information provided. Confidence: 100."
+qwen2.5:7b,NC_m20_employer_1,0,undated,chrono,20,employer,last,Corvel Systems,Ardent Data,NEW,100,She now works at Ardent Data. My confidence in this answer is 100.
+qwen2.5:7b,NS_m20_employer_1,0,undated,shuffled,20,employer,middle,Corvel Systems,Ardent Data,NEW,100,She works at Ardent Data now. Confidence: 100.
+qwen2.5:7b,DC_m20_employer_2,0,dated,chrono,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. My confidence in this answer is 100.
+qwen2.5:7b,DS_m20_employer_2,0,dated,shuffled,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. My confidence in this answer is 100.
+qwen2.5:7b,NC_m20_employer_2,0,undated,chrono,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She now works at Quillstone Media. My confidence in this answer is 100.
+qwen2.5:7b,NS_m20_employer_2,0,undated,shuffled,20,employer,last,Maple Ridge Studio,Quillstone Media,NEW,100,She works at Quillstone Media now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m20_gym_0,0,dated,chrono,20,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. My confidence in this answer is 100.
+qwen2.5:7b,DS_m20_gym_0,0,dated,shuffled,20,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,100,"She trains at Harbour Fitness now, based on her recent mention of training there on July 15th. My confidence in this answer is 100."
+qwen2.5:7b,NC_m20_gym_0,0,undated,chrono,20,gym,last,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. My confidence in this answer is 100.
+qwen2.5:7b,NS_m20_gym_0,0,undated,shuffled,20,gym,middle,Ironleaf Gym,Harbour Fitness,NEW,100,She trains at Harbour Fitness now. My confidence in this answer is 100.
+qwen2.5:7b,DC_m20_gym_1,0,dated,chrono,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,80,She trains at Riverside Sports Hall now. My confidence in this answer is 80.
+qwen2.5:7b,DS_m20_gym_1,0,dated,shuffled,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,80,She trains at Riverside Sports Hall now. My confidence in this answer is 80.
+qwen2.5:7b,NC_m20_gym_1,0,undated,chrono,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains now at Riverside Sports Hall. My confidence in this answer is 100.
+qwen2.5:7b,NS_m20_gym_1,0,undated,shuffled,20,gym,last,Peak Motion Club,Riverside Sports Hall,NEW,100,She trains now at Riverside Sports Hall. My confidence in this answer is 100.
+qwen2.5:7b,DC_m20_gym_2,0,dated,chrono,20,gym,last,Copperfield Gym,Lantern Climbing Centre,OLD,95,She currently trains at Copperfield Gym. My confidence in this answer is 95.
+qwen2.5:7b,DS_m20_gym_2,0,dated,shuffled,20,gym,first,Copperfield Gym,Lantern Climbing Centre,OLD,95,She trains at Copperfield Gym. My confidence is 95.
+qwen2.5:7b,NC_m20_gym_2,0,undated,chrono,20,gym,last,Copperfield Gym,Lantern Climbing Centre,NEW,100,"She now trains at Lantern Climbing Centre, based on the last mention in our conversation. Confidence: 100."
+qwen2.5:7b,NS_m20_gym_2,0,undated,shuffled,20,gym,first,Copperfield Gym,Lantern Climbing Centre,OLD,100,"She trains at Copperfield Gym now. My confidence in this answer is 100, as Copperfield Gym has been the primary location mentioned in our previous conversations."

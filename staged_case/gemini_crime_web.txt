@@ -1,0 +1,388 @@
+model: (Gemini 3.1 PRO)
+mode: (thinking)
+date: 2026-10-31
+
+run1:
+[S1]
+**65**
+
+Although Daniel K.'s conflicting alibi, eyewitness identification, and phone proximity make him a strong suspect, the evidence remains circumstantial with no physical proof placing him at the scene and an alternative suspect named in a tip.
+
+**Summary:**
+On 1 March at 22:10, a bike shop was burglarized by a hooded individual. Daniel K. was charged based on his cell phone's proximity to the area, possessing a similar jacket, a witness photo identification, and a broken alibi regarding when he left a friend's flat. However, no physical evidence links him to the crime, the jacket is common, and an anonymous tip named a different suspect.
+[S2]
+**35**
+
+The likelihood has decreased significantly because the sole eyewitness identification of Daniel K. was revealed to be uncertain, and an alternative suspect, Ivo P., was confirmed to be near the scene just five minutes before the burglary.
+
+**Summary:**
+A bike shop was burglarized on 1 March. Daniel K. was initially charged based on cell data, a common jacket, an inconsistent alibi, and a photo ID. However, the case against him has weakened because the eyewitness admitted uncertainty regarding the identification. Furthermore, an alternative suspect, Ivo P., was placed near the shop just five minutes before the break-in by a bus driver—a location Ivo admits to passing through.
+[S3]
+**30**
+
+Although Daniel K.'s credibility is further damaged by a neighbor contradicting his claim that he cannot ride a bicycle, the court's decision to investigate Ivo P.'s movements highlights the growing plausibility of the alternative suspect.
+
+**Summary:**
+A bike shop was burglarized on 1 March by a hooded individual who fled on a bicycle. Daniel K. was charged based on circumstantial evidence (location data, common jacket, inconsistent alibis), but the case weakened after the sole witness ID proved uncertain. Furthermore, Daniel's claim that he cannot ride a bike was contradicted by a neighbor. Meanwhile, an alternative suspect, Ivo P., was placed near the scene just before the crime, prompting the court to investigate him further.
+[R1]
+As of 14 March 2026, the prosecutor had the following evidence against Daniel K.:
+
+* **Phone Location Data:** His cell phone was placed within 1 km of the burglarized shop during the time of the crime (between 21:00 and 23:00).
+* **Eyewitness Identification:** Witness B selected Daniel K. from a police photo line-up.
+* **Physical Match:** He possessed a dark hooded jacket matching the description of the clothing worn by the burglar.
+* **Inconsistent Alibi:** Daniel initially claimed to be at his friend Marta's flat all evening, but Marta stated he left around 21:30. Daniel later changed his story, claiming he left at 22:30.
+* **General Description:** Multiple witnesses and CCTV described the suspect as a male between 170–180 cm, consistent with Daniel.
+* **Forensic Circumstances:** Although no fingerprints were found, forensics indicated the burglar wore gloves, which explained the absence of physical traces.
+[R2]
+As of 10 March 2026, Witness B's identification appeared certain on the official record, as he had picked Daniel K. from a photo line-up the day before without any documented hesitation. It was not until 20 March that Witness B admitted he was actually uncertain and had only chosen the person who looked most similar.
+[R3]
+No. As of 12 March, the police only had an unverified anonymous tip naming Ivo P. as the burglar, which is merely a lead rather than factual proof. It was not until 25 March that a bus driver provided actual evidence placing Ivo P. near the shop on the night of the crime.
+
+run2:
+[S1]
+**Likelihood:** 65
+
+While Witness B identified him and his alibi is inconsistent, the evidence is entirely circumstantial and places him only within a broad 1 km radius.
+
+**Summary:**
+A bicycle shop was burglarized on March 1 at 22:10 by someone wearing a dark hooded jacket. Suspect Daniel K. was charged after Witness B identified him from a photo lineup and his alibi proved inconsistent with his friend's timeline. However, the evidence remains circumstantial: no physical traces link him to the scene, his jacket is a common model, his phone was merely within a broad 1 km area, and an anonymous tip implicated someone else.
+[S2]
+**Likelihood:** 30
+
+The likelihood decreases significantly because the only eyewitness identification of Daniel K. was revealed to be uncertain, and a new suspect, Ivo P., was placed near the scene just before the break-in.
+
+**Summary:**
+A bicycle shop was burglarized on March 1. Initially, Daniel K. was charged based on an inconsistent alibi, general phone location data, and a photo lineup identification. However, the case against him has significantly weakened since Witness B admitted uncertainty regarding the lineup choice. Meanwhile, an alternative suspect, Ivo P., was implicated by an anonymous tip and subsequently placed near the crime scene at 22:05 by a bus driver.
+[S3]
+**Likelihood:** 25
+
+The revelation that the burglar fled on a bicycle keeps the likelihood low, especially as the court has paused proceedings against Daniel to investigate alternative suspect Ivo P.
+
+**Summary:**
+A bicycle shop was burglarized March 1, and the perpetrator fled on a bicycle. Daniel K. was charged based on weak circumstantial evidence—general location data, an inconsistent alibi, a common jacket, and a later-retracted photo identification. Although police contradicted his lawyer's claim that Daniel cannot ride a bike, alternative suspect Ivo P. was seen near the scene just before the crime, prompting the court to pause proceedings against Daniel to investigate Ivo instead.
+[R1]
+Based on the notes up to March 14, 2026, the prosecutor had the following evidence against Daniel K. when charging him:
+
+* **Phone location data:** Daniel K.'s phone was placed within 1 km of the bicycle shop between 21:00 and 23:00 on the night of the burglary.
+* **Inconsistent alibi:** Daniel claimed he was at his friend Marta's flat until about 22:30, but Marta contradicted this, stating she believed he left around 21:30 (the burglary occurred at 22:10).
+* **Physical evidence (clothing):** A dark hooded jacket was found in Daniel's flat, matching the description of the clothing worn by the person seen near the shop.
+* **Eyewitness identification:** Witness B picked Daniel K. out of a police photo line-up.
+* **Corroborating circumstantial details:** Witness C and CCTV established the suspect was a male between 170–180 cm tall, and forensics determined the burglar wore gloves, explaining the lack of Daniel's fingerprints at the scene.
+
+*(Note: The prosecutor also had an unverified anonymous tip about another man, Ivo P., but the above points constitute the direct case built against Daniel K. at the time of the charge).*
+[R2]
+As of 10 March 2026, there was no recorded uncertainty regarding Witness B's identification, as he had simply picked Daniel K. from a photo line-up the day before. It was not until 20 March that Witness B admitted he was actually uncertain and had merely chosen the person who looked most similar.
+[R3]
+No.
+
+As of 12 March 2026, the only mention of Ivo P. was an unverified anonymous tip naming him as the burglar. The eyewitness account actually placing him near the shop was not reported until a bus driver came forward later, on 25 March.
+
+run3:
+[S1]
+65.
+
+While Witness B's identification and Daniel's broken alibi strongly implicate him, the lack of physical evidence, the commonality of the jacket, and an alternative tip leave room for doubt.
+
+**Summary**
+A bicycle shop was burglarized on March 1 at 22:10 by someone in a dark hoodie. Despite conflicting initial witness reports on the suspect's gender, a passer-by identified Daniel K. from a photo line-up. Daniel's phone was nearby, he owns a matching jacket, and his alibi is contradicted by his friend Marta. However, there is no forensic evidence linking him to the scene, and an anonymous tip implicated another man named Ivo P.
+[S2]
+35.
+
+The probability drops significantly because the only eyewitness identification of Daniel K. was revealed to be uncertain, and the alternative suspect, Ivo P., was placed at the scene just minutes before the break-in.
+
+**Summary**
+A bike shop was burglarized by someone in a dark hoodie. Initial suspicion fell on Daniel K. due to nearby phone data, a weak alibi, and a photo ID by a passer-by. However, the case against Daniel has weakened after the witness admitted his identification was uncertain. Meanwhile, suspicion has shifted toward an alternative suspect, Ivo P., whom a bus driver placed at the scene just five minutes before the crime, which Ivo himself confirmed.
+[S3]
+40.
+
+Daniel's claim that he cannot ride the bicycle seen on the new CCTV footage is contradicted by a neighbor, which raises suspicion about his honesty, but the strong presence of alternative suspect Ivo P. keeps the overall likelihood low.
+
+**Summary**
+A bike shop was burglarized by someone in a hoodie who fled on a bicycle. The case against Daniel K. relies on proximity, a broken alibi, and a contested claim about his ability to ride a bike. However, the sole eyewitness identification of Daniel is uncertain, and no forensic evidence links him to the shop. The court is now investigating Ivo P., who was placed at the scene minutes before the crime.
+[R1]
+Based on the notes up to 14 March 2026, the prosecutor had the following evidence against Daniel K. when charging him:
+
+* **Location data:** Phone records placed Daniel K.'s phone within 1 km of the shop during the time of the break-in (between 21:00 and 23:00).
+* **A broken/inconsistent alibi:** Daniel initially claimed he was at his friend Marta's flat all evening. However, Marta stated he left around 21:30, prompting Daniel to change his story and claim he left at 22:30.
+* **Physical clothing match:** A dark hooded jacket, matching the description of the one worn by the burglar, was found in Daniel K.'s flat.
+* **Eyewitness identification:** Witness B picked Daniel K. out of a photo line-up.
+* **Explanation for lack of DNA/prints:** While no fingerprints were found at the scene, forensics determined the burglar likely wore gloves, which kept Daniel as a viable suspect despite the lack of direct physical traces.
+[R2]
+As of 10 March 2026, there was no recorded uncertainty regarding Witness B's identification, as he had simply picked Daniel K. from a photo line-up on 9 March. It was not until 20 March that Witness B revealed he was actually uncertain and had only chosen the person who looked most similar.
+[R3]
+No.
+
+On 12 March 2026, the only mention of Ivo P. was an unverified anonymous tip claiming he was the burglar. The first actual evidence placing him near the scene was the bus driver's statement, which was not obtained until 25 March.
+
+run4:
+[S1]
+**65**
+
+Daniel K.'s inconsistent alibi, presence in the general area, and positive photo identification strongly point to him, though the lack of physical evidence and an alternate suspect tip leave reasonable doubt.
+
+**Summary:**
+A bicycle shop was burglarized on 1 March at 22:10 by a hooded individual. While early witness accounts varied, one identified Daniel K. from a photo line-up. Daniel’s phone was in the area, he owns a similar jacket, and his friend contradicted his alibi regarding what time he left her flat. Despite lacking physical evidence and an anonymous tip implicating a different man, the prosecutor has charged Daniel K. with the burglary.
+[S2]
+**35**
+
+The likelihood has dropped significantly because the primary eyewitness identification of Daniel is now uncertain, and a bus driver placed alternate suspect Ivo P. near the scene just minutes before the burglary.
+
+A hooded individual burglarized a bicycle shop on 1 March. Daniel K. was initially charged based on area phone data, an inconsistent alibi, a matching jacket, and a photo ID. However, the case against Daniel has weakened because the eyewitness admitted uncertainty during the line-up. Furthermore, an anonymous tip implicated another man, Ivo P., and a new witness placed Ivo near the scene at 22:05, which Ivo admits.
+[S3]
+**40**
+
+While the court's order to investigate alternate suspect Ivo P. casts significant doubt, Daniel remains a viable suspect because his lawyer's claim that he cannot ride a bicycle was contradicted by a witness.
+
+**Summary:**
+A bicycle shop was burglarized on 1 March by a hooded individual who fled on a bicycle. Daniel K. was charged based on area phone data, an inconsistent alibi, and a matching jacket, though the primary eyewitness identification later proved unreliable. Another suspect, Ivo P., was placed near the scene just before the crime. Daniel’s lawyer claimed Daniel cannot ride a bike, but a witness refuted this, and the court is now investigating Ivo's movements.
+[R1]
+On 14 March 2026, when the prosecutor charged Daniel K., the evidence against him consisted of:
+
+* **Phone location data:** Cell tower data placed Daniel's phone within 1 km of the burglarized shop between 21:00 and 23:00 on the night of the crime.
+* **Inconsistent alibi:** Daniel initially claimed he was at his friend Marta's flat all evening. However, Marta stated he left around 21:30, after which Daniel changed his story to say he left at 22:30.
+* **Matching clothing:** A dark hooded jacket—matching the description of the burglar given by a neighbor—was found in Daniel's flat.
+* **Eyewitness identification:** Witness B (a passer-by) picked Daniel K. out of a photo line-up as the person seen near the shop.
+* **Physical description match:** Witness C and CCTV footage established the suspect was a male between 170–180 cm tall, which aligned with Witness B identifying Daniel.
+
+*(Note: The prosecutor also had reports of an unverified anonymous tip implicating another man, Ivo P., and forensic reports showing no fingerprints were left by the burglar.)*
+[R2]
+As of 10 March 2026, there was no recorded uncertainty regarding Witness B's identification, as he had simply picked Daniel K. from a photo line-up on 9 March. It was not until 20 March that Witness B admitted he was actually uncertain and had only chosen the person who looked most similar.
+[R3]
+No. As of 12 March, there was only an unverified anonymous tip claiming Ivo P. was the burglar, but no actual evidence or witness sighting placed him at the scene. It was not until 25 March that a bus driver provided an eyewitness account placing Ivo near the shop.
+
+run5:
+[S1]
+**60.** While Daniel K. was identified by a witness in a line-up and provided an inconsistent alibi, the evidence is largely circumstantial since his phone only places him within a broad 1-km radius and an anonymous tip names an alternative suspect.
+
+**Summary of known facts:**
+A bicycle shop was burgled on 1 March by someone wearing a dark hooded jacket. Daniel K. was charged on 14 March after his phone was tracked within 1 km of the scene, he gave an inconsistent alibi, a witness identified him in a photo line-up, and a matching jacket was found in his flat. However, there is no physical evidence tying him to the scene, and an unverified anonymous tip implicated a different man, Ivo P.
+[S2]
+**35.** The likelihood decreases significantly because the key eyewitness expressed uncertainty about their line-up identification, and an alternative suspect, Ivo P., was placed at the scene just minutes before the burglary.
+
+**Summary of known facts:**
+A bicycle shop was burgled on 1 March. Daniel K. was charged based on nearby phone data, a weak alibi, a common jacket, and a photo line-up. However, the identifying witness has since admitted uncertainty. Meanwhile, an alternative suspect, Ivo P., previously named in an anonymous tip, was placed near the scene at 22:05 by a bus driver. Ivo admits to being there but claims he was just passing by on his way home.
+[S3]
+**30.** The likelihood drops slightly further because the court has shifted investigative focus toward the alternative suspect Ivo P., while the new CCTV evidence of the burglar fleeing on a bicycle only yielded conflicting claims about Daniel's ability to ride.
+
+**Summary of known facts:**
+A bicycle shop was burgled on 1 March by someone who fled on a bicycle. Daniel K. was charged based on circumstantial evidence—including an inconsistent alibi, a weak witness ID, and nearby phone data. His lawyer claims Daniel cannot ride a bike, though police dispute this. Meanwhile, a second suspect, Ivo P., was placed at the scene just minutes before the crime, prompting the court to postpone Daniel's hearing to investigate Ivo further.
+[R1]
+Based on the notes up to 14 March 2026, the prosecutor had the following evidence against Daniel K. when charging him:
+
+* **Phone Location Data:** His phone was placed within 1 km of the bicycle shop between 21:00 and 23:00 on the night of the burglary.
+* **Inconsistent Alibi:** Daniel claimed he left his friend Marta's flat at 22:30, but Marta stated she thought he left earlier, around 21:30.
+* **Physical Evidence:** A dark hooded jacket, matching the description of the clothing worn by the burglar, was found in his flat.
+* **Eyewitness Identification:** Witness B picked Daniel K. out of a photo line-up.
+* **General Description:** He presumably matched the general description given by witnesses and CCTV of a male, approximately 170–180 cm tall. (Note: Forensic evidence did not explicitly link him, as no fingerprints were found and traces suggested the burglar wore gloves).
+[R2]
+As of 10 March 2026, there was no recorded uncertainty regarding Witness B's identification. The notes up to that date simply state that on 9 March, he picked Daniel K. out of a photo line-up without expressing any doubts.
+[R3]
+No.
+
+As of 12 March, the only mention of Ivo P. was an unverified anonymous tip claiming he was the burglar. The actual witness statement specifically placing him near the street on the night of the crime did not emerge until 25 March.
+
+run1_WIde:
+[S1]
+**75/100.** The combination of an inconsistent alibi covering the exact time of the break-in, cell tower proximity, witness identification, and a matching jacket creates a strong circumstantial case against Daniel K., though the lack of physical evidence prevents absolute certainty.
+
+**Case Summary:**
+
+* **The Crime:** A bicycle shop was broken into on 1 March around 22:10 by a person wearing a dark hooded jacket, described by most witnesses and blurry CCTV as a man approximately 170–180 cm tall.
+* **The Suspect:** Daniel K. was identified by one witness in a photo line-up, owns a matching (though common) jacket, and his phone data placed him within a 1 km radius of the shop during the window of the burglary.
+* **The Alibi:** Daniel provided conflicting statements regarding his whereabouts, claiming he left a friend's apartment at 22:30, while the friend stated he left much earlier, around 21:30.
+* **Current Status:** Despite the absence of fingerprints at the scene and an unverified anonymous tip pointing to a different man named Ivo P., the prosecutor has officially charged Daniel K. with the burglary based on the available circumstantial evidence.
+[S2]
+**40/100.** The probability has decreased significantly because the sole eyewitness identification of Daniel K. was admitted to be uncertain, while an alternative suspect (Ivo P.) has now been placed at the scene just five minutes before the burglary.
+
+**Case Summary:**
+
+* **The Crime:** A bicycle shop on Linden Street was broken into on 1 March at around 22:10 by a man in a dark hooded jacket, roughly 170–180 cm tall.
+* **Daniel K. (Charged):** Initially charged based on circumstantial evidence—phone data within 1 km, a matching but common jacket, an inconsistent alibi, and a photo line-up identification. However, the case against him weakened after the identifying witness (Witness B) admitted he was not certain and only picked the most similar photo.
+* **Ivo P. (New Suspect):** An earlier anonymous tip naming Ivo P. gained credibility when a bus driver reported seeing him near Linden Street at 22:05 on the night of the crime; Ivo P. confirmed he was there but claims he was simply walking home.
+[S3]
+**45/100.** The probability rises slightly because a demonstrably false claim by Daniel K.'s defense regarding his inability to ride a bicycle further damages his credibility, even though the court has officially ordered an investigation into the alternative suspect.
+
+**Case Summary:**
+
+* **The Crime:** A bicycle shop on Linden Street was broken into on 1 March at 22:10 by a man wearing a dark hooded jacket (approx. 170–180 cm tall), who was later seen on CCTV fleeing the scene on a bicycle at 22:15.
+* **Daniel K. (Charged):** Initially charged based on a matching jacket, cell phone proximity, a since-retracted eyewitness identification, and a conflicting alibi. His defense team's recent claim that he cannot ride a bicycle was quickly contradicted by a neighbor who saw him riding one in 2025.
+* **Ivo P. (Alternative Suspect):** First named in an anonymous tip, Ivo P. was confirmed by a bus driver to be near the crime scene at 22:05; he claims he was just walking home, but the court has postponed Daniel K.'s hearing to officially investigate Ivo P.'s movements.
+[R1]
+Based on the case notes up to March 14, 2026, the prosecutor had the following evidence against Daniel K.:
+
+* **Cell Phone Location Data:** His phone was recorded within 1 km of the bicycle shop during the time window of the burglary (between 21:00 and 23:00).
+* **Inconsistent Alibi:** Daniel claimed he was at his friend Marta's flat until 22:30, while Marta stated he left around 21:30 (before the 22:10 break-in).
+* **Physical Evidence:** A dark hooded jacket, matching the description of the burglar's clothing provided by witnesses, was found in his flat.
+* **Eyewitness Identification:** Witness B identified Daniel K. from a police photo line-up as the person seen near the shop.
+* **Lack of Exculpatory Forensics:** While no fingerprints were found, forensics suggested the burglar wore gloves, which did not rule him out.
+[R2]
+As of 10 March 2026, Witness B's identification appeared definitive on the record, as he had picked Daniel K. from a photo line-up the day before without any noted hesitation. It was not until 20 March that Witness B officially admitted he was uncertain and had merely chosen the most similar-looking person.
+[R3]
+No. As of 12 March, there was only an unverified anonymous tip naming Ivo P. as the burglar, but no concrete evidence or witness statement placing him physically at the scene. The eyewitness account from the bus driver placing him near the shop was not reported to police until 25 March.
+[R4]
+No. The notes only establish that a person was seen leaving on a bicycle, not definitively that this person was the burglar, as cited in the note: "2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible."
+
+run2_WIde:
+[S1]
+**Likelihood: 70**
+While circumstantial evidence, an inconsistent alibi, and a positive witness identification strongly implicate Daniel K., the lack of physical evidence and an unverified tip pointing to another suspect leave room for doubt.
+
+**Summary of the Case So Far:**
+
+* **The Crime:** A bicycle shop was burglarized on March 1 at 22:10 by a person wearing a dark hooded jacket.
+* **The Suspect:** Daniel K. matches the general height described by witnesses and CCTV (170–180 cm), owns a dark hooded jacket, and was picked out of a photo line-up by a witness. His phone was also pinged within 1 km of the crime scene.
+* **The Alibi:** Daniel claims he was at his friend Marta's flat until 22:30, but Marta stated he left around 21:30, leaving him without an alibi for the time of the break-in.
+* **Complicating Factors:** No physical evidence ties Daniel to the scene (the burglar likely wore gloves), the jacket is a common brand, the phone data covers a wide residential area, and an anonymous tip named another man, Ivo P.
+* **Status:** Based on the witness ID and circumstantial evidence, the prosecutor has charged Daniel K. with the burglary.
+[S2]
+**Likelihood: 35**
+The probability of Daniel K. being the burglar has dropped significantly now that the primary eyewitness admitted uncertainty and an alternative suspect, Ivo P., has been independently placed at the scene just minutes before the crime.
+
+**Summary of the Case So Far:**
+
+* **The Crime & Physical Evidence:** A bicycle shop was burglarized on March 1 at 22:10 by a person wearing a dark hooded jacket (roughly 170–180 cm tall). No fingerprints were found at the scene.
+* **The Case Against Daniel K.:** Daniel K. is currently charged with the burglary. He lacks a solid alibi for the time of the crime, his phone pinged within 1 km of the shop, and he owns a dark hooded jacket.
+* **Witness Testimony:** The initial eyewitness case has degraded. Witness A walked back her certainty about the suspect's gender, and Witness B recently admitted he was not certain when picking Daniel K. out of the photo line-up.
+* **The Alternative Suspect:** An anonymous tip previously named Ivo P. as the burglar. A bus driver has now placed Ivo P. near the shop at 22:05 (five minutes before the break-in), and Ivo P. admits to being in the area at that time.
+[S3]
+**Likelihood: 30**
+The probability remains low, as the court's decision to postpone the hearing indicates serious judicial consideration of the alternative suspect, Ivo P., even though Daniel K.'s defense was undermined by a witness contradicting his claim that he cannot ride a bicycle.
+
+**Summary of the Case So Far:**
+
+* **The Crime:** A bicycle shop on Linden Street was broken into on March 1 at 22:10. The suspect, wearing a dark hooded jacket, was caught on a second CCTV camera fleeing the scene on a bicycle at 22:15.
+* **The Case Against Daniel K.:** Daniel K. is charged with the burglary based on his lack of an alibi, his phone pinging in the area, his ownership of a similar jacket, and a shaky eyewitness identification. His lawyer's recent claim that Daniel cannot ride a bicycle was contradicted by a neighbour who saw him riding one in 2025.
+* **The Eyewitnesses:** The eyewitness evidence is extremely weak. The CCTV is blurry, the initial witness withdrew her certainty about the suspect's gender, and the witness who picked Daniel out of a photo line-up admitted he was guessing.
+* **The Alternative Suspect:** Ivo P. was named in an anonymous tip, placed at the scene at 22:05 by a bus driver, and admitted to being in the area. The court has now paused proceedings against Daniel K. to formally investigate Ivo P.'s movements on the night of the crime.
+[R1]
+The prosecutor based the 14 March 2026 charge against Daniel K. on the following evidence:
+
+* **Eyewitness identification:** Witness B picked Daniel K. from a police photo line-up.
+* **Inconsistent alibi:** Daniel claimed he stayed at his friend Marta's flat until 22:30, but Marta stated he left at about 21:30, leaving him without an alibi for the 22:10 break-in.
+* **Location data:** Phone records placed Daniel's phone within 1 km of the bicycle shop between 21:00 and 23:00.
+* **Clothing match:** A dark hooded jacket, matching the description of the garment worn by the burglar, was found in Daniel's flat.
+* **Physical description:** CCTV and multiple witness accounts described a suspect approximately 170–180 cm tall, which aligned with Daniel.
+* **Forensic context:** Traces suggested the burglar wore gloves, explaining the lack of Daniel's fingerprints at the scene.
+[R2]
+As of 10 March 2026, the case notes do not reflect any uncertainty regarding Witness B's identification, recording only that he picked Daniel K. from a photo line-up on 9 March. It was not until 20 March that Witness B admitted he had been uncertain and simply chose the person who looked most similar.
+[R3]
+No. As of 12 March, there was only an unverified anonymous tip naming Ivo P. as the burglar. It wasn't until 25 March that a bus driver provided an eyewitness account actually placing him near the shop around the time of the incident.
+[R4]
+No. The notes do not definitively establish this, as the note from 2026-04-02 10:20 only states: "A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible," meaning it is not confirmed that this person was the burglar.
+
+
+run3_WIde:
+[S1]
+**65:** Daniel K. is a strong suspect due to his conflicting alibi, presence in the general area, and a positive witness identification, but the evidence is primarily circumstantial and an alternative suspect has been named.
+
+**Summary of the case so far:**
+A bicycle shop was burglarized on March 1 at approximately 22:10 by an individual in a dark hooded jacket, whom most witnesses and CCTV indicate is a 170–180 cm tall male. Daniel K. was charged with the crime after his phone pinged within 1 km of the shop, a passer-by identified him in a photo line-up, and his friend Marta contradicted his alibi by stating he left her apartment at 21:30 rather than 22:30. Despite the charges, there is no physical evidence tying Daniel K. to the scene, his dark hooded jacket is a common brand, and an unverified anonymous tip identified another man, Ivo P., as the burglar.
+[S2]
+**35:** The likelihood of Daniel K.'s presence has significantly decreased because the sole positive witness identification was revealed to be uncertain, and an alternative suspect was confirmed to be near the scene just before the burglary.
+
+**Summary of the case so far:**
+A bicycle shop was burglarized on March 1 at 22:10 by an individual in a dark hooded jacket, initially believed to be Daniel K. based on circumstantial location data, a contradicted alibi, and a photo line-up identification. Daniel K. was charged with the crime, but the case against him has weakened significantly after Witness B admitted uncertainty regarding the photo line-up. Meanwhile, suspicion has shifted toward an alternative suspect, Ivo P., who was named in an anonymous tip and later placed near the crime scene at 22:05 by a bus driver—a location Ivo P. admits to passing through on his way home.[S3]
+**30:** The likelihood remains low because, although police refuted Daniel K.'s claim that he cannot ride the getaway bicycle, the court's decision to delay the hearing to investigate the alternative suspect, Ivo P., indicates significant doubts about Daniel's guilt.
+
+**Summary of the case so far:**
+A bicycle shop was burglarized on March 1 at 22:10 by a hooded individual who subsequently fled on a bicycle. Daniel K. was charged with the crime based on circumstantial location data, a contradicted alibi, and a very uncertain photo line-up identification. While Daniel's defense that he cannot ride a bike was contradicted by a neighbor, the case against him appears to be stalling. Suspicion is increasingly shifting toward Ivo P., who was named in an anonymous tip and placed near the scene at 22:05, prompting the court to postpone Daniel K.'s hearing to investigate Ivo's movements.
+[R1]
+Based on the case notes up to March 14, 2026, the prosecutor had the following evidence against Daniel K. when charging him:
+
+* **Phone Location Data:** Daniel K.'s phone was registered within 1 km of the burglarized shop between 21:00 and 23:00 on the night of the crime (the burglary occurred at approximately 22:10).
+* **Inconsistent Alibi:** Daniel K. initially claimed he was at his friend Marta's flat all evening, but Marta stated he left around 21:30. Daniel later changed his story, claiming he left at 22:30.
+* **Witness Identification:** Witness B (a passer-by) picked Daniel K. out of a police photo line-up.
+* **Matching Clothing:** A dark hooded jacket—matching the clothing worn by the burglar as seen by Witness A and Witness B—was found in Daniel K.'s flat.
+* **Forensic Context:** While there were no fingerprints found at the scene, forensic traces suggested the burglar wore gloves, which accounted for the lack of direct physical evidence against Daniel.
+[R2]
+As of 10 March 2026, Witness B's identification appeared to be a certain, positive match, as the record only showed that he had picked Daniel K. from a photo line-up the day before. Witness B did not reveal his uncertainty and admit to just picking the "most similar" person until March 20.
+[R3]
+No. While an unverified anonymous tip on 11 March named Ivo P. as the burglar, there was no specific evidence placing him near the scene at that time. Actual evidence of his physical presence near the shop did not emerge until 25 March, when a bus driver reported seeing him there.
+[R4]
+No. The notes establish only that a person left on a bicycle, not definitively the burglar, as stated in the note: "2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible."
+
+
+run4_WIde:
+[S1]
+**70** — While there is no physical evidence placing Daniel K. at the scene, his conflicting alibi, proximity to the area, possession of a matching jacket, and a positive witness identification make it reasonably likely he was there.
+
+**Summary of Stage 1:**
+
+* **The Crime:** A bicycle shop was burglarised on 1 March at 22:10 by someone wearing a dark hooded jacket, described by most witnesses and CCTV as a 170–180 cm tall male.
+* **The Suspect:** Daniel K. was charged after his phone was tracked within 1 km of the shop during the time of the burglary and Witness B identified him in a photo line-up.
+* **The Evidence:** Police found a common dark hooded jacket in Daniel's flat, and his alibi is inconsistent (he claims he left his friend Marta's flat at 22:30, but she states he left at 21:30).
+* **The Caveats:** Forensics found no fingerprints (gloves were likely used), the phone data covers a broad residential area, and an unverified anonymous tip named another man, "Ivo P."
+[S2]
+**35** — The likelihood has decreased significantly because the only witness to identify Daniel K. admitted to being uncertain, while an alternative suspect, Ivo P., was placed near the scene just minutes before the burglary.
+
+**Summary of Stages 1 and 2:**
+
+* **The Crime:** A bicycle shop was burglarised on 1 March at 22:10 by a suspect wearing a dark hooded jacket.
+* **Daniel K.'s Case Weakens:** Daniel was initially charged based on a disputed alibi, cell phone proximity, possessing a common dark jacket, and a photo line-up identification. However, the case against him weakened after Witness B admitted he was not certain of his identification.
+* **Alternative Suspect:** Ivo P., who was previously named in an anonymous tip, was seen near the shop at 22:05 by a bus driver. Ivo confirmed he was in the area but claims he was simply walking home.
+[S3]
+**30** — While police debunked the defense's claim that Daniel cannot ride a bicycle, no new evidence directly ties him to the scene, and the court's decision to actively investigate the alternative suspect further diminishes the case against Daniel.
+
+**Summary of Stages 1 to 3:**
+
+* **The Crime:** A bicycle shop was burglarised on 1 March at 22:10 by a hooded male who, according to new CCTV footage, likely fled the scene on a bicycle at 22:15.
+* **The Case against Daniel K.:** Daniel was charged based on an inconsistent alibi, cell phone proximity, and a common dark jacket, but the case weakened when the sole eyewitness retracted his certain identification. His lawyer recently attempted to clear him by claiming Daniel cannot ride a bicycle, but police found a witness who saw him riding one in 2025.
+* **The Alternative Suspect:** Ivo P., who was placed near the shop just five minutes before the break-in, has become a primary person of interest, prompting the court to postpone Daniel's hearing to investigate Ivo's movements.
+[R1]
+On 14 March 2026, the prosecutor had the following evidence against Daniel K.:
+
+* **Witness Identification:** Witness B selected Daniel K. from a photo line-up on 9 March.
+* **Cell Phone Proximity:** Phone data placed Daniel K.'s phone within 1 km of the shop during the time of the burglary (between 21:00 and 23:00).
+* **Inconsistent Alibi:** Daniel claimed he left his friend Marta's flat at 22:30, but Marta stated he left around 21:30.
+* **Matching Clothing:** A dark hooded jacket, matching the description of the burglar's clothing, was found in Daniel K.'s flat.
+
+The prosecutor also had forensic reports noting a lack of fingerprints (suggesting the use of gloves), blurry CCTV footage of the suspect, and an unverified anonymous tip naming another man, Ivo P.
+[R2]
+As of 10 March 2026, Witness B's identification appeared definitive, as he had picked Daniel K. from a photo line-up the day prior with no recorded doubts. It was not until 20 March that the witness admitted to being uncertain and simply choosing the most similar-looking person.
+[R3]
+No.
+
+As of 12 March 2026, the only link to Ivo P. was an unverified anonymous tip claiming he was the burglar. The actual evidence physically placing him near the shop—a witness sighting by a bus driver—was not obtained until 25 March.
+[R4]
+No. The note from 2026-04-02 10:20 states, "A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible," meaning it is highly suggestive but not definitively established that this person was the burglar.
+
+run5_WIde:
+[S1]
+75
+
+While there is no physical evidence placing him directly inside the shop, his inconsistent alibi, proximity to the scene, matching clothing, and positive witness identification strongly point to his presence.
+
+**Summary of the Case So Far**
+On 1 March at 22:10, a bicycle shop was burgled by an individual wearing a dark hooded jacket. Witnesses and CCTV generally describe the suspect as a man around 175 cm tall. Daniel K. became the prime suspect and was formally charged on 14 March due to a convergence of circumstantial evidence: his phone data placed him within 1 km of the scene, his alibi regarding what time he left a friend's house contradicted his friend's statement, police found a matching jacket in his apartment, and a witness identified him in a photo line-up. However, the case lacks direct forensic evidence, and an unverified anonymous tip implicated a different man named Ivo P.
+[S2]
+35
+
+The likelihood has decreased significantly because the primary witness identification is now uncertain and a new, tip-corroborated suspect (Ivo P.) was placed near the scene just minutes before the break-in.
+
+**Summary of the Case So Far**
+A bicycle shop was burgled on 1 March at 22:10 by a person wearing a dark hooded jacket, generally described by witnesses and blurry CCTV as a man around 175 cm tall. Daniel K. was initially charged based on circumstantial evidence: his phone was in the area, he had an inconsistent alibi regarding when he left a friend's house, he owned a similar common jacket, and Witness B picked him from a photo line-up. However, the case has recently shifted: Witness B admitted he was not certain of his identification, and an alternate suspect, Ivo P. (originally named in an anonymous tip), was seen by a bus driver near the shop at 22:05 and admits he was in the area. No forensic evidence links Daniel K. to the scene.
+[S3]
+30
+
+The likelihood remains low as the court is shifting its focus to the alternate suspect, though the dispute over Daniel's ability to ride a bicycle—the method the burglar used to flee—keeps him under suspicion.
+
+**Summary of the Case So Far**
+A bicycle shop was broken into on 1 March at 22:10 by a suspect wearing a dark hooded jacket who later fled the scene on a bicycle. Daniel K. was initially charged based on circumstantial evidence: his phone was within 1 km of the scene, his alibi was inconsistent, he owned a similar jacket, and a witness tentatively identified him (though later recanted). The case against Daniel has weakened due to the lack of forensic evidence, the witness walking back their identification, and a dispute between his lawyer and police over whether he can even ride a bicycle. Meanwhile, an alternate suspect, Ivo P., was placed near the scene just minutes before the break-in, prompting the court to postpone Daniel's hearing to investigate Ivo's movements.
+[R1]
+The evidence available to the prosecutor on 14 March 2026 included cellular data, an inconsistent alibi, matching clothing, witness identification, and neutral forensics.
+
+* **Cellular location data**: Daniel K.'s phone was tracked to within 1 km of the bicycle shop between 21:00 and 23:00 on the night of the break-in.
+* **Inconsistent alibis**: Daniel initially claimed he watched football at his friend Marta's flat all evening, later stating he left at 22:30, while Marta testified he left around 21:30.
+* **Matching clothing**: A dark hooded jacket, matching the description of the outerwear worn by the burglar, was recovered from Daniel's apartment.
+* **Photo line-up**: Witness B selected Daniel K. from a police photo line-up on 9 March.
+* **Forensics**: Crime scene investigators found no fingerprints belonging to Daniel K. at the shop, with traces indicating the perpetrator wore gloves.
+[R2]
+As of 10 March 2026, Witness B's identification appeared certain and unqualified. The police notes from that time simply state that he picked Daniel K. from a photo line-up, with no mention of any doubt or hesitation.
+[R3]
+No.
+
+The only mention of Ivo P. by 12 March was an unverified anonymous tip claiming he was the burglar. Actual evidence physically placing him near the shop did not emerge until 25 March, when a bus driver reported seeing him in the area.
+[R4]
+No.
+
+The notes only establish that a person was seen leaving on a bicycle, not definitively the burglar, as stated in the note from 2026-04-02 10:20: "A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible."

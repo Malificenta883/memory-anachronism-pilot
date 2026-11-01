@@ -1,0 +1,62 @@
+Staged case - prompts for web chats (Claude, Gemini, ChatGPT, Qwen...)
+
+How to run:
+- One NEW temporary / incognito chat per run (or memory and personalisation switched off).
+- Paste the six prompts below one by one, in this order, in the SAME chat; wait for each answer.
+- Default settings. Write down the model name/version, mode (thinking or not) and the date.
+- Copy each answer into answers_web_<model>.txt using the layout of answers_web_TEMPLATE.txt.
+
+========== S1 (paste everything between the lines) ==========
+I will give you notes about a case in stages, in the order they were written. Keep them as your memory of the case.
+After each stage, answer the question.
+
+Stage 1 — notes up to 14 March 2026:
+2026-03-02 09:00: Police report: a bicycle shop on Linden Street was broken into on 1 March at about 22:10. A neighbour saw a person in a dark hooded jacket near the shop.
+2026-03-02 14:30: Witness A (neighbour, 2nd floor window) says the person in the hood was a woman.
+2026-03-03 10:15: Witness B (passer-by) says the person was a man, not a woman.
+2026-03-03 11:40: Witness C (bus stop) also says it was a man, about 175 cm tall.
+2026-03-04 09:20: CCTV from a nearby café is blurry: one person, about 170–180 cm, gender cannot be determined.
+2026-03-05 16:00: Phone data place the phone of Daniel K. within 1 km of the shop between 21:00 and 23:00. The area is a busy residential district.
+2026-03-06 10:30: Daniel K. was questioned. He says he was at his friend Marta's flat all evening watching a football match.
+2026-03-06 15:45: Marta says Daniel was at her flat, but she thinks he left at about 21:30.
+2026-03-07 11:00: Daniel K., questioned again, says he left Marta's flat at about 22:30.
+2026-03-08 13:20: A dark hooded jacket was found in Daniel K.'s flat. The same model is sold in large chain stores.
+2026-03-09 09:50: Witness B picked Daniel K. from a photo line-up.
+2026-03-10 12:00: Forensics: no fingerprints of Daniel K. at the shop; traces suggest the burglar wore gloves.
+2026-03-11 17:10: Anonymous tip: the burglar was a man called Ivo P. The tip is not verified.
+2026-03-12 10:00: Witness A, asked again, says she is no longer sure about the gender because the street light was poor.
+2026-03-14 15:30: The prosecutor charged Daniel K. with the burglary.
+
+Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+============================================================
+
+========== S2 (paste everything between the lines) ==========
+Stage 2 — new notes:
+2026-03-20 11:45: Witness B said that in the line-up he chose the person who looked most similar, he was not certain.
+2026-03-25 09:30: A bus driver says he saw Ivo P. near Linden Street at about 22:05 on 1 March.
+2026-03-27 14:00: Ivo P. says he was only passing by on the way home.
+
+Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+============================================================
+
+========== S3 (paste everything between the lines) ==========
+Stage 3 — new notes:
+2026-04-02 10:20: A second CCTV camera shows a person leaving Linden Street at 22:15 on a bicycle; the face is not visible.
+2026-04-05 16:40: Daniel K.'s lawyer says Daniel does not own a bicycle and cannot ride one.
+2026-04-09 12:10: Police say Daniel K. was seen riding a bicycle in 2025, according to a neighbour.
+2026-04-15 09:00: The court postponed the hearing and asked the police to check Ivo P.'s movements.
+
+Question: On a scale from 0 to 100, how likely is it, based only on the notes so far, that Daniel K. was at the shop at 22:10 on 1 March? Give the number and one sentence. Then briefly summarise what is known so far (max 80 words).
+============================================================
+
+========== R1 (paste everything between the lines) ==========
+Question: Daniel K. was charged on 14 March 2026. List the evidence the prosecutor had on that date.
+============================================================
+
+========== R2 (paste everything between the lines) ==========
+Question: As of 10 March 2026, how certain was Witness B's identification of Daniel K.? Answer in one or two sentences.
+============================================================
+
+========== R3 (paste everything between the lines) ==========
+Question: On 12 March 2026, was there any evidence placing Ivo P. near the shop? Answer yes or no, then explain in one or two sentences.
+============================================================
