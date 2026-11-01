@@ -1,6 +1,6 @@
 # What was known, and when: memory anachronism in LLM agents (pilot)
 
-*Marharyta Shvets · Eötvös Loránd University (ELTE), Budapest · October 2026 · first phase*
+*Marharyta Shvets · Eötvös Loránd University (ELTE), Budapest · November 2026 · first phase*
 
 Errors in investigations cost innocent people years of their lives. The National Registry of Exonerations
 lists over 3,000 wrongful convictions in the USA, and mistaken identification is among the most common
